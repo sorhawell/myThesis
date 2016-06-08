@@ -1,0 +1,82 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{anyt/global/}
+    \entry{adams1980hitchhiker}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a1340ce3daa99823346adaeab80ed549}{%
+           family={Adams},
+           family_i={A\bibinitperiod},
+           given={Douglas},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harmony Books}%
+      }
+      \strng{namehash}{a1340ce3daa99823346adaeab80ed549}
+      \strng{fullhash}{a1340ce3daa99823346adaeab80ed549}
+      \field{labelalpha}{Ada80}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780517542095}
+      \field{series}{Hitchhiker's Guide to the Galaxy Series}
+      \field{title}{The hitchhiker's guide to the galaxy}
+      \field{year}{1980}
+    \endentry
+    \entry{rfc2549}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9b1ffd6a0bcb854c5b0ee7b85db87149}{%
+           family={Waitzman},
+           family_i={W\bibinitperiod},
+           given={D.},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Internet Engineering Task Force}%
+      }
+      \list{publisher}{1}{%
+        {IETF}%
+      }
+      \strng{namehash}{9b1ffd6a0bcb854c5b0ee7b85db87149}
+      \strng{fullhash}{9b1ffd6a0bcb854c5b0ee7b85db87149}
+      \field{labelalpha}{Wai99}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{RFC 2549 (Informational)}
+      \field{month}{04}
+      \field{number}{2549}
+      \field{series}{Request for Comments}
+      \field{title}{{IP over Avian Carriers with Quality of Service}}
+      \field{urlday}{31}
+      \field{urlmonth}{09}
+      \field{urlyear}{2014}
+      \field{year}{1999}
+      \verb{url}
+      \verb http://www.ietf.org/rfc/rfc2549.txt
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
