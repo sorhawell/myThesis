@@ -690,6 +690,56 @@
       \field{pages}{251\bibrangedash 258}
       \range{pages}{8}
     \endentry
+    \entry{johnson2015keeping}{article}{}
+      \name{author}{6}{}{%
+        {{hash=31f742a5b053b87075864e190265f04c}{%
+           family={Johnson},
+           family_i={J\bibinitperiod},
+           given={Gareth},
+           given_i={G\bibinitperiod}}}%
+        {{hash=410bee929a547d6f41854be68e21a1e3}{%
+           family={Rowlett},
+           family_i={R\bibinitperiod},
+           given={Tania},
+           given_i={T\bibinitperiod}}}%
+        {{hash=b8d943259dc669b5867b95407ad8f99d}{%
+           family={Melocha},
+           family_i={M\bibinitperiod},
+           given={Rob},
+           given_i={R\bibinitperiod}}}%
+        {{hash=da304d01029220e6e49761ab0733e4db}{%
+           family={Dodgson},
+           family_i={D\bibinitperiod},
+           given={Brett},
+           given_i={B\bibinitperiod}}}%
+        {{hash=080fd0ae863785422c18f14ba4a7084a}{%
+           family={Pujals},
+           family_i={P\bibinitperiod},
+           given={Michael},
+           given_i={M\bibinitperiod}}}%
+        {{hash=909dfc34771cb18ac5a4d33467c5978f}{%
+           family={Schut},
+           family_i={S\bibinitperiod},
+           given={Alan},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{publisher}{5}{%
+        {Originally written by Gareth Johnson, Tania Rowlett}%
+        {Rob Melocha for the University of Leicester}%
+        {has adapted}%
+        {for Dominican University of California by Michael Pujals}%
+        {Alan Schut. Originial version available at http://www2. le. ac. uk/library/downloads/copyright/Keeping\% 20Your\% 20Thesis\% 20Legal}%
+      }
+      \strng{namehash}{b51664f73d96f4e7a61618f58242e468}
+      \strng{fullhash}{a1b3dd301d40a1e531d5ab75c4c052c8}
+      \field{labelalpha}{Joh+15}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Keeping Your Thesis Legal}
+      \field{year}{2015}
+    \endentry
     \entry{korytkowski2002oral}{article}{}
       \name{author}{1}{}{%
         {{hash=90477a6392979622ae5537efe8712a4d}{%

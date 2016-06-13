@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  13 JUN 2016 15:38
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  13 JUN 2016 16:16
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -1907,20 +1907,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \openout2 = `frontmatter/Preface.aux'.
 
  (frontmatter/Preface.tex
-
-LaTeX Warning: Reference `johnson2015keeping' on page iii undefined on input li
-ne 4.
-
 File: graphics/Signature.pdf Graphic file (type QTm)
-<use  "graphics/Signature.pdf" >) [3
+ <use  "graphics/Signature.pdf" >) [3
 
 
 
 ]
 \openout2 = `frontmatter/Acknowledgements.aux'.
 
- (frontmatter/Acknowledgements.tex
-[4
+
+(frontmatter/Acknowledgements.tex [4
 
 
 
@@ -1932,7 +1928,8 @@ Package cleveref Info: loaded `english' language definitions on input line 3.
 LaTeX Font Info:    Font shape `EU1/texgyreadventor(0)/bx/n' will be
 (Font)              scaled to size 9.60004pt on input line 5.
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 5.
- ("C:\progs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+
+("C:\progs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 5.
@@ -3260,9 +3257,6 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 43.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 43.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
@@ -3271,12 +3265,12 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 43.
  ) 
 Here is how much of TeX's memory you used:
- 49404 strings out of 428410
- 891798 string characters out of 3162139
- 1732439 words of memory out of 3000000
- 52091 multiletter control sequences out of 15000+200000
+ 49405 strings out of 428410
+ 891866 string characters out of 3162139
+ 1733684 words of memory out of 3000000
+ 52092 multiletter control sequences out of 15000+200000
  98984 words of font info for 105 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 62i,19n,78p,10445b,7111s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,19n,78p,10445b,7120s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on Thesis.pdf (150 pages).
