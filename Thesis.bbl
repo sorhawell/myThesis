@@ -42,6 +42,843 @@
       \field{title}{The hitchhiker's guide to the galaxy}
       \field{year}{1980}
     \endentry
+    \entry{aguiree2013idf}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=938994fb1e79790127a147a1dd2e0575}{%
+           family={Aguiree},
+           family_i={A\bibinitperiod},
+           given={Florencia},
+           given_i={F\bibinitperiod}}}%
+        {{hash=439b6636ad683ccf265ce8159132050f}{%
+           family={Brown},
+           family_i={B\bibinitperiod},
+           given={Alex},
+           given_i={A\bibinitperiod}}}%
+        {{hash=deece446eb5c747440af413b0b820388}{%
+           family={Cho},
+           family_i={C\bibinitperiod},
+           given={Nam\bibnamedelima Ho},
+           given_i={N\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=e47adb95b51ee5af9d3465757e810e58}{%
+           family={Dahlquist},
+           family_i={D\bibinitperiod},
+           given={Gisela},
+           given_i={G\bibinitperiod}}}%
+        {{hash=05c4230491e23c32f2f893da9100d898}{%
+           family={Dodd},
+           family_i={D\bibinitperiod},
+           given={Sheree},
+           given_i={S\bibinitperiod}}}%
+        {{hash=bfe20a994cb7505f52069a3ef5df5503}{%
+           family={Dunning},
+           family_i={D\bibinitperiod},
+           given={Trisha},
+           given_i={T\bibinitperiod}}}%
+        {{hash=5401ff8c6c87e0a85e1d1ef089b96ebc}{%
+           family={Hirst},
+           family_i={H\bibinitperiod},
+           given={Michael},
+           given_i={M\bibinitperiod}}}%
+        {{hash=10c1b8b1e179b456df3e7caa6f89a151}{%
+           family={Hwang},
+           family_i={H\bibinitperiod},
+           given={Christopher},
+           given_i={C\bibinitperiod}}}%
+        {{hash=4b6d1a50f938786efb9db79bb7c9494a}{%
+           family={Magliano},
+           family_i={M\bibinitperiod},
+           given={Dianna},
+           given_i={D\bibinitperiod}}}%
+        {{hash=19103a6db919c7c041c82fa306b20730}{%
+           family={Patterson},
+           family_i={P\bibinitperiod},
+           given={Chris},
+           given_i={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {International Diabetes Federation}%
+      }
+      \strng{namehash}{8f7a5e98a18dbfa2a836f9a8aec43707}
+      \strng{fullhash}{ad82ce26bf16f6f3ae4f360f143ae52f}
+      \field{labelalpha}{Agu+13}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{IDF diabetes atlas}
+      \field{year}{2013}
+    \endentry
+    \entry{aguirre2016current}{article}{}
+      \name{author}{6}{}{%
+        {{hash=92423e60596bbeaf6cbc5f1b4220c3c6}{%
+           family={Aguirre},
+           family_i={A\bibinitperiod},
+           given={TAS},
+           given_i={T\bibinitperiod}}}%
+        {{hash=43f646afffd2a5a90d8222d80dc13dc0}{%
+           family={Teijeiro-Osorio},
+           family_i={T\bibinithyphendelim O\bibinitperiod},
+           given={D},
+           given_i={D\bibinitperiod}}}%
+        {{hash=42021f9a775eba8d02bf42c39772851e}{%
+           family={Rosa},
+           family_i={R\bibinitperiod},
+           given={M},
+           given_i={M\bibinitperiod}}}%
+        {{hash=921aa6554536be231dfa0661485f22f7}{%
+           family={Coulter},
+           family_i={C\bibinitperiod},
+           given={IS},
+           given_i={I\bibinitperiod}}}%
+        {{hash=2da604f155085c2bb75474b2507e3303}{%
+           family={Alonso},
+           family_i={A\bibinitperiod},
+           given={MJ},
+           given_i={M\bibinitperiod}}}%
+        {{hash=ead609e26fb04698b0af71883d8810c8}{%
+           family={Brayden},
+           family_i={B\bibinitperiod},
+           given={DJ},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{91bd57c267eb8b37e12d69bd12166054}
+      \strng{fullhash}{a7bee13460c8acb32ebd54922304cf95}
+      \field{labelalpha}{Agu+16}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advanced drug delivery reviews}
+      \field{title}{Current status of selected oral peptide technologies in advanced preclinical development and in clinical trials}
+      \field{year}{2016}
+    \endentry
+    \entry{bruno2013basics}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a17ae7972663ec1ba66037f4dfe2ca48}{%
+           family={Bruno},
+           family_i={B\bibinitperiod},
+           given={Benjamin\bibnamedelima J},
+           given_i={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=698bf55bb59f11584faebce0356b7295}{%
+           family={Miller},
+           family_i={M\bibinitperiod},
+           given={Geoffrey\bibnamedelima D},
+           given_i={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=c50585eb9888673ef49ae21a614f0c26}{%
+           family={Lim},
+           family_i={L\bibinitperiod},
+           given={Carol\bibnamedelima S},
+           given_i={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Future Science}%
+      }
+      \strng{namehash}{16834f147f6018c9eeba62e5b09028fc}
+      \strng{fullhash}{16834f147f6018c9eeba62e5b09028fc}
+      \field{labelalpha}{BML13}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Therapeutic delivery}
+      \field{number}{11}
+      \field{title}{Basics and recent advances in peptide and protein drug delivery}
+      \field{volume}{4}
+      \field{year}{2013}
+      \field{pages}{1443\bibrangedash 1467}
+      \range{pages}{25}
+    \endentry
+    \entry{boussageon2011effect}{article}{}
+      \name{author}{10}{}{%
+        {{hash=dd5410f46f0cda2fc66224cdf912ab7d}{%
+           family={Boussageon},
+           family_i={B\bibinitperiod},
+           given={Rémy},
+           given_i={R\bibinitperiod}}}%
+        {{hash=472c64ce02095be87c70ee47878a5035}{%
+           family={Bejan-Angoulvant},
+           family_i={B\bibinithyphendelim A\bibinitperiod},
+           given={Theodora},
+           given_i={T\bibinitperiod}}}%
+        {{hash=9a3b4cbd89c212d040ea3910938f9ffb}{%
+           family={Saadatian-Elahi},
+           family_i={S\bibinithyphendelim E\bibinitperiod},
+           given={Mitra},
+           given_i={M\bibinitperiod}}}%
+        {{hash=a1f71aa55d9720b2805798691737bfb9}{%
+           family={Lafont},
+           family_i={L\bibinitperiod},
+           given={Sandrine},
+           given_i={S\bibinitperiod}}}%
+        {{hash=6927b62ad74378a0d40bd3d7a619f679}{%
+           family={Bergeonneau},
+           family_i={B\bibinitperiod},
+           given={Claire},
+           given_i={C\bibinitperiod}}}%
+        {{hash=b23d0583130e0e602d7975c301f8775c}{%
+           family={Kassaı̈},
+           family_i={K\bibinitperiod},
+           given={Behrouz},
+           given_i={B\bibinitperiod}}}%
+        {{hash=c10c27e169dc0adac0b8f60a3160c600}{%
+           family={Erpeldinger},
+           family_i={E\bibinitperiod},
+           given={Sylvie},
+           given_i={S\bibinitperiod}}}%
+        {{hash=f11a860392d1ad21689038ab22a43b65}{%
+           family={Wright},
+           family_i={W\bibinitperiod},
+           given={James\bibnamedelima M},
+           given_i={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=cff1f3d58a565554bb1b3a6b6e7c957c}{%
+           family={Gueyffier},
+           family_i={G\bibinitperiod},
+           given={François},
+           given_i={F\bibinitperiod}}}%
+        {{hash=7d550a7a0dc9e53e4b4b81767989329d}{%
+           family={Cornu},
+           family_i={C\bibinitperiod},
+           given={Catherine},
+           given_i={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {British Medical Journal Publishing Group}%
+      }
+      \strng{namehash}{ac2deb6b39a7f3b843fa29e4b148be0d}
+      \strng{fullhash}{4c88254d2f59d3424878abd09c6300db}
+      \field{labelalpha}{Bou+11}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bmj}
+      \field{title}{Effect of intensive glucose lowering treatment on all cause mortality, cardiovascular death, and microvascular events in type 2 diabetes: meta-analysis of randomised controlled trials}
+      \field{volume}{343}
+      \field{year}{2011}
+      \field{pages}{d4169}
+      \range{pages}{1}
+    \endentry
+    \entry{caumo2004first}{article}{}
+      \name{author}{2}{}{%
+        {{hash=85cbd636120a7982780ab594e9d9eb5e}{%
+           family={Caumo},
+           family_i={C\bibinitperiod},
+           given={Andrea},
+           given_i={A\bibinitperiod}}}%
+        {{hash=d2bf00d15a9b97d74d07933f423e6441}{%
+           family={Luzi},
+           family_i={L\bibinitperiod},
+           given={Livio},
+           given_i={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Am Physiological Soc}%
+      }
+      \strng{namehash}{d254fcd23e26e73c12f84c318dd12c2b}
+      \strng{fullhash}{d254fcd23e26e73c12f84c318dd12c2b}
+      \field{labelalpha}{CL04}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Physiology-Endocrinology And Metabolism}
+      \field{number}{3}
+      \field{title}{First-phase insulin secretion: does it exist in real life? Considerations on shape and function}
+      \field{volume}{287}
+      \field{year}{2004}
+      \field{pages}{E371\bibrangedash E385}
+      \range{pages}{-1}
+    \endentry
+    \entry{carino1999oral}{article}{}
+      \name{author}{2}{}{%
+        {{hash=91cb02c7a4ab53bc91a14e3cffa1ea74}{%
+           family={Carino},
+           family_i={C\bibinitperiod},
+           given={Gerardo\bibnamedelima P},
+           given_i={G\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=52a5606ef050810ad9d11bc703afebbb}{%
+           family={Mathiowitz},
+           family_i={M\bibinitperiod},
+           given={Edith},
+           given_i={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e5e7e33a9c47725ea35d39aa250ceafc}
+      \strng{fullhash}{e5e7e33a9c47725ea35d39aa250ceafc}
+      \field{labelalpha}{CM99}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advanced drug delivery reviews}
+      \field{number}{2}
+      \field{title}{Oral insulin delivery}
+      \field{volume}{35}
+      \field{year}{1999}
+      \field{pages}{249\bibrangedash 257}
+      \range{pages}{9}
+    \endentry
+    \entry{corvilain1995effect}{article}{}
+      \name{author}{7}{}{%
+        {{hash=2f55ab8c67c37973843f75b3d83b5aaf}{%
+           family={Corvilain},
+           family_i={C\bibinitperiod},
+           given={Bernard},
+           given_i={B\bibinitperiod}}}%
+        {{hash=08d0e00e42b611234ab6cda8de18dec1}{%
+           family={Abramowicz},
+           family_i={A\bibinitperiod},
+           given={Marc},
+           given_i={M\bibinitperiod}}}%
+        {{hash=0bc2c78fe21e0004fdec8b5064ac5218}{%
+           family={Fery},
+           family_i={F\bibinitperiod},
+           given={Françoise},
+           given_i={F\bibinitperiod}}}%
+        {{hash=5bfd2f864e7f18e64e4efd14c251c9dd}{%
+           family={Schoutens},
+           family_i={S\bibinitperiod},
+           given={A},
+           given_i={A\bibinitperiod}}}%
+        {{hash=3ebe51d05d09e8c011f23dd98168393b}{%
+           family={Verlinden},
+           family_i={V\bibinitperiod},
+           given={Marleen},
+           given_i={M\bibinitperiod}}}%
+        {{hash=9fb048200f2f387138805b83a00e7019}{%
+           family={Balasse},
+           family_i={B\bibinitperiod},
+           given={Edmond},
+           given_i={E\bibinitperiod}}}%
+        {{hash=4669ff5cdf66696b39f9448f22562d73}{%
+           family={Horowitz},
+           family_i={H\bibinitperiod},
+           given={M},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Am Physiological Soc}%
+      }
+      \strng{namehash}{b4243b0806539bbc85439f00c13c5157}
+      \strng{fullhash}{62bd4f1703c46d8b59e8c22875ebe3e6}
+      \field{labelalpha}{Cor+95}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Physiology-Gastrointestinal and Liver Physiology}
+      \field{number}{4}
+      \field{title}{Effect of short-term starvation on gastric emptying in humans: relationship to oral glucose tolerance}
+      \field{volume}{269}
+      \field{year}{1995}
+      \field{pages}{G512\bibrangedash G517}
+      \range{pages}{-1}
+    \endentry
+    \entry{Cowart1990}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=e71d89445713dec967252346614ddacb}{%
+           family={Cowart\bibnamedelima SL},
+           family_i={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Stachura\bibnamedelima ME},
+           given_i={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=f71a3dd728b1dd739e847268fc9fa444}{%
+           family={Walker\bibnamedelima HK},
+           family_i={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+           suffix={Hall\bibnamedelima WD},
+           suffix_i={H\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Hurst\bibnamedelima JW},
+           given_i={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston}%
+      }
+      \list{publisher}{1}{%
+        {Butterworths}%
+      }
+      \strng{namehash}{e71d89445713dec967252346614ddacb}
+      \strng{fullhash}{e71d89445713dec967252346614ddacb}
+      \field{labelalpha}{Cow90}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Clinical Methods: The History, Physical, and Laboratory Examinations. 3rd Edition}
+      \field{chapter}{139}
+      \field{title}{Glucosuria}
+      \field{year}{1990}
+    \endentry
+    \entry{fujii1985promoting}{article}{}
+      \name{author}{5}{}{%
+        {{hash=972ec0800ddbc521547ec2755e4013a8}{%
+           family={FUJII},
+           family_i={F\bibinitperiod},
+           given={SETSURO},
+           given_i={S\bibinitperiod}}}%
+        {{hash=faa9f9c7d65156f5859da3731e510dea}{%
+           family={YOKOYAMA},
+           family_i={Y\bibinitperiod},
+           given={TORU},
+           given_i={T\bibinitperiod}}}%
+        {{hash=064671c88ef0c4815f07155ee69af816}{%
+           family={IKEGAYA},
+           family_i={I\bibinitperiod},
+           given={KOJI},
+           given_i={K\bibinitperiod}}}%
+        {{hash=b5904c8caeb3e40028f92b770cbd20d2}{%
+           family={SATO},
+           family_i={S\bibinitperiod},
+           given={FUMIYASU},
+           given_i={F\bibinitperiod}}}%
+        {{hash=8678d0b021d882ee104d85a4f925565b}{%
+           family={YOKOO},
+           family_i={Y\bibinitperiod},
+           given={NOBUO},
+           given_i={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{97086bf53af814c1cbe1530c57f7e52a}
+      \strng{fullhash}{8b53d5d76f6fe08d6fb54ff92aa6e92d}
+      \field{labelalpha}{FUJ+85}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of pharmacy and pharmacology}
+      \field{number}{8}
+      \field{title}{Promoting effect of the new chymotrypsin inhibitor FK-448 on the intestinal absorption of insulin in rats and dogs}
+      \field{volume}{37}
+      \field{year}{1985}
+      \field{pages}{545\bibrangedash 549}
+      \range{pages}{5}
+    \endentry
+    \entry{gabor2010improving}{incollection}{}
+      \name{author}{5}{}{%
+        {{hash=b1ae021afeae09e5e04d9a85bffeb0ab}{%
+           family={Gabor},
+           family_i={G\bibinitperiod},
+           given={Franz},
+           given_i={F\bibinitperiod}}}%
+        {{hash=db5e0acd0b46cd6be2783793cd0a9ed5}{%
+           family={Fillafer},
+           family_i={F\bibinitperiod},
+           given={Christian},
+           given_i={C\bibinitperiod}}}%
+        {{hash=3c20b7e4bc5c2c319670acb8ffce1042}{%
+           family={Neutsch},
+           family_i={N\bibinitperiod},
+           given={Lukas},
+           given_i={L\bibinitperiod}}}%
+        {{hash=aba92c052de2cbbe99b2b96f3f97e40f}{%
+           family={Ratzinger},
+           family_i={R\bibinitperiod},
+           given={Gerda},
+           given_i={G\bibinitperiod}}}%
+        {{hash=eb97ee4f50bccbec2e1ca9a9d8d58985}{%
+           family={Wirth},
+           family_i={W\bibinitperiod},
+           given={Michael},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{e3dc16905823b28711accd4934da2cfb}
+      \strng{fullhash}{57dfe79556816f5b5fa81f6e532943a0}
+      \field{labelalpha}{Gab+10}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Drug Delivery}
+      \field{title}{Improving oral delivery}
+      \field{year}{2010}
+      \field{pages}{345\bibrangedash 398}
+      \range{pages}{54}
+    \endentry
+    \entry{gaede2008effect}{article}{}
+      \name{author}{4}{}{%
+        {{hash=cced223597b9cfaec466634701750416}{%
+           family={G{æ}de},
+           family_i={G\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+        {{hash=f273a6badb0f97125d499b7420391643}{%
+           family={Lund-Andersen},
+           family_i={L\bibinithyphendelim A\bibinitperiod},
+           given={Henrik},
+           given_i={H\bibinitperiod}}}%
+        {{hash=841d288f15a0f53d759b5c679ed0710e}{%
+           family={Parving},
+           family_i={P\bibinitperiod},
+           given={Hans-Henrik},
+           given_i={H\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=fd3e0f78051510ce9d18a9419b8237ec}{%
+           family={Pedersen},
+           family_i={P\bibinitperiod},
+           given={Oluf},
+           given_i={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Mass Medical Soc}%
+      }
+      \strng{namehash}{329a3814a17ee0c3cd9cc876782d8ace}
+      \strng{fullhash}{2ece0b99116823fb1feae7547ffe1fd4}
+      \field{labelalpha}{Gæd+08}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New England Journal of Medicine}
+      \field{number}{6}
+      \field{title}{Effect of a multifactorial intervention on mortality in type 2 diabetes}
+      \field{volume}{358}
+      \field{year}{2008}
+      \field{pages}{580\bibrangedash 591}
+      \range{pages}{12}
+    \endentry
+    \entry{garcia2013adherence}{article}{}
+      \name{author}{5}{}{%
+        {{hash=2f51cf2cebeeecf6b2eaef45867b8a52}{%
+           family={Garcı́a-Pérez},
+           family_i={G\bibinithyphendelim P\bibinitperiod},
+           given={Luis-Emilio},
+           given_i={L\bibinithyphendelim E\bibinitperiod}}}%
+        {{hash=13a0829a7e729934e6dcdfeca7917ab9}{%
+           family={Álvarez},
+           family_i={Á\bibinitperiod},
+           given={Marı́a},
+           given_i={M\bibinitperiod}}}%
+        {{hash=12735c1eea5231b6e412c7ef482051dd}{%
+           family={Dilla},
+           family_i={D\bibinitperiod},
+           given={Tatiana},
+           given_i={T\bibinitperiod}}}%
+        {{hash=9ee4e13b416eb3cf7f488398ab85ee40}{%
+           family={Gil-Guillén},
+           family_i={G\bibinithyphendelim G\bibinitperiod},
+           given={Vicente},
+           given_i={V\bibinitperiod}}}%
+        {{hash=97d52262c2d57f25b5821c37bc264801}{%
+           family={Orozco-Beltrán},
+           family_i={O\bibinithyphendelim B\bibinitperiod},
+           given={Domingo},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{7e1b3cb732614f32820e08317c033da9}
+      \strng{fullhash}{721f6187b6733bca829e3da68a0267df}
+      \field{labelalpha}{Gar+13}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Diabetes Therapy}
+      \field{number}{2}
+      \field{title}{Adherence to therapies in patients with type 2 diabetes}
+      \field{volume}{4}
+      \field{year}{2013}
+      \field{pages}{175\bibrangedash 194}
+      \range{pages}{20}
+    \endentry
+    \entry{holman}{article}{}
+      \name{author}{5}{}{%
+        {{hash=37b1a9fff796a6e48e099a1b1826bb7c}{%
+           family={Holman},
+           family_i={H\bibinitperiod},
+           given={Rury\bibnamedelima R},
+           given_i={R\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=b653f8c3ab77bbba8e4cc2cc3062fd3e}{%
+           family={Paul},
+           family_i={P\bibinitperiod},
+           given={Sanjoy\bibnamedelima K},
+           given_i={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=6630bab5ad077167badc1c69667fcd61}{%
+           family={Bethel},
+           family_i={B\bibinitperiod},
+           given={M\bibnamedelima Angelyn},
+           given_i={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ac95c0d42096a31fe3ca129024c8ba2f}{%
+           family={Matthews},
+           family_i={M\bibinitperiod},
+           given={David\bibnamedelima R},
+           given_i={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=85ba5369661eae2a5779b0593dbccd59}{%
+           family={Neil},
+           family_i={N\bibinitperiod},
+           given={H\bibnamedelima Andrew\bibnamedelima W},
+           given_i={H\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Mass Medical Soc}%
+      }
+      \strng{namehash}{8a3542fe8dae492ddffe8f5dd7d4187e}
+      \strng{fullhash}{c795095207fa735632e7f15a9bafdf67}
+      \field{labelalpha}{Hol+08}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New England Journal of Medicine}
+      \field{number}{15}
+      \field{title}{10-year follow-up of intensive glucose control in type 2 diabetes}
+      \field{volume}{359}
+      \field{year}{2008}
+      \field{pages}{1577\bibrangedash 1589}
+      \range{pages}{13}
+    \endentry
+    \entry{Elbert2014rates}{article}{}
+      \name{author}{6}{}{%
+        {{hash=9812beb93c7d7ef5b470b70055dde0db}{%
+           family={Huang},
+           family_i={H\bibinitperiod},
+           given={Elbert\bibnamedelima S},
+           given_i={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=14135b1d4d432b69d92a2d0175fb422f}{%
+           family={Laiteerapong},
+           family_i={L\bibinitperiod},
+           given={Neda},
+           given_i={N\bibinitperiod}}}%
+        {{hash=d4a45a9be8027a4f666279dee731681c}{%
+           family={Liu},
+           family_i={L\bibinitperiod},
+           given={Jennifer\bibnamedelima Y},
+           given_i={J\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=111ff8d5a49a93f29588393d2754aa7b}{%
+           family={John},
+           family_i={J\bibinitperiod},
+           given={Priya\bibnamedelima M},
+           given_i={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=04dfdbc3c7086318117c8f16cc264a6d}{%
+           family={Moffet},
+           family_i={M\bibinitperiod},
+           given={Howard\bibnamedelima H},
+           given_i={H\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=33c4e5992ac356790d54aaf3c12be8b9}{%
+           family={Karter},
+           family_i={K\bibinitperiod},
+           given={Andrew\bibnamedelima J},
+           given_i={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Medical Association}%
+      }
+      \strng{namehash}{cdfc6723c936ba9e1a70252fb8088ac9}
+      \strng{fullhash}{ab9cd66515f959d657e6bc9a87423cec}
+      \field{labelalpha}{Hua+14}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JAMA internal medicine}
+      \field{number}{2}
+      \field{title}{Rates of complications and mortality in older patients with diabetes mellitus: the diabetes and aging study}
+      \field{volume}{174}
+      \field{year}{2014}
+      \field{pages}{251\bibrangedash 258}
+      \range{pages}{8}
+    \endentry
+    \entry{korytkowski2002oral}{article}{}
+      \name{author}{1}{}{%
+        {{hash=90477a6392979622ae5537efe8712a4d}{%
+           family={Korytkowski},
+           family_i={K\bibinitperiod},
+           given={M},
+           given_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{90477a6392979622ae5537efe8712a4d}
+      \strng{fullhash}{90477a6392979622ae5537efe8712a4d}
+      \field{labelalpha}{Kor02}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Obesity \& Related Metabolic Disorders}
+      \field{title}{When oral agents fail: practical barriers to starting insulin.}
+      \field{volume}{26}
+      \field{year}{2002}
+    \endentry
+    \entry{maher2014formulation}{article}{}
+      \name{author}{4}{}{%
+        {{hash=dcddd7e9bd2a7babba72fa420ccee6f7}{%
+           family={Maher},
+           family_i={M\bibinitperiod},
+           given={Sam},
+           given_i={S\bibinitperiod}}}%
+        {{hash=9279c51b30f53234fc87ccfdd8b49f73}{%
+           family={Ryan},
+           family_i={R\bibinitperiod},
+           given={Ben},
+           given_i={B\bibinitperiod}}}%
+        {{hash=5a32d1f78d49664a69a10da1b9c59fc6}{%
+           family={Duffy},
+           family_i={D\bibinitperiod},
+           given={Aoife},
+           given_i={A\bibinitperiod}}}%
+        {{hash=e57e7b6cadbd44ad82985c1e48851648}{%
+           family={Brayden},
+           family_i={B\bibinitperiod},
+           given={David\bibnamedelima J},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Future Science}%
+      }
+      \strng{namehash}{4f4737f784bf8a8ec71354eada54b129}
+      \strng{fullhash}{6cd70017ac95119159fb3ce647b68725}
+      \field{labelalpha}{Mah+14}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pharmaceutical patent analyst}
+      \field{number}{3}
+      \field{title}{Formulation strategies to improve oral peptide delivery}
+      \field{volume}{3}
+      \field{year}{2014}
+      \field{pages}{313\bibrangedash 336}
+      \range{pages}{24}
+    \endentry
+    \entry{nawroth2011liposome}{article}{}
+      \name{author}{5}{}{%
+        {{hash=a1d2e636851c2050d1529aa1d1ae55d2}{%
+           family={Nawroth},
+           family_i={N\bibinitperiod},
+           given={Thomas},
+           given_i={T\bibinitperiod}}}%
+        {{hash=3a1613c04b58a9d9062f7e3c17f0681e}{%
+           family={Buch},
+           family_i={B\bibinitperiod},
+           given={Philipp},
+           given_i={P\bibinitperiod}}}%
+        {{hash=08f59b8171abc4e7d662c21726fe5558}{%
+           family={Buch},
+           family_i={B\bibinitperiod},
+           given={Karl},
+           given_i={K\bibinitperiod}}}%
+        {{hash=1adb62168f762217483cfd511294b750}{%
+           family={Langguth},
+           family_i={L\bibinitperiod},
+           given={Peter},
+           given_i={P\bibinitperiod}}}%
+        {{hash=08cc6ba2f8b3c80d4347c2d9e3ed138a}{%
+           family={Schweins},
+           family_i={S\bibinitperiod},
+           given={Ralf},
+           given_i={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{6d1670db7916ac143035820b27cd60bf}
+      \strng{fullhash}{f8a1748ff86f6269d371728d09958692}
+      \field{labelalpha}{Naw+11}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecular pharmaceutics}
+      \field{number}{6}
+      \field{title}{Liposome formation from bile salt--lipid micelles in the digestion and drug delivery model fassifmod estimated by combined time-resolved neutron and dynamic light scattering}
+      \field{volume}{8}
+      \field{year}{2011}
+      \field{pages}{2162\bibrangedash 2172}
+      \range{pages}{11}
+    \endentry
+    \entry{silverthorn2010human}{book}{}
+      \name{author}{1}{}{%
+        {{hash=948980dde5ec9b4edcba1e995633bc1d}{%
+           family={Silverthorn},
+           family_i={S\bibinitperiod},
+           given={Dee},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco}%
+      }
+      \list{publisher}{1}{%
+        {Pearson/Benjamin Cummings}%
+      }
+      \strng{namehash}{948980dde5ec9b4edcba1e995633bc1d}
+      \strng{fullhash}{948980dde5ec9b4edcba1e995633bc1d}
+      \field{labelalpha}{Sil10}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-321-55980-7}
+      \field{title}{Human physiology : an integrated approach}
+      \field{year}{2010}
+    \endentry
+    \entry{tozer2006introduction}{book}{}
+      \name{author}{2}{}{%
+        {{hash=e648fae53745006ff102b7d79e8fa8ce}{%
+           family={Tozer},
+           family_i={T\bibinitperiod},
+           given={Thomas\bibnamedelima N},
+           given_i={T\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=d1ca63cb4995ba0cfd71f5f1563b6b77}{%
+           family={Rowland},
+           family_i={R\bibinitperiod},
+           given={Malcolm},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Lippincott Williams \& Wilkins}%
+      }
+      \strng{namehash}{ebacf2b2c1061b97b2cc253575541ee2}
+      \strng{fullhash}{ebacf2b2c1061b97b2cc253575541ee2}
+      \field{labelalpha}{TR06}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to pharmacokinetics and pharmacodynamics: the quantitative basis of drug therapy}
+      \field{year}{2006}
+    \endentry
+    \entry{tippin2008biorelevant}{article}{}
+      \name{author}{2}{}{%
+        {{hash=67484abb4bbe39f2d3bf319c0f0b9dad}{%
+           family={Tippin},
+           family_i={T\bibinitperiod},
+           given={Timothy\bibnamedelima K},
+           given_i={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=acc755a7b48cda9f04be8dd561e311bb}{%
+           family={Thakker},
+           family_i={T\bibinitperiod},
+           given={Dhiren\bibnamedelima R},
+           given_i={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{8df3878f58a7193b07468ca1e97a3be8}
+      \strng{fullhash}{8df3878f58a7193b07468ca1e97a3be8}
+      \field{labelalpha}{TT08}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of pharmaceutical sciences}
+      \field{number}{5}
+      \field{title}{Biorelevant refinement of the Caco-2 cell culture model to assess efficacy of paracellular permeability enhancers}
+      \field{volume}{97}
+      \field{year}{2008}
+      \field{pages}{1977\bibrangedash 1992}
+      \range{pages}{16}
+    \endentry
     \entry{rfc2549}{misc}{}
       \name{author}{1}{}{%
         {{hash=9b1ffd6a0bcb854c5b0ee7b85db87149}{%
@@ -75,6 +912,63 @@
       \verb{url}
       \verb http://www.ietf.org/rfc/rfc2549.txt
       \endverb
+    \endentry
+    \entry{welling2014citric}{article}{}
+      \name{author}{6}{}{%
+        {{hash=3ead32097c8b54cb701a25948abf7750}{%
+           family={Welling},
+           family_i={W\bibinitperiod},
+           given={Søren\bibnamedelima H.},
+           given_i={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=40fc5ea0b96d5397e765a92655447922}{%
+           family={Hubálek},
+           family_i={H\bibinitperiod},
+           given={František},
+           given_i={F\bibinitperiod}}}%
+        {{hash=59021e08712cbbad1af1953077b0af13}{%
+           family={Jacobsen},
+           family_i={J\bibinitperiod},
+           given={Jette},
+           given_i={J\bibinitperiod}}}%
+        {{hash=aa5ea2ad61275fb49ed4bb7672abba40}{%
+           family={Brayden},
+           family_i={B\bibinitperiod},
+           given={David\bibnamedelima J.},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a9fbed2cf1f60e144da9865183cb2ff4}{%
+           family={Rahbek},
+           family_i={R\bibinitperiod},
+           given={Ulrik\bibnamedelima L.},
+           given_i={U\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=514071582b07f68b08e04576a541aca6}{%
+           family={Buckley},
+           family_i={B\bibinitperiod},
+           given={Stephen\bibnamedelima T.},
+           given_i={S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{9a386a1c37cd72a0078034d84c56828b}
+      \strng{fullhash}{7501d8446945ccb8501454958f57cde2}
+      \field{labelalpha}{Wel+14}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract The excipient citric acid (CA) has been reported to improve oral absorption of peptides by different mechanisms. The balance between its related properties of calcium chelation and permeation enhancement compared to a proteolysis inhibition was examined. A predictive model of CA’s calcium chelation activity was developed and verified experimentally using an ion-selective electrode. The effects of CA, its salt (citrate, Cit) and the established permeation enhancer, lauroyl carnitine chloride (LCC) were compared by measuring transepithelial electrical resistance (TEER) and permeability of insulin and \{FD4\} across Caco-2 monolayers and rat small intestinal mucosae mounted in Ussing chambers. Proteolytic degradation of insulin was determined in rat luminal extracts across a range of pH values in the presence of CA. CA’s capacity to chelate calcium decreased ∼10-fold for each pH unit moving from pH 6 to pH 3. \{CA\} was an inferior weak permeation enhancer compared to \{LCC\} in both in vitro models using physiological buffers. At pH 4.5 however, degradation of insulin in rat luminal extracts was significantly inhibited in the presence of 10 mM CA. The capacity of \{CA\} to chelate luminal calcium does not occur significantly at the acidic pH values where it effectively inhibits proteolysis, which is its dominant action in oral peptide formulations. On account of insulin’s low basal permeability, inclusion of alternative permeation enhancers is likely to be necessary to achieve sufficient oral bioavailability since this is a weak property of CA.}
+      \field{issn}{0939-6411}
+      \field{journaltitle}{European Journal of Pharmaceutics and Biopharmaceutics}
+      \field{number}{3}
+      \field{title}{The role of citric acid in oral peptide and protein formulations: Relationship between calcium chelation and proteolysis inhibition}
+      \field{volume}{86}
+      \field{year}{2014}
+      \field{pages}{544\bibrangedash 551}
+      \range{pages}{8}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.ejpb.2013.12.017
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0939641113003998
+      \endverb
+      \keyw{Insulin}
     \endentry
   \endsortlist
 \endrefsection

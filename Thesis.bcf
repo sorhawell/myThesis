@@ -2098,9 +2098,48 @@
     <bcf:datasource type="file" datatype="bibtex">bibliography/Bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">adams1980hitchhiker</bcf:citekey>
-    <bcf:citekey order="2">adams1980hitchhiker</bcf:citekey>
-    <bcf:citekey order="3">rfc2549</bcf:citekey>
+    <bcf:citekey order="1">silverthorn2010human</bcf:citekey>
+    <bcf:citekey order="1">Cowart1990</bcf:citekey>
+    <bcf:citekey order="2">silverthorn2010human</bcf:citekey>
+    <bcf:citekey order="3">silverthorn2010human</bcf:citekey>
+    <bcf:citekey order="3">caumo2004first</bcf:citekey>
+    <bcf:citekey order="4">silverthorn2010human</bcf:citekey>
+    <bcf:citekey order="4">caumo2004first</bcf:citekey>
+    <bcf:citekey order="5">aguiree2013idf</bcf:citekey>
+    <bcf:citekey order="6">holman</bcf:citekey>
+    <bcf:citekey order="6">boussageon2011effect</bcf:citekey>
+    <bcf:citekey order="6">gaede2008effect</bcf:citekey>
+    <bcf:citekey order="7">korytkowski2002oral</bcf:citekey>
+    <bcf:citekey order="8">Elbert2014rates</bcf:citekey>
+    <bcf:citekey order="9">garcia2013adherence</bcf:citekey>
+    <bcf:citekey order="10">garcia2013adherence</bcf:citekey>
+    <bcf:citekey order="11">maher2014formulation</bcf:citekey>
+    <bcf:citekey order="12">carino1999oral</bcf:citekey>
+    <bcf:citekey order="12">gabor2010improving</bcf:citekey>
+    <bcf:citekey order="13">maher2014formulation</bcf:citekey>
+    <bcf:citekey order="14">silverthorn2010human</bcf:citekey>
+    <bcf:citekey order="14">corvilain1995effect</bcf:citekey>
+    <bcf:citekey order="14">gabor2010improving</bcf:citekey>
+    <bcf:citekey order="15">welling2014citric</bcf:citekey>
+    <bcf:citekey order="16">aguirre2016current</bcf:citekey>
+    <bcf:citekey order="17">aguirre2016current</bcf:citekey>
+    <bcf:citekey order="18">maher2014formulation</bcf:citekey>
+    <bcf:citekey order="19">gabor2010improving</bcf:citekey>
+    <bcf:citekey order="20">tozer2006introduction</bcf:citekey>
+    <bcf:citekey order="21">fujii1985promoting</bcf:citekey>
+    <bcf:citekey order="22">bruno2013basics</bcf:citekey>
+    <bcf:citekey order="23">welling2014citric</bcf:citekey>
+    <bcf:citekey order="24">bruno2013basics</bcf:citekey>
+    <bcf:citekey order="25">aguiree2013idf</bcf:citekey>
+    <bcf:citekey order="26">bruno2013basics</bcf:citekey>
+    <bcf:citekey order="27">bruno2013basics</bcf:citekey>
+    <bcf:citekey order="28">tippin2008biorelevant</bcf:citekey>
+    <bcf:citekey order="28">nawroth2011liposome</bcf:citekey>
+    <bcf:citekey order="29">tippin2008biorelevant</bcf:citekey>
+    <bcf:citekey order="29">nawroth2011liposome</bcf:citekey>
+    <bcf:citekey order="30">adams1980hitchhiker</bcf:citekey>
+    <bcf:citekey order="31">adams1980hitchhiker</bcf:citekey>
+    <bcf:citekey order="32">rfc2549</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="anyt/global/" type="entry" sortscheme="anyt" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
