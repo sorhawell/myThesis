@@ -2134,13 +2134,17 @@
     <bcf:citekey order="26">aguiree2013idf</bcf:citekey>
     <bcf:citekey order="27">bruno2013basics</bcf:citekey>
     <bcf:citekey order="28">bruno2013basics</bcf:citekey>
-    <bcf:citekey order="29">tippin2008biorelevant</bcf:citekey>
-    <bcf:citekey order="29">nawroth2011liposome</bcf:citekey>
-    <bcf:citekey order="30">tippin2008biorelevant</bcf:citekey>
-    <bcf:citekey order="30">nawroth2011liposome</bcf:citekey>
-    <bcf:citekey order="31">adams1980hitchhiker</bcf:citekey>
-    <bcf:citekey order="32">adams1980hitchhiker</bcf:citekey>
-    <bcf:citekey order="33">rfc2549</bcf:citekey>
+    <bcf:citekey order="29">lee2000oral</bcf:citekey>
+    <bcf:citekey order="30">liu1999dodecylphosphocholine</bcf:citekey>
+    <bcf:citekey order="31">petersen2013colonic</bcf:citekey>
+    <bcf:citekey order="32">anderberg1993epithelial</bcf:citekey>
+    <bcf:citekey order="33">anderberg1992epithelial</bcf:citekey>
+    <bcf:citekey order="33">artursson1994effect</bcf:citekey>
+    <bcf:citekey order="34">tippin2008biorelevant</bcf:citekey>
+    <bcf:citekey order="34">nawroth2011liposome</bcf:citekey>
+    <bcf:citekey order="35">tippin2008biorelevant</bcf:citekey>
+    <bcf:citekey order="35">nawroth2011liposome</bcf:citekey>
+    <bcf:citekey order="36">rfc2549</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="anyt/global/" type="entry" sortscheme="anyt" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

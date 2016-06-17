@@ -19,28 +19,36 @@
 
 \refsection{0}
   \sortlist[entry]{anyt/global/}
-    \entry{adams1980hitchhiker}{book}{}
-      \name{author}{1}{}{%
-        {{hash=a1340ce3daa99823346adaeab80ed549}{%
-           family={Adams},
+    \entry{anderberg1993epithelial}{article}{}
+      \name{author}{2}{}{%
+        {{hash=642ad64049484935e47e73c3214ffbff}{%
+           family={Anderberg},
            family_i={A\bibinitperiod},
-           given={Douglas},
-           given_i={D\bibinitperiod}}}%
+           given={Eva\bibnamedelima Karin},
+           given_i={E\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=ed0d8a1f9f862e99f1ce888593b5f169}{%
+           family={Artursson},
+           family_i={A\bibinitperiod},
+           given={Per},
+           given_i={P\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Harmony Books}%
+        {Wiley Online Library}%
       }
-      \strng{namehash}{a1340ce3daa99823346adaeab80ed549}
-      \strng{fullhash}{a1340ce3daa99823346adaeab80ed549}
-      \field{labelalpha}{Ada80}
+      \strng{namehash}{9babbd83b8dc953f857ff232022f4742}
+      \strng{fullhash}{9babbd83b8dc953f857ff232022f4742}
+      \field{labelalpha}{AA93}
       \field{sortinit}{A}
       \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{9780517542095}
-      \field{series}{Hitchhiker's Guide to the Galaxy Series}
-      \field{title}{The hitchhiker's guide to the galaxy}
-      \field{year}{1980}
+      \field{journaltitle}{Journal of pharmaceutical sciences}
+      \field{number}{4}
+      \field{title}{Epithelial transport of drugs in cell culture. VIII: Effects of sodium dodecyl sulfate on cell membrane and tight junction permeability in human intestinal epithelial (Caco-2) cells}
+      \field{volume}{82}
+      \field{year}{1993}
+      \field{pages}{392\bibrangedash 398}
+      \range{pages}{7}
     \endentry
     \entry{aguiree2013idf}{article}{}
       \true{moreauthor}
@@ -156,6 +164,83 @@
       \field{journaltitle}{Advanced drug delivery reviews}
       \field{title}{Current status of selected oral peptide technologies in advanced preclinical development and in clinical trials}
       \field{year}{2016}
+    \endentry
+    \entry{anderberg1992epithelial}{article}{}
+      \name{author}{3}{}{%
+        {{hash=642ad64049484935e47e73c3214ffbff}{%
+           family={Anderberg},
+           family_i={A\bibinitperiod},
+           given={Eva\bibnamedelima Karin},
+           given_i={E\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=ac4c105f8715bff6d77712dbe68b1001}{%
+           family={Nyström},
+           family_i={N\bibinitperiod},
+           given={Christer},
+           given_i={C\bibinitperiod}}}%
+        {{hash=ed0d8a1f9f862e99f1ce888593b5f169}{%
+           family={Artursson},
+           family_i={A\bibinitperiod},
+           given={Per},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{a80beba7d1047c3eb0d6fe886eeedd97}
+      \strng{fullhash}{a80beba7d1047c3eb0d6fe886eeedd97}
+      \field{labelalpha}{ANA92}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of pharmaceutical sciences}
+      \field{number}{9}
+      \field{title}{Epithelial transport of drugs in cell culture. VII: Effects of pharmaceutical surfactant excipients and bile acids on transepithelial permeability in monolayers of human intestinal epithelial (Caco-2) cells}
+      \field{volume}{81}
+      \field{year}{1992}
+      \field{pages}{879\bibrangedash 887}
+      \range{pages}{9}
+    \endentry
+    \entry{artursson1994effect}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ed0d8a1f9f862e99f1ce888593b5f169}{%
+           family={Artursson},
+           family_i={A\bibinitperiod},
+           given={Per},
+           given_i={P\bibinitperiod}}}%
+        {{hash=4c560ed9e42cfd3247791c80e54eaf50}{%
+           family={Lindmark},
+           family_i={L\bibinitperiod},
+           given={Tuulikki},
+           given_i={T\bibinitperiod}}}%
+        {{hash=b80a1879c28dccc9bc1a27f22dc62567}{%
+           family={Davis},
+           family_i={D\bibinitperiod},
+           given={Stanley\bibnamedelima S},
+           given_i={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=4b810a913f1ed842161380d8f4e0ced3}{%
+           family={Illum},
+           family_i={I\bibinitperiod},
+           given={Lisbeth},
+           given_i={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{f0af557c357b5e40d73a669db2a79ac9}
+      \strng{fullhash}{9e2716131ce32c2dba76dfc070d1b748}
+      \field{labelalpha}{Art+94}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pharmaceutical research}
+      \field{number}{9}
+      \field{title}{Effect of chitosan on the permeability of monolayers of intestinal epithelial cells (Caco-2)}
+      \field{volume}{11}
+      \field{year}{1994}
+      \field{pages}{1358\bibrangedash 1361}
+      \range{pages}{4}
     \endentry
     \entry{bruno2013basics}{article}{}
       \name{author}{3}{}{%
@@ -760,6 +845,73 @@
       \field{volume}{26}
       \field{year}{2002}
     \endentry
+    \entry{liu1999dodecylphosphocholine}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7ca5618fdb8f668efe504d790d2d826b}{%
+           family={Liu},
+           family_i={L\bibinitperiod},
+           given={Dong-Zhou},
+           given_i={D\bibinithyphendelim Z\bibinitperiod}}}%
+        {{hash=18f1ddc34760323ee994ff6edaaeee17}{%
+           family={Lecluyse},
+           family_i={L\bibinitperiod},
+           given={Edward\bibnamedelima L},
+           given_i={E\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=acc755a7b48cda9f04be8dd561e311bb}{%
+           family={Thakker},
+           family_i={T\bibinitperiod},
+           given={Dhiren\bibnamedelima R},
+           given_i={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{e238fc0855bccdf9b72293f2f1b3bc67}
+      \strng{fullhash}{e238fc0855bccdf9b72293f2f1b3bc67}
+      \field{labelalpha}{LLT99}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of pharmaceutical sciences}
+      \field{number}{11}
+      \field{title}{Dodecylphosphocholine-mediated enhancement of paracellular permeability and cytotoxicity in Caco-2 cell monolayers}
+      \field{volume}{88}
+      \field{year}{1999}
+      \field{pages}{1161\bibrangedash 1168}
+      \range{pages}{8}
+    \endentry
+    \entry{lee2000oral}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4671ca1fb1c454b67697e15354be49c0}{%
+           family={Lee},
+           family_i={L\bibinitperiod},
+           given={Yong-Hee},
+           given_i={Y\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=b1bca2041c168749856c3618ebcaf0e2}{%
+           family={Sinko},
+           family_i={S\bibinitperiod},
+           given={Patrick\bibnamedelima J},
+           given_i={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a06720dc52c811a749093753b7a1ebb3}
+      \strng{fullhash}{a06720dc52c811a749093753b7a1ebb3}
+      \field{labelalpha}{LS00}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advanced drug delivery reviews}
+      \field{number}{3}
+      \field{title}{Oral delivery of salmon calcitonin}
+      \field{volume}{42}
+      \field{year}{2000}
+      \field{pages}{225\bibrangedash 238}
+      \range{pages}{14}
+    \endentry
     \entry{maher2014formulation}{article}{}
       \name{author}{4}{}{%
         {{hash=dcddd7e9bd2a7babba72fa420ccee6f7}{%
@@ -846,6 +998,52 @@
       \field{year}{2011}
       \field{pages}{2162\bibrangedash 2172}
       \range{pages}{11}
+    \endentry
+    \entry{petersen2013colonic}{article}{}
+      \name{author}{5}{}{%
+        {{hash=8aa986285fea2cafa4d209ccd469de5e}{%
+           family={Petersen},
+           family_i={P\bibinitperiod},
+           given={Signe\bibnamedelima Beck},
+           given_i={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=bca9eaf4cd40372036641313039fe5c6}{%
+           family={Nielsen},
+           family_i={N\bibinitperiod},
+           given={Lisette\bibnamedelima Gammelgaard},
+           given_i={L\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=9b433c88cb53ba1397a20af47f660032}{%
+           family={Rahbek},
+           family_i={R\bibinitperiod},
+           given={Ulrik\bibnamedelima Lytt},
+           given_i={U\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=20e3963fbaf617a161587ac1a597583a}{%
+           family={Guldbrandt},
+           family_i={G\bibinitperiod},
+           given={Mette},
+           given_i={M\bibinitperiod}}}%
+        {{hash=e57e7b6cadbd44ad82985c1e48851648}{%
+           family={Brayden},
+           family_i={B\bibinitperiod},
+           given={David\bibnamedelima J},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{cb7c9263ec8724201ab4f5ac5ce8d615}
+      \strng{fullhash}{747f9404a96f98b1f0fed5102c376980}
+      \field{labelalpha}{Pet+13}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Pharmaceutical Sciences}
+      \field{number}{4}
+      \field{title}{Colonic absorption of salmon calcitonin using tetradecyl maltoside (TDM) as a permeation enhancer}
+      \field{volume}{48}
+      \field{year}{2013}
+      \field{pages}{726\bibrangedash 734}
+      \range{pages}{9}
     \endentry
     \entry{silverthorn2010human}{book}{}
       \name{author}{1}{}{%
