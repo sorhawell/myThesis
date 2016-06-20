@@ -1,17 +1,17 @@
 [0] Config.pm:343> INFO - This is Biber 2.5
 [0] Config.pm:346> INFO - Logfile is 'Thesis.blg'
-[32] biber-MSWIN32:290> INFO - === 
-[53] Biber.pm:351> INFO - Reading 'Thesis.bcf'
-[145] Biber.pm:776> INFO - Found 29 citekeys in bib section 0
-[158] Biber.pm:3493> INFO - Processing section 0
-[176] Biber.pm:3657> INFO - Looking for bibtex format file 'bibliography/Bibliography.bib' for section 0
-[183] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
-[189] bibtex.pm:1048> INFO - Found BibTeX data source 'bibliography/Bibliography.bib'
-[249] Utils.pm:149> WARN - The field 'note' in entry 'welling2014citric' cannot be null, deleting it
-[295] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[295] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[295] Biber.pm:3306> INFO - Sorting list 'anyt/global/' of type 'entry' with scheme 'anyt' and locale 'en-US'
-[295] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
-[332] bbl.pm:526> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
-[338] bbl.pm:619> INFO - Output to Thesis.bbl
-[341] Biber.pm:108> INFO - WARNINGS: 1
+[33] biber-MSWIN32:290> INFO - === 
+[55] Biber.pm:351> INFO - Reading 'Thesis.bcf'
+[149] Biber.pm:776> INFO - Found 29 citekeys in bib section 0
+[163] Biber.pm:3493> INFO - Processing section 0
+[181] Biber.pm:3657> INFO - Looking for bibtex format file 'bibliography/Bibliography.bib' for section 0
+[188] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[194] bibtex.pm:1048> INFO - Found BibTeX data source 'bibliography/Bibliography.bib'
+[257] Utils.pm:149> WARN - The field 'note' in entry 'welling2014citric' cannot be null, deleting it
+[304] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[304] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[304] Biber.pm:3306> INFO - Sorting list 'anyt/global/' of type 'entry' with scheme 'anyt' and locale 'en-US'
+[304] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[341] bbl.pm:526> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
+[348] bbl.pm:619> INFO - Output to Thesis.bbl
+[348] Biber.pm:108> INFO - WARNINGS: 1
