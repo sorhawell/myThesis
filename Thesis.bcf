@@ -2138,14 +2138,15 @@
     <bcf:citekey order="30">liu1999dodecylphosphocholine</bcf:citekey>
     <bcf:citekey order="31">petersen2013colonic</bcf:citekey>
     <bcf:citekey order="32">anderberg1993epithelial</bcf:citekey>
-    <bcf:citekey order="33">anderberg1992epithelial</bcf:citekey>
-    <bcf:citekey order="33">artursson1994effect</bcf:citekey>
-    <bcf:citekey order="34">tippin2008biorelevant</bcf:citekey>
-    <bcf:citekey order="34">nawroth2011liposome</bcf:citekey>
+    <bcf:citekey order="33">welling2014citric</bcf:citekey>
+    <bcf:citekey order="34">anderberg1992epithelial</bcf:citekey>
+    <bcf:citekey order="34">artursson1994effect</bcf:citekey>
     <bcf:citekey order="35">tippin2008biorelevant</bcf:citekey>
     <bcf:citekey order="35">nawroth2011liposome</bcf:citekey>
-    <bcf:citekey order="36">rfc2549</bcf:citekey>
-    <bcf:citekey order="37">aguirre2016current</bcf:citekey>
+    <bcf:citekey order="36">tippin2008biorelevant</bcf:citekey>
+    <bcf:citekey order="36">nawroth2011liposome</bcf:citekey>
+    <bcf:citekey order="37">rfc2549</bcf:citekey>
+    <bcf:citekey order="38">aguirre2016current</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="anyt/global/" type="entry" sortscheme="anyt" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

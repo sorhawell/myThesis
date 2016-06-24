@@ -14,52 +14,52 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.1}Diabetes}{2}{section.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Drug Development Challanges of Oral Insulin}{4}{section.1.2}
+\contentsline {section}{\numberline {1.2}Drug Development Challanges of Oral Insulin}{5}{section.1.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.3}Studies to test peptide absorption}{7}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.1}Caco-2 monolayers}{8}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.1}Caco-2 monolayers}{9}{subsection.1.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.2}Measuring permeability}{9}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.2}Measuring permeability}{10}{subsection.1.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.3}Calculating permeability}{9}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.3}Calculating permeability}{10}{subsection.1.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {2}Long chapter $\phi \land \sigma $ title with π, very long title, and also $math = \sigma $}{13}{chapter.2}
+\contentsline {chapter}{\chapternumberline {2}Long chapter $\phi \land \sigma $ title with π, very long title, and also $math = \sigma $}{15}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {3}measureAbsorption}{15}{chapter.3}
+\contentsline {chapter}{\chapternumberline {3}measureAbsorption}{17}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {4}predictPotency}{25}{chapter.4}
+\contentsline {chapter}{\chapternumberline {4}predictPotency}{27}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {5}interpretTheForest}{37}{chapter.5}
+\contentsline {chapter}{\chapternumberline {5}interpretTheForest}{39}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {6}structureOfSolubility}{75}{chapter.6}
+\contentsline {chapter}{\chapternumberline {6}structureOfSolubility}{77}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {7}Heading on Level\xspace 0 (chapter)}{87}{chapter.7}
+\contentsline {chapter}{\chapternumberline {7}Heading on Level\xspace 0 (chapter)}{89}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Heading on Level\xspace 1 (section)}{87}{section.7.1}
+\contentsline {section}{\numberline {7.1}Heading on Level\xspace 1 (section)}{89}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1.1}Heading on Level\xspace 2 (subsection)}{87}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.1}Heading on Level\xspace 2 (subsection)}{89}{subsection.7.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.1.1.1}Heading on Level\xspace 3 (subsubsection)}{88}{subsubsection.7.1.1.1}
+\contentsline {subsubsection}{\numberline {7.1.1.1}Heading on Level\xspace 3 (subsubsection)}{90}{subsubsection.7.1.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Heading on Level\xspace 4 (paragraph)}{88}{section*.5}
+\contentsline {paragraph}{Heading on Level\xspace 4 (paragraph)}{90}{section*.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Lists}{88}{section.7.2}
+\contentsline {section}{\numberline {7.2}Lists}{90}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.1}Example for list\xspace (itemize)}{88}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.1}Example for list\xspace (itemize)}{90}{subsection.7.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.2.1.1}Example for list\xspace (4*itemize)}{88}{subsubsection.7.2.1.1}
+\contentsline {subsubsection}{\numberline {7.2.1.1}Example for list\xspace (4*itemize)}{90}{subsubsection.7.2.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.2}Example for list\xspace (enumerate)}{89}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.2}Example for list\xspace (enumerate)}{91}{subsection.7.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.2.2.1}Example for list\xspace (4*enumerate)}{89}{subsubsection.7.2.2.1}
+\contentsline {subsubsection}{\numberline {7.2.2.1}Example for list\xspace (4*enumerate)}{91}{subsubsection.7.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.3}Example for list\xspace (description)}{89}{subsection.7.2.3}
+\contentsline {subsection}{\numberline {7.2.3}Example for list\xspace (description)}{91}{subsection.7.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.2.3.1}Example for list\xspace (4*description)}{89}{subsubsection.7.2.3.1}
+\contentsline {subsubsection}{\numberline {7.2.3.1}Example for list\xspace (4*description)}{91}{subsubsection.7.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {8}Conclusion}{91}{chapter.8}
+\contentsline {chapter}{\chapternumberline {8}Conclusion}{93}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {appendix}{\chapternumberline {A}An Appendix}{93}{appendix.A}
+\contentsline {appendix}{\chapternumberline {A}An Appendix}{95}{appendix.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{133}{section*.7}
+\contentsline {chapter}{Bibliography}{135}{section*.7}
