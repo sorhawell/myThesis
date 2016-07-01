@@ -2145,8 +2145,16 @@
     <bcf:citekey order="35">nawroth2011liposome</bcf:citekey>
     <bcf:citekey order="36">tippin2008biorelevant</bcf:citekey>
     <bcf:citekey order="36">nawroth2011liposome</bcf:citekey>
-    <bcf:citekey order="37">rfc2549</bcf:citekey>
-    <bcf:citekey order="38">aguirre2016current</bcf:citekey>
+    <bcf:citekey order="37">bernkop1998use</bcf:citekey>
+    <bcf:citekey order="38">murthy1980effect</bcf:citekey>
+    <bcf:citekey order="39">welling2014citric</bcf:citekey>
+    <bcf:citekey order="40">aguirre2016current</bcf:citekey>
+    <bcf:citekey order="41">welling2016forest</bcf:citekey>
+    <bcf:citekey order="42">welling2016forest</bcf:citekey>
+    <bcf:citekey order="43">friedman2001greedy</bcf:citekey>
+    <bcf:citekey order="44">boulesteix2014letter</bcf:citekey>
+    <bcf:citekey order="45">harrell2015regression</bcf:citekey>
+    <bcf:citekey order="46">welling2016forest</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="anyt/global/" type="entry" sortscheme="anyt" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

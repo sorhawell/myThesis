@@ -242,6 +242,32 @@
       \field{pages}{1358\bibrangedash 1361}
       \range{pages}{4}
     \endentry
+    \entry{bernkop1998use}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e4b3e26a43c529eb7e5c7013f1849d52}{%
+           family={Bernkop-Schnürch},
+           family_i={B\bibinithyphendelim S\bibinitperiod},
+           given={Andreas},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e4b3e26a43c529eb7e5c7013f1849d52}
+      \strng{fullhash}{e4b3e26a43c529eb7e5c7013f1849d52}
+      \field{labelalpha}{Ber98}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of controlled release}
+      \field{number}{1}
+      \field{title}{The use of inhibitory agents to overcome the enzymatic barrier to perorally administered therapeutic peptides and proteins}
+      \field{volume}{52}
+      \field{year}{1998}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+    \endentry
     \entry{bruno2013basics}{article}{}
       \name{author}{3}{}{%
         {{hash=a17ae7972663ec1ba66037f4dfe2ca48}{%
@@ -347,6 +373,50 @@
       \field{year}{2011}
       \field{pages}{d4169}
       \range{pages}{1}
+    \endentry
+    \entry{boulesteix2014letter}{article}{}
+      \name{author}{5}{}{%
+        {{hash=e0570ef8bfff680390d873f845ba8c95}{%
+           family={Boulesteix},
+           family_i={B\bibinitperiod},
+           given={Anne-Laure},
+           given_i={A\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=8bad8fe1cc9e2a5227b097ff716430e3}{%
+           family={Janitza},
+           family_i={J\bibinitperiod},
+           given={Silke},
+           given_i={S\bibinitperiod}}}%
+        {{hash=b3606c66a4e84947ab815d86c0d39e94}{%
+           family={Hapfelmeier},
+           family_i={H\bibinitperiod},
+           given={Alexander},
+           given_i={A\bibinitperiod}}}%
+        {{hash=fde70730bdf196727fff612ba6c3a0d2}{%
+           family={Van\bibnamedelima Steen},
+           family_i={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Kristel},
+           given_i={K\bibinitperiod}}}%
+        {{hash=dd55fa9db51767783324586f58ca5e7a}{%
+           family={Strobl},
+           family_i={S\bibinitperiod},
+           given={Carolin},
+           given_i={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford Univ Press}%
+      }
+      \strng{namehash}{dbb082ba8ed5ec4404da5b05dac561fc}
+      \strng{fullhash}{d0c4296bb1627f9cde00e0724855056e}
+      \field{labelalpha}{Bou+14}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Briefings in bioinformatics}
+      \field{title}{Letter to the Editor: On the term ‘interaction’and related phrases in the literature on Random Forests}
+      \field{year}{2014}
+      \field{pages}{bbu012}
+      \range{pages}{-1}
     \endentry
     \entry{caumo2004first}{article}{}
       \name{author}{2}{}{%
@@ -500,6 +570,30 @@
       \field{chapter}{139}
       \field{title}{Glucosuria}
       \field{year}{1990}
+    \endentry
+    \entry{friedman2001greedy}{article}{}
+      \name{author}{1}{}{%
+        {{hash=35b9098abeddd115c394c7b2e7ea0264}{%
+           family={Friedman},
+           family_i={F\bibinitperiod},
+           given={Jerome\bibnamedelima H},
+           given_i={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{35b9098abeddd115c394c7b2e7ea0264}
+      \strng{fullhash}{35b9098abeddd115c394c7b2e7ea0264}
+      \field{labelalpha}{Fri01}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of statistics}
+      \field{title}{Greedy function approximation: a gradient boosting machine}
+      \field{year}{2001}
+      \field{pages}{1189\bibrangedash 1232}
+      \range{pages}{44}
     \endentry
     \entry{fujii1985promoting}{article}{}
       \name{author}{5}{}{%
@@ -677,6 +771,27 @@
       \field{year}{2013}
       \field{pages}{175\bibrangedash 194}
       \range{pages}{20}
+    \endentry
+    \entry{harrell2015regression}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1697ec242505ee7621a396a1fd69a8ed}{%
+           family={Harrell},
+           family_i={H\bibinitperiod},
+           given={Frank},
+           given_i={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{1697ec242505ee7621a396a1fd69a8ed}
+      \strng{fullhash}{1697ec242505ee7621a396a1fd69a8ed}
+      \field{labelalpha}{Har15}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Regression modeling strategies: with applications to linear models, logistic and ordinal regression, and survival analysis}
+      \field{year}{2015}
     \endentry
     \entry{holman}{article}{}
       \name{author}{5}{}{%
@@ -953,6 +1068,42 @@
       \field{pages}{313\bibrangedash 336}
       \range{pages}{24}
     \endentry
+    \entry{murthy1980effect}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5d3714da0b9b63fb5e0d8654774fd1c6}{%
+           family={Murthy},
+           family_i={M\bibinitperiod},
+           given={SNS},
+           given_i={S\bibinitperiod}}}%
+        {{hash=3b7fd6e32f936d37090b803fb23580a9}{%
+           family={Kostman},
+           family_i={K\bibinitperiod},
+           given={Jay},
+           given_i={J\bibinitperiod}}}%
+        {{hash=9ec51d115b97c31f935cfed73fda0fae}{%
+           family={Dinoso\bibnamedelima Jr},
+           family_i={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Vicente\bibnamedelima P},
+           given_i={V\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{7aeb7e4c787f9b3edf6f3d050593cbaa}
+      \strng{fullhash}{7aeb7e4c787f9b3edf6f3d050593cbaa}
+      \field{labelalpha}{MKD80}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Digestive diseases and sciences}
+      \field{number}{4}
+      \field{title}{Effect of pH, substrate, and temperature on tryptic activity of duodenal samples}
+      \field{volume}{25}
+      \field{year}{1980}
+      \field{pages}{289\bibrangedash 294}
+      \range{pages}{6}
+    \endentry
     \entry{nawroth2011liposome}{article}{}
       \name{author}{5}{}{%
         {{hash=a1d2e636851c2050d1529aa1d1ae55d2}{%
@@ -1127,40 +1278,6 @@
       \field{pages}{1977\bibrangedash 1992}
       \range{pages}{16}
     \endentry
-    \entry{rfc2549}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=9b1ffd6a0bcb854c5b0ee7b85db87149}{%
-           family={Waitzman},
-           family_i={W\bibinitperiod},
-           given={D.},
-           given_i={D\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {Internet Engineering Task Force}%
-      }
-      \list{publisher}{1}{%
-        {IETF}%
-      }
-      \strng{namehash}{9b1ffd6a0bcb854c5b0ee7b85db87149}
-      \strng{fullhash}{9b1ffd6a0bcb854c5b0ee7b85db87149}
-      \field{labelalpha}{Wai99}
-      \field{sortinit}{W}
-      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{RFC 2549 (Informational)}
-      \field{month}{04}
-      \field{number}{2549}
-      \field{series}{Request for Comments}
-      \field{title}{{IP over Avian Carriers with Quality of Service}}
-      \field{urlday}{31}
-      \field{urlmonth}{09}
-      \field{urlyear}{2014}
-      \field{year}{1999}
-      \verb{url}
-      \verb http://www.ietf.org/rfc/rfc2549.txt
-      \endverb
-    \endentry
     \entry{welling2014citric}{article}{}
       \name{author}{6}{}{%
         {{hash=3ead32097c8b54cb701a25948abf7750}{%
@@ -1217,6 +1334,40 @@
       \verb http://www.sciencedirect.com/science/article/pii/S0939641113003998
       \endverb
       \keyw{Insulin}
+    \endentry
+    \entry{welling2016forest}{article}{}
+      \name{author}{4}{}{%
+        {{hash=73a8bd993f1727db906af6a95042a40c}{%
+           family={Welling},
+           family_i={W\bibinitperiod},
+           given={Soeren\bibnamedelima H},
+           given_i={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=9b02b43d6d791fc8f14a32512173c4ac}{%
+           family={Refsgaard},
+           family_i={R\bibinitperiod},
+           given={Hanne\bibnamedelima HF},
+           given_i={H\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=0dcca152a160fee09e2c84ef132acecd}{%
+           family={Brockhoff},
+           family_i={B\bibinitperiod},
+           given={Per\bibnamedelima B},
+           given_i={P\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=5997d054fd3133846a01cfe3124aae60}{%
+           family={Clemmensen},
+           family_i={C\bibinitperiod},
+           given={Line\bibnamedelima H},
+           given_i={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{6974933dd6c0a8cffb245b7ba92f908c}
+      \strng{fullhash}{26cf27925a9933ca2051bd9447c74e60}
+      \field{labelalpha}{Wel+16}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1605.09196}
+      \field{title}{Forest Floor Visualizations of Random Forests}
+      \field{year}{2016}
     \endentry
   \endsortlist
 \endrefsection
