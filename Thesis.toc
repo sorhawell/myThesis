@@ -28,7 +28,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}Mechanisms of absorption enhancement in oral formulations}{14}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Preventing and measuring enzymatic degradation}{14}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.1}Preventing and measuring enzymatic degradation}{15}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.2}}{15}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  1 JUL 2016 10:32
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  4 JUL 2016 11:12
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -2045,12 +2045,12 @@ LaTeX Warning: Reference `typeOfExperiment' on page 9 undefined on input line 1
 Package nag Warning: \label in float, but not after \caption on input line 22.
 
 File: graphics/typeOfExperiments.pdf Graphic file (type QTm)
-<use  "graphics/typeOfExperiments.pdf" > [11]
+<use  "graphics/typeOfExperiments.pdf" > [11] [12]
 
 Package nag Warning: \label in float, but not after \caption on input line 36.
 
 File: graphics/sketch_measuring_permeability.png Graphic file (type QTm)
-<use  "graphics/sketch_measuring_permeability.png" > [12]
+<use  "graphics/sketch_measuring_permeability.png" > [13]
 
 Package nag Warning: \label in float, but not after \caption on input line 49.
 
@@ -2058,8 +2058,8 @@ File: graphics/devel_Fasssif_PCC2.png Graphic file (type QTm)
 <use  "graphics/devel_Fasssif_PCC2.png" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13]
-[14] [15]
+ [14]
+[15]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
  <use  "chapters/citricAcid.pdf" >
 File: chapters/citricAcid.pdf Graphic file (type QTm)

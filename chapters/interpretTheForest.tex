@@ -1,6 +1,9 @@
 %!TEX root = ../Thesis.tex
 \chapter{interpretTheForest}
 
+\section{Modeling with random forest}
+The random forest model started to play a bigger role for this thesis as it showed to outperform linear regularized regression models as partial least squares and elastic net. Also RF seem to outperform the non-linear k-nearest neighbor. The random forest algorithm is certainly not always the best choice of model, the non free lunch theorem states that the is not optimal silver bullet. That said Random forest together with radial suppert vector machine and gradient boosting was in comparison on 110 data sets found to be the in generel top performing algorithm in terms of cross-validated accuracy \cite{Citewainer2016comparison}. If the underlying model generating the data is truly linear, e.g. in octane concentration determination in near-infrared light spectroscopy \cite{kalivas1997two}.
+
 
 \section{One interpretation of interactions}
 Throughout the work of this thesis, there have been an emphasis on identifying and visualizing interactions. In this process, I have made my own working definitions of interactions, that especially relate to geometrical interpretations of model structures. In our paper \textit{Forest Floor Visualizations of Random Forests} we introduce an interaction as:
@@ -40,7 +43,7 @@ $n_d = 2n_{d-1} + d$. For $d=10$ there are staggering $2036$ possible components
 This broad definition of interaction effects can also cover classification and multi classification, where $f$ map to a $K-1$ dimensional simplex probability space, where $K$ is the number of classes. Second order interaction effects for a probabilitic classification model mapping to 3 classes($K=3$) are visualized in the forest floor article, see figure 12 \cite{welling2016forest}. However, the surface of this second order interaction effect is not 2 dimensional as the pyramid example. For a second order interactions($i=2$), the mapping space has $i+K-1=2+3-1=4$ dimensions. In the forest floor article a such 4D problem is visualized in Figure 12. Here a 2D triangular (K-1)-simplex diagram is used to describe the probability distribution of predictions, and different color gradients in turn represent the different feature axes. 
 \footnote{If number of classes $K>=5$ is higher than 5, the (K-1)-simplex diagram would require a 4D or higher visualization. Instead Figure 10 of article depicts how to plot probability predictions by each class by a single axis.}
 
-
+Returning to pyramid example. Let's say $f_1$ described the gradual descending of the landscape towards the ocean. As $f_1$ is non-linear, it could describe a single sand dune, a local maximum, at the beginning of the beach. This local sand dune will now stretch infinitely to both sides, such that for any $x_2$ the effect of $f_1$ is static. We can use this observation make a bottom up definition of interactions also. Let $S$ be a subset of all features $X$ of the model. Let $T$ bet the complimentary subset of features $S \\ X = T$. An interaction effect by a subset $S$, $f_S$, has the order equal to size of $|S|$. We would now that $f_S$ is a useful decomposition of $f$, as for every parallel plane spanned by the features the curvature are the same. In contrary when the  interaction curvature is far from the same any combination of feature vales of $T$, we know we're missing an important higher order interaction. Furthermore the the feature axis of which the $S$-plane curvature changes the most is the one feature from $T$ which need to be indluded in $S$ in order to obtain suitable generelized effect that is static for any point in the $T$-plane.
 
 
 For a model structure with a a predicted response $\hat{y}$ 
