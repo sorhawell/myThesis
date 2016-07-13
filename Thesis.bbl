@@ -940,6 +940,27 @@
       \field{title}{Keeping Your Thesis Legal}
       \field{year}{2015}
     \endentry
+    \entry{kahneman2011thinking}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d0dcea81f8587e7d56bb5dbe34a39d6c}{%
+           family={Kahneman},
+           family_i={K\bibinitperiod},
+           given={Daniel},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Macmillan}%
+      }
+      \strng{namehash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \strng{fullhash}{d0dcea81f8587e7d56bb5dbe34a39d6c}
+      \field{labelalpha}{Kah11}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thinking, fast and slow}
+      \field{year}{2011}
+    \endentry
     \entry{korytkowski2002oral}{article}{}
       \name{author}{1}{}{%
         {{hash=90477a6392979622ae5537efe8712a4d}{%
@@ -959,6 +980,31 @@
       \field{title}{When oral agents fail: practical barriers to starting insulin.}
       \field{volume}{26}
       \field{year}{2002}
+    \endentry
+    \entry{lichman2013uci}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=7202d1c034f2a555a0a037bc17d642aa}{%
+           family={Lichman},
+           family_i={L\bibinitperiod},
+           given={M.},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {University of California, Irvine, School of Information}%
+        {Computer Sciences}%
+      }
+      \strng{namehash}{7202d1c034f2a555a0a037bc17d642aa}
+      \strng{fullhash}{7202d1c034f2a555a0a037bc17d642aa}
+      \field{labelalpha}{Lic13}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{UCI} Machine Learning Repository}
+      \field{year}{2013}
+      \verb{url}
+      \verb http://archive.ics.uci.edu/ml
+      \endverb
     \endentry
     \entry{liu1999dodecylphosphocholine}{article}{}
       \name{author}{3}{}{%
@@ -1369,7 +1415,31 @@
       \field{title}{Forest Floor Visualizations of Random Forests}
       \field{year}{2016}
     \endentry
+    \entry{wiki2016John}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=191d11504115907a07a2f7c8ff048280}{%
+           family={Wikiquote},
+           family_i={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{191d11504115907a07a2f7c8ff048280}
+      \strng{fullhash}{191d11504115907a07a2f7c8ff048280}
+      \field{labelalpha}{Wik16}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 12-July-2016]}
+      \field{title}{John von Neumann --- Wikiquote{,}}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://en.wikiquote.org/w/index.php?title=John_von_Neumann&oldid=2132483
+      \endverb
+    \endentry
   \endsortlist
+  \missing{Citewainer2016comparison}
+  \missing{klimenko2016novel}
+  \missing{arnolds2010pharmacokinetic}
+  \missing{kalivas1997two}
 \endrefsection
 \endinput
 
