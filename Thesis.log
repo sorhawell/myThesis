@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  13 JUL 2016 18:30
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  15 JUL 2016 21:03
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -1831,20 +1831,6 @@ Package biblatex Info: ... file 'Thesis.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Citewainer2016comparison
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                klimenko2016novel
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                arnolds2010pharmacokinetic
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -1852,7 +1838,21 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
+(biblatex)                Citewainer2016comparison
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
 (biblatex)                kalivas1997two
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Mostafa13learning
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1994,24 +1994,32 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 5.
-
-Overfull \hbox (1.24799pt too wide) detected at line 91
+ [7]
+Overfull \hbox (1.24799pt too wide) detected at line 83
  []\EU1/texgyreadventor(0)/bx/n/12 101[]
  []
 
 
-Overfull \hbox (1.24799pt too wide) detected at line 93
+Overfull \hbox (1.24799pt too wide) detected at line 85
  []\EU1/texgyreadventor(0)/bx/n/12 103[]
  []
 
 
-Overfull \hbox (1.24799pt too wide) detected at line 95
- []\EU1/texgyreadventor(0)/bx/n/12 143[]
+Overfull \hbox (2.75992pt too wide) detected at line 87
+ []\EU1/lmr/m/n/12 103[]
  []
 
-) [7] [8
 
-]
+Overfull \hbox (2.75992pt too wide) detected at line 89
+ []\EU1/lmr/m/n/12 142[]
+ []
+
+
+Overfull \hbox (1.24799pt too wide) detected at line 111
+ []\EU1/texgyreadventor(0)/bx/n/12 181[]
+ []
+
+) [8]
 \openout2 = `chapters/Introduction.aux'.
 
  (chapters/Introduction.tex
@@ -2031,6 +2039,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 7.
  [1
+
 
 
 
@@ -2092,7 +2101,18 @@ File: graphics/devel_Fasssif_PCC2.png Graphic file (type QTm)
 Underfull \vbox (badness 6859) has occurred while \output is active []
 
  [13]
-[14] [15]
+[14]
+
+Class memoir Warning: The material used in the headers is too large
+(28.99998pt) for the given head height (14.5pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 78.
+
+
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[15]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
  <use  "chapters/citricAcid.pdf" >
 File: chapters/citricAcid.pdf Graphic file (type QTm)
@@ -2118,6 +2138,8 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page2>
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page2> [17]
@@ -2136,6 +2158,8 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page4>
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page4> [19]
@@ -2154,6 +2178,8 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page6>
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page6> [21]
@@ -2172,15 +2198,17 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page8>
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page8> [23]) [24]
 \openout2 = `chapters/introStat.aux'.
 
  (chapters/introStat.tex
-File: graphics/modelPredictExplain.png Graphic file (type QTm)
+File: graphics/sketchMLmapping.png Graphic file (type QTm)
 
-<use  "graphics/modelPredictExplain.png" >
+<use  "graphics/sketchMLmapping.png" >
 Underfull \vbox (badness 5417) has occurred while \output is active []
 
  [25
@@ -2188,80 +2216,30 @@ Underfull \vbox (badness 5417) has occurred while \output is active []
 
 
 ]
-[26]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.31 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+[26] [27] [28]
+Underfull \vbox (badness 1286) has occurred while \output is active []
 
-! Display math should end with $$.
-<to be read again> 
-                   \par 
-l.31 
-     
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
+ [29]
+File: graphics/svmVSrf.png Graphic file (type QTm)
 
-
-! LaTeX Error: Bad math environment delimiter.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \end{equation}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! You can't use `\eqno' in vertical mode.
-\endmathdisplay@a ...\df@tag \@empty \else \veqno 
-                                                  \alt@tag \df@tag \fi \ifx ...
-l.33 \end{equation}
-                   
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.33 \end{equation}
-                   
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Display math should end with $$.
-<to be read again> 
-                   \endgroup 
-l.33 \end{equation}
-                   
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
-
-[27]) [28]
+<use  "graphics/svmVSrf.png" >
+Missing character: There is no − in font rm-lmr12!
+Missing character: There is no − in font rm-lmr12!
+ [30]) [31]
 \openout2 = `chapters/predictPotency.aux'.
 
- (chapters/predictPotency.tex
-
-LaTeX Warning: Reference `someWhere' on page 29 undefined on input line 8.
-
-
-LaTeX Warning: Reference `blaret' on page 29 undefined on input line 10.
-
-[29
+ (chapters/predictPotency.tex [32
 
 
 
 ]
+
+LaTeX Warning: Reference `someWhere' on page 33 undefined on input line 8.
+
+
+LaTeX Warning: Reference `blaret' on page 33 undefined on input line 10.
+
+[33]
 
 Package nag Warning: \label in float, but not after \caption on input line 18.
 
@@ -2276,15 +2254,21 @@ File: graphics/typeOfSurfactant.pdf Graphic file (type QTm)
 Package nag Warning: \label in float, but not after \caption on input line 31.
 
 File: graphics/predictPotencySummary.pdf Graphic file (type QTm)
-<use  "graphics/predictPotencySummary.pdf" > [30]
+<use  "graphics/predictPotencySummary.pdf" >
+Underfull \vbox (badness 3088) has occurred while \output is active []
+
+ [34]
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
+
+[35]
+File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
+ <use  "chapters/predictPotencyArt.pdf" >
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf" >
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf" >
-File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
-
 <use  "chapters/predictPotencyArt.pdf"  page1>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
@@ -2297,16 +2281,18 @@ File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 <use  "chapters/predictPotencyArt.pdf"  page1>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page1> [31]
+<use  "chapters/predictPotencyArt.pdf"  page1> [36]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page2>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page2>
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page2> [32]
+<use  "chapters/predictPotencyArt.pdf"  page2> [37]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page3>
@@ -2315,16 +2301,18 @@ File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 <use  "chapters/predictPotencyArt.pdf"  page3>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page3> [33]
+<use  "chapters/predictPotencyArt.pdf"  page3> [38]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page4>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page4>
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page4> [34]
+<use  "chapters/predictPotencyArt.pdf"  page4> [39]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page5>
@@ -2333,16 +2321,18 @@ File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 <use  "chapters/predictPotencyArt.pdf"  page5>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page5> [35]
+<use  "chapters/predictPotencyArt.pdf"  page5> [40]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page6>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page6>
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page6> [36]
+<use  "chapters/predictPotencyArt.pdf"  page6> [41]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page7>
@@ -2351,24 +2341,26 @@ File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 <use  "chapters/predictPotencyArt.pdf"  page7>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page7> [37]
+<use  "chapters/predictPotencyArt.pdf"  page7> [42]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page8>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page8>
+Overfull \vbox (14.49998pt too high) has occurred while \output is active []
+
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page8> [38]) [39]
+<use  "chapters/predictPotencyArt.pdf"  page8> [43])
 \openout2 = `chapters/interpretTheForest.aux'.
 
 
-(chapters/interpretTheForest.tex [40
+(chapters/interpretTheForest.tex [44
 
 
 
-] [41]
+] [45]
 File: graphics/sketch_pyramid_interaction.png Graphic file (type QTm)
 
 <use  "graphics/sketch_pyramid_interaction.png" >
@@ -2376,11 +2368,11 @@ Overfull \hbox (111.99864pt too wide) in paragraph at lines 23--24
 [][]
  []
 
-[42] [43]
+[46] [47]
 Underfull \vbox (badness 1163) has occurred while \output is active []
 
- [44]
-[45]
+ [48]
+[49]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
  <use  "chapters/forestFloorArt.pdf" >
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
@@ -2400,7 +2392,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page1>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page1> [46]
+<use  "chapters/forestFloorArt.pdf"  page1> [50]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page2>
@@ -2409,7 +2401,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page2>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page2> [47]
+<use  "chapters/forestFloorArt.pdf"  page2> [51]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page3>
@@ -2418,7 +2410,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page3>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page3> [48]
+<use  "chapters/forestFloorArt.pdf"  page3> [52]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page4>
@@ -2427,7 +2419,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page4>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page4> [49]
+<use  "chapters/forestFloorArt.pdf"  page4> [53]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page5>
@@ -2436,7 +2428,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page5>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page5> [50]
+<use  "chapters/forestFloorArt.pdf"  page5> [54]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page6>
@@ -2445,7 +2437,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page6>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page6> [51]
+<use  "chapters/forestFloorArt.pdf"  page6> [55]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page7>
@@ -2454,7 +2446,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page7>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page7> [52]
+<use  "chapters/forestFloorArt.pdf"  page7> [56]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page8>
@@ -2463,7 +2455,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page8>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page8> [53]
+<use  "chapters/forestFloorArt.pdf"  page8> [57]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page9>
@@ -2472,7 +2464,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page9>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page9> [54]
+<use  "chapters/forestFloorArt.pdf"  page9> [58]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page10>
@@ -2481,7 +2473,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page10>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page10> [55]
+<use  "chapters/forestFloorArt.pdf"  page10> [59]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page11>
@@ -2490,7 +2482,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page11>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page11> [56]
+<use  "chapters/forestFloorArt.pdf"  page11> [60]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page12>
@@ -2499,7 +2491,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page12>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page12> [57]
+<use  "chapters/forestFloorArt.pdf"  page12> [61]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page13>
@@ -2508,7 +2500,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page13>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page13> [58]
+<use  "chapters/forestFloorArt.pdf"  page13> [62]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page14>
@@ -2517,7 +2509,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page14>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page14> [59]
+<use  "chapters/forestFloorArt.pdf"  page14> [63]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page15>
@@ -2526,7 +2518,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page15>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page15> [60]
+<use  "chapters/forestFloorArt.pdf"  page15> [64]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page16>
@@ -2535,7 +2527,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page16>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page16> [61]
+<use  "chapters/forestFloorArt.pdf"  page16> [65]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page17>
@@ -2544,7 +2536,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page17>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page17> [62]
+<use  "chapters/forestFloorArt.pdf"  page17> [66]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page18>
@@ -2553,7 +2545,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page18>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page18> [63]
+<use  "chapters/forestFloorArt.pdf"  page18> [67]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page19>
@@ -2562,7 +2554,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page19>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page19> [64]
+<use  "chapters/forestFloorArt.pdf"  page19> [68]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page20>
@@ -2571,7 +2563,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page20>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page20> [65]
+<use  "chapters/forestFloorArt.pdf"  page20> [69]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page21>
@@ -2580,7 +2572,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page21>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page21> [66]
+<use  "chapters/forestFloorArt.pdf"  page21> [70]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page22>
@@ -2589,7 +2581,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page22>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page22> [67]
+<use  "chapters/forestFloorArt.pdf"  page22> [71]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page23>
@@ -2598,7 +2590,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page23>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page23> [68]
+<use  "chapters/forestFloorArt.pdf"  page23> [72]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page24>
@@ -2607,7 +2599,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page24>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page24> [69]
+<use  "chapters/forestFloorArt.pdf"  page24> [73]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page25>
@@ -2616,7 +2608,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page25>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page25> [70]
+<use  "chapters/forestFloorArt.pdf"  page25> [74]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf" >
@@ -2637,7 +2629,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page2>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page2> [71]
+<use  "chapters/supplementaryForestFloor.pdf"  page2> [75]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page3>
@@ -2646,7 +2638,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page3>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page3> [72]
+<use  "chapters/supplementaryForestFloor.pdf"  page3> [76]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page4>
@@ -2655,7 +2647,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page4>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page4> [73]
+<use  "chapters/supplementaryForestFloor.pdf"  page4> [77]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page5>
@@ -2664,7 +2656,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page5>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page5> [74]
+<use  "chapters/supplementaryForestFloor.pdf"  page5> [78]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page6>
@@ -2673,7 +2665,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page6>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page6> [75]
+<use  "chapters/supplementaryForestFloor.pdf"  page6> [79]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page7>
@@ -2682,7 +2674,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page7>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page7> [76]
+<use  "chapters/supplementaryForestFloor.pdf"  page7> [80]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page8>
@@ -2691,7 +2683,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page8>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page8> [77]
+<use  "chapters/supplementaryForestFloor.pdf"  page8> [81]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page9>
@@ -2700,7 +2692,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page9>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page9> [78]
+<use  "chapters/supplementaryForestFloor.pdf"  page9> [82]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page10>
@@ -2709,7 +2701,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page10>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page10> [79]
+<use  "chapters/supplementaryForestFloor.pdf"  page10> [83]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page11>
@@ -2718,7 +2710,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page11>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page11> [80]
+<use  "chapters/supplementaryForestFloor.pdf"  page11> [84]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page12>
@@ -2727,7 +2719,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page12>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page12> [81]
+<use  "chapters/supplementaryForestFloor.pdf"  page12> [85]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page13>
@@ -2736,7 +2728,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page13>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page13> [82])
+<use  "chapters/supplementaryForestFloor.pdf"  page13> [86])
 \openout2 = `chapters/structureOfSolubility.aux'.
 
 
@@ -2752,7 +2744,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page1>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page1> [83
+<use  "chapters/structureOfSolubility.pdf"  page1> [87
 
 
 
@@ -2765,7 +2757,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page1>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page1> [84]
+<use  "chapters/structureOfSolubility.pdf"  page1> [88]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page2>
@@ -2774,7 +2766,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page2>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page2> [85]
+<use  "chapters/structureOfSolubility.pdf"  page2> [89]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page3>
@@ -2783,7 +2775,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page3>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page3> [86]
+<use  "chapters/structureOfSolubility.pdf"  page3> [90]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page4>
@@ -2792,7 +2784,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page4>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page4> [87]
+<use  "chapters/structureOfSolubility.pdf"  page4> [91]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page5>
@@ -2801,7 +2793,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page5>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page5> [88]
+<use  "chapters/structureOfSolubility.pdf"  page5> [92]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page6>
@@ -2810,7 +2802,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page6>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page6> [89]
+<use  "chapters/structureOfSolubility.pdf"  page6> [93]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page7>
@@ -2819,7 +2811,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page7>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page7> [90]
+<use  "chapters/structureOfSolubility.pdf"  page7> [94]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page8>
@@ -2828,7 +2820,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page8>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page8> [91]
+<use  "chapters/structureOfSolubility.pdf"  page8> [95]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page9>
@@ -2837,7 +2829,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page9>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page9> [92]
+<use  "chapters/structureOfSolubility.pdf"  page9> [96]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page10>
@@ -2846,7 +2838,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page10>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page10> [93]
+<use  "chapters/structureOfSolubility.pdf"  page10> [97]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page11>
@@ -2855,30 +2847,637 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page11>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page11> [94]) [95] [96
-
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [97]
-[98] [99] [100]
+<use  "chapters/structureOfSolubility.pdf"  page11> [98]) [99]
 \openout2 = `chapters/Conclusion.aux'.
 
- (chapters/Conclusion.tex) [101
+
+(chapters/Conclusion.tex [100
 
 
-]
+
+]) [101]
 \openout2 = `appendices/AnAppendix.aux'.
 
- (appendices/AnAppendix.tex
-[102
+ (appendices/AnAppendix.tex [102
 
 
 
 ]
+! Misplaced alignment tab character &.
+<argument> Random forest Q&
+                           A answers with illustrations and code examples
+l.5 ...swers with illustrations and code examples}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `alignment tab' on input line 5.
+
+File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
+<use  "cross_validated_posts/CV1_classwt.pdf" >
+File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV1_classwt.pdf" >
+File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV1_classwt.pdf"  page1>
+File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV1_classwt.pdf"  page1> [103]
+File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV1_classwt.pdf"  page1>
+File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV1_classwt.pdf"  page1>
+File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV1_classwt.pdf"  page1> [104]
+File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV1_classwt.pdf"  page2>
+File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV1_classwt.pdf"  page2>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.11 ...}}]{cross_validated_posts/CV1_classwt.pdf}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
+<use  "cross_validated_posts/CV1_classwt.pdf"  page2> [105]
+File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV1_classwt.pdf"  page3>
+File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV1_classwt.pdf"  page3>
+File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV1_classwt.pdf"  page3> [106]
+File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV2_fullygrown.pdf" >
+File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV2_fullygrown.pdf" >
+File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV2_fullygrown.pdf"  page1>
+File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV2_fullygrown.pdf"  page1>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.15 ...{cross_validated_posts/CV2_fullygrown.pdf}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[107]
+File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
+ <use  "cross_validated_posts/CV2_fullygrown.pdf"  page1>
+File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV2_fullygrown.pdf"  page1>
+File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV2_fullygrown.pdf"  page1> [108]
+File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV2_fullygrown.pdf"  page2>
+File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV2_fullygrown.pdf"  page2>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.15 ...{cross_validated_posts/CV2_fullygrown.pdf}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
+<use  "cross_validated_posts/CV2_fullygrown.pdf"  page2> [109]
+File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV2_fullygrown.pdf"  page3>
+File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV2_fullygrown.pdf"  page3>
+File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV2_fullygrown.pdf"  page3> [110]
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf" >
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf" >
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page1>
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page1>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.19 ...validated_posts/CV3_sensitiveOutliers.pdf}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[111]
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+ <use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page1>
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page1>
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page1> [112]
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page2>
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page2>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.19 ...validated_posts/CV3_sensitiveOutliers.pdf}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page2> [113]
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page3>
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page3>
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page3> [114]
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page4>
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page4>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.19 ...validated_posts/CV3_sensitiveOutliers.pdf}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page4> [115]
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page5>
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page5>
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page5> [116]
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page6>
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page6>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.19 ...validated_posts/CV3_sensitiveOutliers.pdf}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page6> [117]
+File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV4_assertInteraction.pdf" >
+File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV4_assertInteraction.pdf" >
+File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV4_assertInteraction.pdf"  page1>
+File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV4_assertInteraction.pdf"  page1> [118]
+File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV4_assertInteraction.pdf"  page1>
+File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV4_assertInteraction.pdf"  page1>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.22 ...validated_posts/CV4_assertInteraction.pdf}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
+<use  "cross_validated_posts/CV4_assertInteraction.pdf"  page1> [119]
+File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV4_assertInteraction.pdf"  page2>
+File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV4_assertInteraction.pdf"  page2>
+File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV4_assertInteraction.pdf"  page2> [120]
+File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf" >
+File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf" >
+File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page1>
+File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page1>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.25 ..._validated_posts/CV5_SVM_RF_same_same.pdf}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[121]
+File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
+ <use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page1>
+File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page1>
+File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page1> [122]
+File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page2>
+File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page2>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.25 ..._validated_posts/CV5_SVM_RF_same_same.pdf}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
+<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page2> [123]
+File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page3>
+File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page3>
+File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page3> [124]
+File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV6_CARTtiebreak.pdf" >
+File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV6_CARTtiebreak.pdf" >
+File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page1>
+File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page1>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.28 ...ross_validated_posts/CV6_CARTtiebreak.pdf}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[125]
+File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
+ <use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page1>
+File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page1>
+File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page1> [126]
+File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page2>
+File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page2>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.28 ...ross_validated_posts/CV6_CARTtiebreak.pdf}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
+<use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page2> [127]
+File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page3>
+File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page3>
+File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page3> [128]
+File: cross_validated_posts/CV7_VIbeyondRF.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV7_VIbeyondRF.pdf" >
+File: cross_validated_posts/CV7_VIbeyondRF.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV7_VIbeyondRF.pdf" >
+File: cross_validated_posts/CV7_VIbeyondRF.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV7_VIbeyondRF.pdf"  page1>
+File: cross_validated_posts/CV7_VIbeyondRF.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV7_VIbeyondRF.pdf"  page1>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.31 ...{cross_validated_posts/CV7_VIbeyondRF.pdf}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[129]
+File: cross_validated_posts/CV7_VIbeyondRF.pdf Graphic file (type QTm)
+ <use  "cross_validated_posts/CV7_VIbeyondRF.pdf"  page1>
+File: cross_validated_posts/CV7_VIbeyondRF.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV7_VIbeyondRF.pdf"  page1>
+File: cross_validated_posts/CV7_VIbeyondRF.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV7_VIbeyondRF.pdf"  page1> [130]
+File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV8_combineBagging.pdf" >
+File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV8_combineBagging.pdf" >
+File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV8_combineBagging.pdf"  page1>
+File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV8_combineBagging.pdf"  page1>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.34 ...{cross_validated_posts/CV8_combineBagging}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[131]
+File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
+ <use  "cross_validated_posts/CV8_combineBagging.pdf"  page1>
+File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV8_combineBagging.pdf"  page1>
+File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV8_combineBagging.pdf"  page1> [132]
+File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV8_combineBagging.pdf"  page2>
+File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV8_combineBagging.pdf"  page2>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.34 ...{cross_validated_posts/CV8_combineBagging}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
+<use  "cross_validated_posts/CV8_combineBagging.pdf"  page2> [133]
+File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV8_combineBagging.pdf"  page3>
+File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV8_combineBagging.pdf"  page3>
+File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV8_combineBagging.pdf"  page3> [134]
+File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV8_combineBagging.pdf"  page4>
+File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV8_combineBagging.pdf"  page4>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.34 ...{cross_validated_posts/CV8_combineBagging}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
+<use  "cross_validated_posts/CV8_combineBagging.pdf"  page4> [135]
+File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV9_RFsampling.pdf" >
+File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV9_RFsampling.pdf" >
+File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV9_RFsampling.pdf"  page1>
+File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV9_RFsampling.pdf"  page1> [136]
+File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV9_RFsampling.pdf"  page1>
+File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV9_RFsampling.pdf"  page1>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.37 ...d}}]{cross_validated_posts/CV9_RFsampling}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
+<use  "cross_validated_posts/CV9_RFsampling.pdf"  page1> [137]
+File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV9_RFsampling.pdf"  page2>
+File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV9_RFsampling.pdf"  page2>
+File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV9_RFsampling.pdf"  page2> [138]
+File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV10_PCAlogTransform.pdf" >
+File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV10_PCAlogTransform.pdf" >
+File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page1>
+File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page1>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.40 ...ross_validated_posts/CV10_PCAlogTransform}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[139]
+File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
+ <use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page1>
+File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page1>
+File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page1> [140]
+File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page2>
+File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
+
+<use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page2>
+! Misplaced alignment tab character &.
+<argument> {A.1 Random forest Q&
+                                A answers with illustrations and code examples}
+l.40 ...ross_validated_posts/CV10_PCAlogTransform}
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
+<use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page2> [141]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
- <use  "appendices/forestFloorManual.pdf" >
+
+<use  "appendices/forestFloorManual.pdf" >
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf" >
@@ -2887,7 +3486,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page1>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page1> [103]
+<use  "appendices/forestFloorManual.pdf"  page1> [142]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page1>
@@ -2896,7 +3495,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page1>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page1> [104]
+<use  "appendices/forestFloorManual.pdf"  page1> [143]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page2>
@@ -2905,7 +3504,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page2>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page2> [105]
+<use  "appendices/forestFloorManual.pdf"  page2> [144]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page3>
@@ -2914,7 +3513,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page3>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page3> [106]
+<use  "appendices/forestFloorManual.pdf"  page3> [145]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page4>
@@ -2923,7 +3522,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page4>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page4> [107]
+<use  "appendices/forestFloorManual.pdf"  page4> [146]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page5>
@@ -2932,7 +3531,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page5>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page5> [108]
+<use  "appendices/forestFloorManual.pdf"  page5> [147]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page6>
@@ -2941,7 +3540,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page6>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page6> [109]
+<use  "appendices/forestFloorManual.pdf"  page6> [148]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page7>
@@ -2950,7 +3549,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page7>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page7> [110]
+<use  "appendices/forestFloorManual.pdf"  page7> [149]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page8>
@@ -2959,7 +3558,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page8>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page8> [111]
+<use  "appendices/forestFloorManual.pdf"  page8> [150]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page9>
@@ -2968,7 +3567,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page9>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page9> [112]
+<use  "appendices/forestFloorManual.pdf"  page9> [151]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page10>
@@ -2977,7 +3576,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page10>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page10> [113]
+<use  "appendices/forestFloorManual.pdf"  page10> [152]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page11>
@@ -2986,7 +3585,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page11>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page11> [114]
+<use  "appendices/forestFloorManual.pdf"  page11> [153]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page12>
@@ -2995,7 +3594,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page12>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page12> [115]
+<use  "appendices/forestFloorManual.pdf"  page12> [154]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page13>
@@ -3004,7 +3603,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page13>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page13> [116]
+<use  "appendices/forestFloorManual.pdf"  page13> [155]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page14>
@@ -3013,7 +3612,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page14>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page14> [117]
+<use  "appendices/forestFloorManual.pdf"  page14> [156]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page15>
@@ -3022,7 +3621,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page15>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page15> [118]
+<use  "appendices/forestFloorManual.pdf"  page15> [157]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page16>
@@ -3031,7 +3630,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page16>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page16> [119]
+<use  "appendices/forestFloorManual.pdf"  page16> [158]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page17>
@@ -3040,7 +3639,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page17>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page17> [120]
+<use  "appendices/forestFloorManual.pdf"  page17> [159]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page18>
@@ -3049,7 +3648,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page18>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page18> [121]
+<use  "appendices/forestFloorManual.pdf"  page18> [160]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page19>
@@ -3058,7 +3657,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page19>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page19> [122]
+<use  "appendices/forestFloorManual.pdf"  page19> [161]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page20>
@@ -3067,7 +3666,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page20>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page20> [123]
+<use  "appendices/forestFloorManual.pdf"  page20> [162]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page21>
@@ -3076,7 +3675,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page21>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page21> [124]
+<use  "appendices/forestFloorManual.pdf"  page21> [163]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page22>
@@ -3085,7 +3684,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page22>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page22> [125]
+<use  "appendices/forestFloorManual.pdf"  page22> [164]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page23>
@@ -3094,7 +3693,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page23>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page23> [126]
+<use  "appendices/forestFloorManual.pdf"  page23> [165]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page24>
@@ -3103,7 +3702,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page24>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page24> [127]
+<use  "appendices/forestFloorManual.pdf"  page24> [166]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page25>
@@ -3112,7 +3711,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page25>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page25> [128]
+<use  "appendices/forestFloorManual.pdf"  page25> [167]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page26>
@@ -3121,7 +3720,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page26>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page26> [129]
+<use  "appendices/forestFloorManual.pdf"  page26> [168]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page27>
@@ -3130,7 +3729,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page27>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page27> [130]
+<use  "appendices/forestFloorManual.pdf"  page27> [169]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page28>
@@ -3139,7 +3738,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page28>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page28> [131]
+<use  "appendices/forestFloorManual.pdf"  page28> [170]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page29>
@@ -3148,7 +3747,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page29>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page29> [132]
+<use  "appendices/forestFloorManual.pdf"  page29> [171]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page30>
@@ -3157,7 +3756,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page30>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page30> [133]
+<use  "appendices/forestFloorManual.pdf"  page30> [172]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page31>
@@ -3166,7 +3765,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page31>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page31> [134]
+<use  "appendices/forestFloorManual.pdf"  page31> [173]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page32>
@@ -3175,7 +3774,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page32>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page32> [135]
+<use  "appendices/forestFloorManual.pdf"  page32> [174]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page33>
@@ -3184,7 +3783,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page33>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page33> [136]
+<use  "appendices/forestFloorManual.pdf"  page33> [175]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page34>
@@ -3193,7 +3792,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page34>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page34> [137]
+<use  "appendices/forestFloorManual.pdf"  page34> [176]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page35>
@@ -3202,7 +3801,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page35>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page35> [138]
+<use  "appendices/forestFloorManual.pdf"  page35> [177]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page36>
@@ -3211,7 +3810,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page36>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page36> [139]
+<use  "appendices/forestFloorManual.pdf"  page36> [178]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page37>
@@ -3220,7 +3819,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page37>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page37> [140]
+<use  "appendices/forestFloorManual.pdf"  page37> [179]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page38>
@@ -3229,45 +3828,52 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page38>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page38> [141]) [142
+<use  "appendices/forestFloorManual.pdf"  page38> [180]) [181
 
 
-] [143
 
 ]
-Overfull \hbox (4.13022pt too wide) in paragraph at lines 42--42
+Overfull \hbox (7.76521pt too wide) in paragraph at lines 41--41
+\EU1/lmr/m/it/12 statistical learning\EU1/lmr/m/n/12 . 3rd edition. Volume 1. S
+pringer series in statistics Springer,
+ []
+
+[182]
+Overfull \hbox (4.13022pt too wide) in paragraph at lines 41--41
 []\EU1/lmr/m/n/12 M. Lichman. \EU1/lmr/m/it/12 UCI Machine Learning Repository\
 EU1/lmr/m/n/12 . 2013. \EU1/lmr/m/sc/12 url\EU1/lmr/m/n/12 : []$[][][][] [] [] 
 [] [][][][][][][] []
  []
 
 
-Overfull \hbox (46.71744pt too wide) in paragraph at lines 42--42
+Overfull \hbox (46.71744pt too wide) in paragraph at lines 41--41
 []\EU1/lmr/m/n/12 Dong-Zhou Liu, Edward L Lecluyse, and Dhiren R Thakker. “  Do
 decylphosphocholine-
  []
 
 
-Overfull \hbox (0.59387pt too wide) in paragraph at lines 42--42
+Overfull \hbox (0.59387pt too wide) in paragraph at lines 41--41
 \EU1/lmr/m/n/12 mediated enhancement of paracellular permeability and cytotoxic
 ity in Caco-
  []
 
-[144] [145]
+[183]
+
+Class memoir Warning: The material used in the headers is too large
+(28.99998pt) for the given head height (14.5pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 42.
+
 
 Package nag Warning: 7 complaints in total.
 
-File: graphics/DTU-frise-SH-15.pdf Graphic file (type QTm)
-<use  "graphics/DTU-frise-SH-15.pdf" > [146
-
-]
+[184]
 \tf@toc=\write8
 \openout8 = `Thesis.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
- (Thesis.aux
-(prefrontmatter/titlepage.aux)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
+ (Thesis.aux (prefrontmatter/titlepage.aux)
 Package cleveref Info: loaded `english' language definitions on input line 26.
  (prefrontmatter/colophon.aux)
 (frontmatter/Summary.aux) (frontmatter/Preface.aux)
@@ -3276,8 +3882,8 @@ Package cleveref Info: loaded `english' language definitions on input line 26.
 (chapters/predictPotency.aux) (chapters/interpretTheForest.aux)
 (chapters/structureOfSolubility.aux) (chapters/Conclusion.aux)
 (appendices/AnAppendix.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 43.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 43.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 42.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 42.
 
 
 LaTeX Warning: There were undefined references.
@@ -3288,15 +3894,15 @@ LaTeX Warning: There were multiply-defined labels.
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
 \openout1 = `Thesis.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 43.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 48995 strings out of 428410
- 885676 string characters out of 3162139
- 1715900 words of memory out of 3000000
- 51710 multiletter control sequences out of 15000+200000
- 35022 words of font info for 66 fonts, out of 3000000 for 9000
+ 49037 strings out of 428410
+ 887022 string characters out of 3162139
+ 1930568 words of memory out of 3000000
+ 51733 multiletter control sequences out of 15000+200000
+ 35014 words of font info for 65 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 62i,19n,72p,10445b,7108s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,19n,72p,10445b,7117s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Thesis.pdf (156 pages).
+Output written on Thesis.pdf (194 pages).

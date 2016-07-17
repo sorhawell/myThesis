@@ -38,58 +38,74 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.2}}{15}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Article: The role of citric acid in oral peptide and protein formulations: Relationship between calcium chelation and proteolysis inhibition}{15}{section.2.3}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\chapternumberline {3}Introduction to tools of supervised machine learning}{25}{chapter.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}Supervised machine learning to predict and to learn}{25}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Univariate Regression}{26}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Linear regression}{26}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Multiple linear regression and interaction terms}{27}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2.1}Univariate Regression}{26}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.3}Feature selection}{28}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.2.2}Multiple linear regression and interaction terms}{27}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.4}Feature selection and Regularization}{28}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.3}cross validation}{28}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.5}Algorithmic models}{28}{subsection.3.1.5}
+\contentsline {section}{\numberline {3.4}Algorithmic models}{29}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {4}predictPotency}{29}{chapter.4}
+\contentsline {section}{\numberline {3.5}random forest}{30}{section.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {5}interpretTheForest}{41}{chapter.5}
+\contentsline {subsection}{\numberline {3.5.1}Feature selection}{31}{subsection.3.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Modeling with random forest}{41}{section.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Feature selection}{31}{subsection.3.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}One interpretation of interactions}{41}{section.5.2}
+\contentsline {chapter}{\chapternumberline {4}predictPotency}{33}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {6}structureOfSolubility}{83}{chapter.6}
+\contentsline {section}{\numberline {4.1}Article: In silico modelling of permeation enhancement potency in Caco-2 monolayers based on molecular descriptors and random forest}{35}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.0.1}The correct temperature}{95}{subsection.6.0.1}
+\contentsline {chapter}{\chapternumberline {5}interpretTheForest}{45}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {7}Heading on Level\xspace 0 (chapter)}{97}{chapter.7}
+\contentsline {section}{\numberline {5.1}Modeling with random forest}{45}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Heading on Level\xspace 1 (section)}{97}{section.7.1}
+\contentsline {section}{\numberline {5.2}One interpretation of interactions}{45}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1.1}Heading on Level\xspace 2 (subsection)}{97}{subsection.7.1.1}
+\contentsline {section}{\numberline {5.3}Other ways to identify interactions}{49}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.1.1.1}Heading on Level\xspace 3 (subsubsection)}{98}{subsubsection.7.1.1.1}
+\contentsline {section}{\numberline {5.4}Article: Forest Floor Visualizations of Random Forests}{49}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Heading on Level\xspace 4 (paragraph)}{98}{section*.5}
+\contentsline {chapter}{\chapternumberline {6}structureOfSolubility}{87}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Lists}{98}{section.7.2}
+\contentsline {section}{\numberline {6.1}Learning the structure of random forest models in QSAR modelling: Predicting molecular Solubility}{87}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.1}Example for list\xspace (itemize)}{98}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {6.1.1}The correct temperature}{99}{subsection.6.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.2.1.1}Example for list\xspace (4*itemize)}{98}{subsubsection.7.2.1.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.2}Example for list\xspace (enumerate)}{99}{subsection.7.2.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.2.2.1}Example for list\xspace (4*enumerate)}{99}{subsubsection.7.2.2.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2.3}Example for list\xspace (description)}{99}{subsection.7.2.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.2.3.1}Example for list\xspace (4*description)}{100}{subsubsection.7.2.3.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {8}Conclusion}{101}{chapter.8}
+\contentsline {chapter}{\chapternumberline {7}Conclusion}{101}{chapter.7}
 \defcounter {refsection}{0}\relax 
 \contentsline {appendix}{\chapternumberline {A}An Appendix}{103}{appendix.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{143}{section*.7}
+\contentsline {section}{\numberline {A.1}Random forest Q&A answers with illustrations and code examples}{103}{section.A.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.1}Handling unbalanced data with with random forest}{103}{subsection.A.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.2}Random forest and outliers I: Outlier Islands}{107}{subsection.A.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.3}Random forest and outliers II: Robustness}{111}{subsection.A.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.4}Simple check that random forest can fit interactions}{118}{subsection.A.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.5}Simple check that random forest can fit interactions}{121}{subsection.A.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.6}Simple check that random forest can fit interactions}{125}{subsection.A.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.7}Simple check that random forest can fit interactions}{129}{subsection.A.1.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.8}Simple check that random forest can fit interactions}{131}{subsection.A.1.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.9}Simple check that random forest can fit interactions}{136}{subsection.A.1.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.10}Simple check that random forest can fit interactions}{139}{subsection.A.1.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}Manual: R CRAN package forestFloor 1.9.5}{142}{section.A.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{181}{section*.6}

@@ -2153,19 +2153,26 @@
     <bcf:citekey order="42">welling2014citric</bcf:citekey>
     <bcf:citekey order="43">welling2016forest</bcf:citekey>
     <bcf:citekey order="43">lichman2013uci</bcf:citekey>
-    <bcf:citekey order="44">lichman2013uci</bcf:citekey>
-    <bcf:citekey order="45">kahneman2011thinking</bcf:citekey>
+    <bcf:citekey order="44">Mostafa13learning</bcf:citekey>
+    <bcf:citekey order="45">lichman2013uci</bcf:citekey>
     <bcf:citekey order="46">wiki2016John</bcf:citekey>
-    <bcf:citekey order="47">aguirre2016current</bcf:citekey>
-    <bcf:citekey order="48">Citewainer2016comparison</bcf:citekey>
-    <bcf:citekey order="49">kalivas1997two</bcf:citekey>
-    <bcf:citekey order="50">welling2016forest</bcf:citekey>
-    <bcf:citekey order="51">welling2016forest</bcf:citekey>
-    <bcf:citekey order="52">friedman2001greedy</bcf:citekey>
-    <bcf:citekey order="53">boulesteix2014letter</bcf:citekey>
-    <bcf:citekey order="54">harrell2015regression</bcf:citekey>
+    <bcf:citekey order="47">kahneman2011thinking</bcf:citekey>
+    <bcf:citekey order="48">friedman2001elements</bcf:citekey>
+    <bcf:citekey order="49">krstajic2014cross</bcf:citekey>
+    <bcf:citekey order="50">kuhn2015short</bcf:citekey>
+    <bcf:citekey order="51">breiman1984classification</bcf:citekey>
+    <bcf:citekey order="51">breiman2001random</bcf:citekey>
+    <bcf:citekey order="52">aguirre2016current</bcf:citekey>
+    <bcf:citekey order="53">Citewainer2016comparison</bcf:citekey>
+    <bcf:citekey order="54">kalivas1997two</bcf:citekey>
     <bcf:citekey order="55">welling2016forest</bcf:citekey>
-    <bcf:citekey order="56">klimenko2016novel</bcf:citekey>
+    <bcf:citekey order="56">welling2016forest</bcf:citekey>
+    <bcf:citekey order="57">friedman2001greedy</bcf:citekey>
+    <bcf:citekey order="58">boulesteix2014letter</bcf:citekey>
+    <bcf:citekey order="59">harrell2015regression</bcf:citekey>
+    <bcf:citekey order="60">welling2016forest</bcf:citekey>
+    <bcf:citekey order="61">ishwaran2010high</bcf:citekey>
+    <bcf:citekey order="62">klimenko2016novel</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="anyt/global/" type="entry" sortscheme="anyt" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

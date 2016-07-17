@@ -418,6 +418,68 @@
       \field{pages}{bbu012}
       \range{pages}{-1}
     \endentry
+    \entry{breiman1984classification}{book}{}
+      \name{author}{4}{}{%
+        {{hash=132b7100417675d55d5d4d8b244f7a34}{%
+           family={Breiman},
+           family_i={B\bibinitperiod},
+           given={Leo},
+           given_i={L\bibinitperiod}}}%
+        {{hash=971cf69058b64a94326dea0f2a8bbcce}{%
+           family={Friedman},
+           family_i={F\bibinitperiod},
+           given={Jerome},
+           given_i={J\bibinitperiod}}}%
+        {{hash=39266e6355e15a8ddcf66c3ef9d3f0d6}{%
+           family={Stone},
+           family_i={S\bibinitperiod},
+           given={Charles\bibnamedelima J},
+           given_i={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=53d3254c4b990000c0e91258bb290a81}{%
+           family={Olshen},
+           family_i={O\bibinitperiod},
+           given={Richard\bibnamedelima A},
+           given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CRC press}%
+      }
+      \strng{namehash}{3a2470c8fd470cc40d886536285a6eb3}
+      \strng{fullhash}{95b44e57f703a13ce98c59b41981f233}
+      \field{labelalpha}{Bre+84}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Classification and regression trees}
+      \field{year}{1984}
+    \endentry
+    \entry{breiman2001random}{article}{}
+      \name{author}{1}{}{%
+        {{hash=132b7100417675d55d5d4d8b244f7a34}{%
+           family={Breiman},
+           family_i={B\bibinitperiod},
+           given={Leo},
+           given_i={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{132b7100417675d55d5d4d8b244f7a34}
+      \strng{fullhash}{132b7100417675d55d5d4d8b244f7a34}
+      \field{labelalpha}{Bre01}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine learning}
+      \field{number}{1}
+      \field{title}{Random forests}
+      \field{volume}{45}
+      \field{year}{2001}
+      \field{pages}{5\bibrangedash 32}
+      \range{pages}{28}
+    \endentry
     \entry{caumo2004first}{article}{}
       \name{author}{2}{}{%
         {{hash=85cbd636120a7982780ab594e9d9eb5e}{%
@@ -570,6 +632,39 @@
       \field{chapter}{139}
       \field{title}{Glucosuria}
       \field{year}{1990}
+    \endentry
+    \entry{friedman2001elements}{book}{}
+      \name{author}{3}{}{%
+        {{hash=971cf69058b64a94326dea0f2a8bbcce}{%
+           family={Friedman},
+           family_i={F\bibinitperiod},
+           given={Jerome},
+           given_i={J\bibinitperiod}}}%
+        {{hash=0cb8fe4210baa81c4b0e67913b4d2768}{%
+           family={Hastie},
+           family_i={H\bibinitperiod},
+           given={Trevor},
+           given_i={T\bibinitperiod}}}%
+        {{hash=88eea600247d798f8b2ce0b2dc614492}{%
+           family={Tibshirani},
+           family_i={T\bibinitperiod},
+           given={Robert},
+           given_i={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer series in statistics Springer, Berlin}%
+      }
+      \strng{namehash}{568e7b5149c552567af3c9b520d96bb3}
+      \strng{fullhash}{568e7b5149c552567af3c9b520d96bb3}
+      \field{labelalpha}{FHT01}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{title}{The elements of statistical learning}
+      \field{volume}{1}
+      \field{year}{2001}
     \endentry
     \entry{friedman2001greedy}{article}{}
       \name{author}{1}{}{%
@@ -890,6 +985,52 @@
       \field{pages}{251\bibrangedash 258}
       \range{pages}{8}
     \endentry
+    \entry{ishwaran2010high}{article}{}
+      \name{author}{5}{}{%
+        {{hash=87b2e79f8f2ab0a4040e84b52fbe2710}{%
+           family={Ishwaran},
+           family_i={I\bibinitperiod},
+           given={Hemant},
+           given_i={H\bibinitperiod}}}%
+        {{hash=cd3edc2b8ca06eab862bd5746a607cca}{%
+           family={Kogalur},
+           family_i={K\bibinitperiod},
+           given={Udaya\bibnamedelima B},
+           given_i={U\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=76c4f5fbdcdf8068ad1035ac8210917a}{%
+           family={Gorodeski},
+           family_i={G\bibinitperiod},
+           given={Eiran\bibnamedelima Z},
+           given_i={E\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=9463398a7ed4fae92410853e9c76badc}{%
+           family={Minn},
+           family_i={M\bibinitperiod},
+           given={Andy\bibnamedelima J},
+           given_i={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=482d2c19706d7b949cfdcdab5a8d0220}{%
+           family={Lauer},
+           family_i={L\bibinitperiod},
+           given={Michael\bibnamedelima S},
+           given_i={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{d5ed18c6858d0afbb29689256bccf9b0}
+      \strng{fullhash}{9e4c86ec3e3dd4c71b9115bd0ec2eb89}
+      \field{labelalpha}{Ish+10}
+      \field{sortinit}{I}
+      \field{sortinithash}{25e99d37ba90f7c4fb20baf4e310faf3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Statistical Association}
+      \field{number}{489}
+      \field{title}{High-dimensional variable selection for survival data}
+      \field{volume}{105}
+      \field{year}{2010}
+      \field{pages}{205\bibrangedash 217}
+      \range{pages}{13}
+    \endentry
     \entry{johnson2015keeping}{article}{}
       \name{author}{6}{}{%
         {{hash=31f742a5b053b87075864e190265f04c}{%
@@ -961,6 +1102,73 @@
       \field{title}{Thinking, fast and slow}
       \field{year}{2011}
     \endentry
+    \entry{klimenko2016novel}{article}{}
+      \name{author}{10}{}{%
+        {{hash=5e3732ee142f674b58d2e0b909bcbc61}{%
+           family={Klimenko},
+           family_i={K\bibinitperiod},
+           given={Kyrylo},
+           given_i={K\bibinitperiod}}}%
+        {{hash=dcf71e0a492f3b0edc195cd28354f00b}{%
+           family={Kuz'min},
+           family_i={K\bibinitperiod},
+           given={Victor},
+           given_i={V\bibinitperiod}}}%
+        {{hash=756428b6ea5242456c28265d492687f2}{%
+           family={Ognichenko},
+           family_i={O\bibinitperiod},
+           given={Liudmila},
+           given_i={L\bibinitperiod}}}%
+        {{hash=80d2c330111e988785f5cc8eda73dbda}{%
+           family={Gorb},
+           family_i={G\bibinitperiod},
+           given={Leonid},
+           given_i={L\bibinitperiod}}}%
+        {{hash=d198b4b8b09eca4afc4fad2bdb5706e6}{%
+           family={Shukla},
+           family_i={S\bibinitperiod},
+           given={Manoj},
+           given_i={M\bibinitperiod}}}%
+        {{hash=bf5349148e8c8e4d9dbcbb3b434dbe6e}{%
+           family={Vinas},
+           family_i={V\bibinitperiod},
+           given={Natalia},
+           given_i={N\bibinitperiod}}}%
+        {{hash=15e9b79690987cd184f31d93410ce9d7}{%
+           family={Perkins},
+           family_i={P\bibinitperiod},
+           given={Edward},
+           given_i={E\bibinitperiod}}}%
+        {{hash=40a0154978b18241d357a553245ea5fe}{%
+           family={Polishchuk},
+           family_i={P\bibinitperiod},
+           given={Pavel},
+           given_i={P\bibinitperiod}}}%
+        {{hash=b49ae03d0d2d5324e21c9960d5a75f50}{%
+           family={Artemenko},
+           family_i={A\bibinitperiod},
+           given={Anatoly},
+           given_i={A\bibinitperiod}}}%
+        {{hash=61cd6e49250d75df0e5ded1186bfcc93}{%
+           family={Leszczynski},
+           family_i={L\bibinitperiod},
+           given={Jerzy},
+           given_i={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{c55c7ddc5d012d1182a36cbe522d858c}
+      \strng{fullhash}{ceb64966d42e7f99d289ea224ef2cb13}
+      \field{labelalpha}{Kli+16}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational Chemistry}
+      \field{title}{Novel enhanced applications of QSPR models: Temperature dependence of aqueous solubility}
+      \field{year}{2016}
+    \endentry
     \entry{korytkowski2002oral}{article}{}
       \name{author}{1}{}{%
         {{hash=90477a6392979622ae5537efe8712a4d}{%
@@ -980,6 +1188,67 @@
       \field{title}{When oral agents fail: practical barriers to starting insulin.}
       \field{volume}{26}
       \field{year}{2002}
+    \endentry
+    \entry{krstajic2014cross}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8405accddf98f8da2406151285555780}{%
+           family={Krstajic},
+           family_i={K\bibinitperiod},
+           given={Damjan},
+           given_i={D\bibinitperiod}}}%
+        {{hash=5928c87d4456bda9c4b1df976382ae60}{%
+           family={Buturovic},
+           family_i={B\bibinitperiod},
+           given={Ljubomir\bibnamedelima J},
+           given_i={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=0e08fff58791922fbaa2c2519d0658bd}{%
+           family={Leahy},
+           family_i={L\bibinitperiod},
+           given={David\bibnamedelima E},
+           given_i={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=464f4e389b93f6c64353eed7bbc9b5b7}{%
+           family={Thomas},
+           family_i={T\bibinitperiod},
+           given={Simon},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{784c738aeb2d78f55a09291c0fdd3d71}
+      \strng{fullhash}{344aae9936c03c8496fdd4a82d4ebb29}
+      \field{labelalpha}{Krs+14}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of cheminformatics}
+      \field{number}{1}
+      \field{title}{Cross-validation pitfalls when selecting and assessing regression and classification models}
+      \field{volume}{6}
+      \field{year}{2014}
+      \field{pages}{1}
+      \range{pages}{1}
+    \endentry
+    \entry{kuhn2015short}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3305789acf03200ed22f154007d4fab9}{%
+           family={Kuhn},
+           family_i={K\bibinitperiod},
+           given={Max},
+           given_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3305789acf03200ed22f154007d4fab9}
+      \strng{fullhash}{3305789acf03200ed22f154007d4fab9}
+      \field{labelalpha}{Kuh15}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{R Project website. cran. r-project. org/web/packages/caret/vignettes/caret. pdf. Published August}
+      \field{title}{A Short Introduction to the caret Package}
+      \field{volume}{6}
+      \field{year}{2015}
     \endentry
     \entry{lichman2013uci}{misc}{}
       \name{author}{1}{}{%
@@ -1436,10 +1705,10 @@
       \endverb
     \endentry
   \endsortlist
-  \missing{Citewainer2016comparison}
-  \missing{klimenko2016novel}
   \missing{arnolds2010pharmacokinetic}
+  \missing{Citewainer2016comparison}
   \missing{kalivas1997two}
+  \missing{Mostafa13learning}
 \endrefsection
 \endinput
 
