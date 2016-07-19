@@ -22,7 +22,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2.3}T}{7}{subsection.1.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {2}measureAbsorption}{9}{chapter.2}
+\contentsline {chapter}{\chapternumberline {2}Measure permeation enhancement}{9}{chapter.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.1}Studies to test peptide absorption}{9}{section.2.1}
 \defcounter {refsection}{0}\relax 
@@ -44,68 +44,84 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}Supervised machine learning to predict and to learn}{25}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Linear regression}{26}{section.3.2}
+\contentsline {subsection}{\numberline {3.1.1}Univariate Regression}{27}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Univariate Regression}{26}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.1.2}Multiple linear regression and interaction terms}{27}{subsection.3.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}Multiple linear regression and interaction terms}{27}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.2}cross validation}{29}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}cross validation}{28}{section.3.3}
+\contentsline {subsection}{\numberline {3.2.1}Segregation}{29}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Algorithmic models}{29}{section.3.4}
+\contentsline {subsection}{\numberline {3.2.2}Unbiased estimation}{30}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}random forest}{30}{section.3.5}
+\contentsline {subsection}{\numberline {3.2.3}Independent and identical sampling}{31}{subsection.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.1}Feature selection}{31}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.2.4}Transient or constant underlying systems}{31}{subsection.3.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.2}Feature selection}{31}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.2.5}Defining training error and prediction}{31}{subsection.3.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {4}predictPotency}{33}{chapter.4}
+\contentsline {subsection}{\numberline {3.2.6}n-fold cross validation, repeated validation and grid search}{32}{subsection.3.2.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Article: In silico modelling of permeation enhancement potency in Caco-2 monolayers based on molecular descriptors and random forest}{35}{section.4.1}
+\contentsline {section}{\numberline {3.3}Algorithmic models}{32}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {5}interpretTheForest}{45}{chapter.5}
+\contentsline {section}{\numberline {3.4}random forest}{34}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Modeling with random forest}{45}{section.5.1}
+\contentsline {chapter}{\chapternumberline {4}Predict permeation enhancement}{37}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}One interpretation of interactions}{45}{section.5.2}
+\contentsline {subsection}{\numberline {4.0.1}Work flow and early challenges}{37}{subsection.4.0.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Other ways to identify interactions}{49}{section.5.3}
+\contentsline {subsection}{\numberline {4.0.2}Challenges of a top down modeling of permeation enhancement}{38}{subsection.4.0.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Article: Forest Floor Visualizations of Random Forests}{49}{section.5.4}
+\contentsline {subsection}{\numberline {4.0.3}Identical distributions}{39}{subsection.4.0.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {6}structureOfSolubility}{87}{chapter.6}
+\contentsline {subsection}{\numberline {4.0.4}}{40}{subsection.4.0.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}Learning the structure of random forest models in QSAR modelling: Predicting molecular Solubility}{87}{section.6.1}
+\contentsline {section}{\numberline {4.1}}{40}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.1}The correct temperature}{99}{subsection.6.1.1}
+\contentsline {section}{\numberline {4.2}Article: In silico modelling of permeation enhancement potency in Caco-2 monolayers based on molecular descriptors and random forest}{41}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {7}Conclusion}{101}{chapter.7}
+\contentsline {chapter}{\chapternumberline {5}interpretTheForest}{51}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {appendix}{\chapternumberline {A}An Appendix}{103}{appendix.A}
+\contentsline {section}{\numberline {5.1}Modeling with random forest}{51}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Random forest Q&A answers with illustrations and code examples}{103}{section.A.1}
+\contentsline {section}{\numberline {5.2}One interpretation of interactions}{51}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.1}Handling unbalanced data with with random forest}{103}{subsection.A.1.1}
+\contentsline {section}{\numberline {5.3}Other ways to identify interactions}{55}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.2}Random forest and outliers I: Outlier Islands}{107}{subsection.A.1.2}
+\contentsline {section}{\numberline {5.4}Article: Forest Floor Visualizations of Random Forests}{55}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.3}Random forest and outliers II: Robustness}{111}{subsection.A.1.3}
+\contentsline {chapter}{\chapternumberline {6}structureOfSolubility}{95}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.4}Simple check that random forest can fit interactions}{118}{subsection.A.1.4}
+\contentsline {section}{\numberline {6.1}Learning the structure of random forest models in QSAR modelling: Predicting molecular Solubility}{95}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.5}Simple check that random forest can fit interactions}{121}{subsection.A.1.5}
+\contentsline {subsection}{\numberline {6.1.1}The correct temperature}{107}{subsection.6.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.6}Simple check that random forest can fit interactions}{125}{subsection.A.1.6}
+\contentsline {chapter}{\chapternumberline {7}Conclusion}{109}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.7}Simple check that random forest can fit interactions}{129}{subsection.A.1.7}
+\contentsline {appendix}{\chapternumberline {A}An Appendix}{111}{appendix.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.8}Simple check that random forest can fit interactions}{131}{subsection.A.1.8}
+\contentsline {section}{\numberline {A.1}Random forest Q and A answers with illustrations and code examples}{111}{section.A.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.9}Simple check that random forest can fit interactions}{136}{subsection.A.1.9}
+\contentsline {subsection}{\numberline {A.1.1}Handling unbalanced data with with random forest}{111}{subsection.A.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.10}Simple check that random forest can fit interactions}{139}{subsection.A.1.10}
+\contentsline {subsection}{\numberline {A.1.2}Random forest and outliers I: Outlier Islands}{115}{subsection.A.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.2}Manual: R CRAN package forestFloor 1.9.5}{142}{section.A.2}
+\contentsline {subsection}{\numberline {A.1.3}Random forest and outliers II: Robustness}{119}{subsection.A.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{181}{section*.6}
+\contentsline {subsection}{\numberline {A.1.4}Simple check that random forest can fit interactions}{126}{subsection.A.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.5}Simple check that random forest can fit interactions}{129}{subsection.A.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.6}Simple check that random forest can fit interactions}{133}{subsection.A.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.7}Simple check that random forest can fit interactions}{137}{subsection.A.1.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.8}Simple check that random forest can fit interactions}{139}{subsection.A.1.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.9}Simple check that random forest can fit interactions}{144}{subsection.A.1.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.10}Simple check that random forest can fit interactions}{147}{subsection.A.1.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}Manual: R CRAN package forestFloor 1.9.5}{150}{section.A.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{189}{section*.6}
