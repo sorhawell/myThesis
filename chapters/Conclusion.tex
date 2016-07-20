@@ -1,3 +1,31 @@
 %!TEX root = ../Thesis.tex
-\chapter{Conclusion}
-Morbi pharetra ligula integer mollis mi nec neque ultrices vitae volutpat leo ullamcorper. In at tellus magna. Curabitur quis posuere purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse tristique placerat feugiat. Aliquam vitae est at enim auctor ultrices eleifend a urna. Donec non tincidunt felis. Maecenas at suscipit orci.
+\chapter{Summary of results and conclusion}
+
+In agreement with Novo Nordisk. The specific methods of combining permeability predictions and solubility predictions and the actual suggested candidates have not been included in this thesis.
+
+
+\section{Is predicted potency the same as insolubility}
+In figure \ref{predictionsCombined} the predicted solubility and permeability is plotted for 10,000 molecules. As the model molecular descriptor computation with the MOE software took in average 1 second per molecule. The full available million molecules search set would have taken 11 days to run.  To narrow down the search set, molecules were selected by criteria of rotatable bonds and molar weight, in anticipation that molecules with less than a certain fraction of rotatable bonds likely would not have a fatty carbon chain, required to be an effecient surfactant-like permeation enhancer.
+
+As mentioned in Section \ref{predPerm:workflow} a major consideration was that the permeability model and solubility model both only would recognize lipophilicity-like properties as predictors, and thus perform exactly opposite predictions. However this is seems not to be the case for the 10,000 predicted molecules. 
+
+
+\begin{figure}[!htbp]
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/screened_molecules2.png}
+\caption{Predictions of logS water solubility and permeation enhancement in Caco-2 model for 10,000 compounds. Few molecules are both soluble and potent permeation enhancers. Most molecules are not potent enough (less potent than Caprate) some molecules, are likely not soluble enough. }
+\label{predictionsCombined}
+\end{figure}
+
+
+
+\section{Discussion}
+
+Permeation enhancers can increase the permeability of insulin across the epithelial barrier. Insulin degrade with time due to enzymes in the luminal space of the small intestine. To reduce the time in luminal space, the permeation enhancer must contribute to a fast efficient dissolution of the tablet. A very slow release will give zero-order enzyme reactions an advantage to break down all insulin. Also the permeation enhancer may cleared from the site of action faster than the release from the tablet, thus the overall concentration of permeation enhancer in the epithelial membrane will be to low
+
+Identifying new potent enhancers with the Caco-2 cell model do not emphasize the dissolution speed. As a substitute for intrinsic dissolution speed measurements, logS-solubility was used instead, as intrinsic dissolution measurements were too sparse and not available in the public domain. Predicting both solubility and permeation enhancement allow to correct for the over-optimistic scoring of lipophilic permeation enhancers in the caco-2 model. As the Caco-2 model uses a very hydrophilic HBSS buffer, the lipophilic permeation enhancers will have no other place to bind than the epithelial membrane. However under \textit{in-vivo} conditions, there will be plenty of competing sites to bind such as billary liposomes and micelles. With the combination of permeation predictions and solubility prediction, molecules are suggested that likely both soluble and potent. The predictive accuracy of permeability, allow roughly to group new molecules into highly potent, low potent and not sufficient potent at all. A greater resolution seems not possible from the standard of cross-validation and external test set.
+
+The resolution for logS predictions is better however logS is not the same as intrinsic dissolution. Noyes-Whitney dissolution rates equation predict dissolution as proportional to the concentration gradient and a rate constant. The more soluble an enhancer is, the proportionally faster it can ideally pass from solid form to mono-meric form and diffuse away from the tablet. The temperature sensitivity of molecules has not been accounted for. All logS prediction match 20 to 25 degrees celcius. Most like the majority of molecules will have a higher logS value at 37 degrees, however some molecules may be more sensitive to temperature than others. This will contribute with extra uncertainty, when extrapolation to 37 degrees Celcius. One can assume that the model can recognize molecules dissolution rate as fast, acceptable and too slow.
+
+The regression random forest learner was used to build predictive models. The explicit structure of the trained random forest models is too complicated to comprehend. In order to evaluate would properties of molecules constitutes soluble and potent permeation enhancers, the diagnostic tool feature contributions were used. In January 2014, the first Forest Floor like plots discovered the interaction in the permeation model structure, that molecules only were likely to more be potent due an acylic carbon chain, if also having a dipole moment above a certain threshold. This seems be a good rule to identify surfactants as these have a dipole moment between the electrophilic or nucleophilic head group and carbon chain.
+
+As this useful method of visualizing feature contributions, had not been described before in literature and it seemed to have some advantages over other diagnostic methods for similar purposes, it was very interesting to develop a generic visualization tool which could assist other random forest users in various fields to understand the overall structure of the trained model. The intellectual property arrangement between DTU And Novo Nordisk secures that solely statistical inventions belong to the university. This would allow a back up, in case non of my other workings good be published. The outcome have been a statistical package computing feature contributions and providing the feature contributions and diagnostic tools to break down the high dimensional model structure in pieces that can be understood.

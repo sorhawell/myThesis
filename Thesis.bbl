@@ -480,6 +480,35 @@
       \field{pages}{5\bibrangedash 32}
       \range{pages}{28}
     \endentry
+    \entry{sara2012application}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=867b78fba4545f6c2c433bbeb8ddaa11}{%
+           family={Brebbia},
+           family_i={B\bibinitperiod},
+           given={Sarah\bibnamedelima Øster},
+           given_i={S\bibinitperiod\bibinitdelim Ø\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Technical University of Denmark, DTU Informatics}%
+      }
+      \list{location}{1}{%
+        {Asmussens Alle, Building 305, {DK-}2800 Kgs. Lyngby, Denmark}%
+      }
+      \strng{namehash}{867b78fba4545f6c2c433bbeb8ddaa11}
+      \strng{fullhash}{867b78fba4545f6c2c433bbeb8ddaa11}
+      \field{labelalpha}{Bre12}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Supervised by Professor Per Brockhoff, pbb@imm.dtu.dk, DTU Informatics. Thesis not publicly available.}
+      \field{title}{Application of Text Analytics and Multivariate Statistics for Characterization of Absorption Enhancers - Introducing the Drug Delivery Problem}
+      \field{type}{Thesis}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://www.imm.dtu.dk/English.aspx
+      \endverb
+    \endentry
     \entry{caumo2004first}{article}{}
       \name{author}{2}{}{%
         {{hash=85cbd636120a7982780ab594e9d9eb5e}{%
@@ -867,6 +896,53 @@
       \field{pages}{175\bibrangedash 194}
       \range{pages}{20}
     \endentry
+    \entry{harrell1984regression}{article}{}
+      \name{author}{5}{}{%
+        {{hash=02e46d9bef88656769224033adaec876}{%
+           family={Harrell},
+           family_i={H\bibinitperiod},
+           given={Frank\bibnamedelima E},
+           given_i={F\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=4b1979549e17a5f9bd4cf048b0a80d84}{%
+           family={Lee},
+           family_i={L\bibinitperiod},
+           given={Kerry\bibnamedelima L},
+           given_i={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c5adc78faf506813cb41410ddd79bc4f}{%
+           family={Califf},
+           family_i={C\bibinitperiod},
+           given={Robert\bibnamedelima M},
+           given_i={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=1af94bef149e8c1085f88486ab3e49de}{%
+           family={Pryor},
+           family_i={P\bibinitperiod},
+           given={David\bibnamedelima B},
+           given_i={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=a5f05409132dff0606aaea4c29103332}{%
+           family={Rosati},
+           family_i={R\bibinitperiod},
+           given={Robert\bibnamedelima A},
+           given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{af67d35e726824a441315a3b16db7782}
+      \strng{fullhash}{922c4b41c5c0696be882570327997a37}
+      \field{labelalpha}{Har+84}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{journaltitle}{Statistics in medicine}
+      \field{number}{2}
+      \field{title}{Regression modelling strategies for improved prognostic prediction}
+      \field{volume}{3}
+      \field{year}{1984}
+      \field{pages}{143\bibrangedash 152}
+      \range{pages}{10}
+    \endentry
     \entry{harrell2015regression}{book}{}
       \name{author}{1}{}{%
         {{hash=1697ec242505ee7621a396a1fd69a8ed}{%
@@ -887,6 +963,32 @@
       \field{labeltitlesource}{title}
       \field{title}{Regression modeling strategies: with applications to linear models, logistic and ordinal regression, and survival analysis}
       \field{year}{2015}
+    \endentry
+    \entry{ho1998random}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e29ac099e82ac42634f954ebaad8d1f2}{%
+           family={Ho},
+           family_i={H\bibinitperiod},
+           given={Tin\bibnamedelima Kam},
+           given_i={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{e29ac099e82ac42634f954ebaad8d1f2}
+      \strng{fullhash}{e29ac099e82ac42634f954ebaad8d1f2}
+      \field{labelalpha}{Ho98}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE transactions on pattern analysis and machine intelligence}
+      \field{number}{8}
+      \field{title}{The random subspace method for constructing decision forests}
+      \field{volume}{20}
+      \field{year}{1998}
+      \field{pages}{832\bibrangedash 844}
+      \range{pages}{13}
     \endentry
     \entry{holman}{article}{}
       \name{author}{5}{}{%
@@ -1511,6 +1613,57 @@
       \field{pages}{726\bibrangedash 734}
       \range{pages}{9}
     \endentry
+    \entry{rosen2012surfactants}{book}{}
+      \name{author}{2}{}{%
+        {{hash=77fd2bf3e768362d563a4d271049be9f}{%
+           family={Rosen},
+           family_i={R\bibinitperiod},
+           given={Milton\bibnamedelima J},
+           given_i={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=06b78ff196211b76c2ae37ca3847e541}{%
+           family={Kunjappu},
+           family_i={K\bibinitperiod},
+           given={Joy\bibnamedelima T},
+           given_i={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{2293ce396e24a33e6897065ab7fa44fd}
+      \strng{fullhash}{2293ce396e24a33e6897065ab7fa44fd}
+      \field{labelalpha}{RK12}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Surfactants and interfacial phenomena}
+      \field{year}{2012}
+    \endentry
+    \entry{seroussi2015steps}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=47b968c617684454a3c219b06896aba8}{%
+           family={Seroussi},
+           family_i={S\bibinitperiod},
+           given={Yanir},
+           given_i={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {KDnuggets}%
+      }
+      \strng{namehash}{47b968c617684454a3c219b06896aba8}
+      \strng{fullhash}{47b968c617684454a3c219b06896aba8}
+      \field{labelalpha}{Ser15}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{03}
+      \field{title}{10 Steps to Success in Kaggle Data Science Competitions}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.kdnuggets.com/2015/03/10-steps-success-kaggle-data-science-competitions.html
+      \endverb
+    \endentry
     \entry{silverthorn2010human}{book}{}
       \name{author}{1}{}{%
         {{hash=948980dde5ec9b4edcba1e995633bc1d}{%
@@ -1633,7 +1786,7 @@
       \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Abstract The excipient citric acid (CA) has been reported to improve oral absorption of peptides by different mechanisms. The balance between its related properties of calcium chelation and permeation enhancement compared to a proteolysis inhibition was examined. A predictive model of CA’s calcium chelation activity was developed and verified experimentally using an ion-selective electrode. The effects of CA, its salt (citrate, Cit) and the established permeation enhancer, lauroyl carnitine chloride (LCC) were compared by measuring transepithelial electrical resistance (TEER) and permeability of insulin and \{FD4\} across Caco-2 monolayers and rat small intestinal mucosae mounted in Ussing chambers. Proteolytic degradation of insulin was determined in rat luminal extracts across a range of pH values in the presence of CA. CA’s capacity to chelate calcium decreased ∼10-fold for each pH unit moving from pH 6 to pH 3. \{CA\} was an inferior weak permeation enhancer compared to \{LCC\} in both in vitro models using physiological buffers. At pH 4.5 however, degradation of insulin in rat luminal extracts was significantly inhibited in the presence of 10 mM CA. The capacity of \{CA\} to chelate luminal calcium does not occur significantly at the acidic pH values where it effectively inhibits proteolysis, which is its dominant action in oral peptide formulations. On account of insulin’s low basal permeability, inclusion of alternative permeation enhancers is likely to be necessary to achieve sufficient oral bioavailability since this is a weak property of CA.}
+      \field{abstract}{Abstract The excipient citric acid (CA) has been reported to improve oral absorption of peptides by different 	anisms. The balance between its related properties of calcium chelation and permeation enhancement compared to a proteolysis inhibition was examined. A predictive model of CA’s calcium chelation activity was developed and verified experimentally using an ion-selective electrode. The effects of CA, its salt (citrate, Cit) and the established permeation enhancer, lauroyl carnitine chloride (LCC) were compared by measuring transepithelial electrical resistance (TEER) and permeability of insulin and \{FD4\} across Caco-2 monolayers and rat small intestinal mucosae mounted in Ussing chambers. Proteolytic degradation of insulin was determined in rat luminal extracts across a range of pH values in the presence of CA. CA’s capacity to chelate calcium decreased ∼10-fold for each pH unit moving from pH 6 to pH 3. \{CA\} was an inferior weak permeation enhancer compared to \{LCC\} in both in vitro models using physiological buffers. At pH 4.5 however, degradation of insulin in rat luminal extracts was significantly inhibited in the presence of 10 mM CA. The capacity of \{CA\} to chelate luminal calcium does not occur significantly at the acidic pH values where it effectively inhibits proteolysis, which is its dominant action in oral peptide formulations. On account of insulin’s low basal permeability, inclusion of alternative permeation enhancers is likely to be necessary to achieve sufficient oral bioavailability since this is a weak property of CA.}
       \field{issn}{0939-6411}
       \field{journaltitle}{European Journal of Pharmaceutics and Biopharmaceutics}
       \field{number}{3}
@@ -1684,6 +1837,48 @@
       \field{title}{Forest Floor Visualizations of Random Forests}
       \field{year}{2016}
     \endentry
+    \entry{wiki:gamblers}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           family_i={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{labelalpha}{Wik16}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 17-July-2016]}
+      \field{title}{Gambler's fallacy --- Wikipedia{,} The Free Encyclopedia}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Gambler%27s_fallacy&oldid=721766258
+      \endverb
+    \endentry
+    \entry{wiki:Lucus}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           family_i={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{labelalpha}{Wik16}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 17-July-2016]}
+      \field{title}{Lucas critique --- Wikipedia{,} The Free Encyclopedia}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Lucas_critique&oldid=729149918
+      \endverb
+    \endentry
     \entry{wiki2016John}{misc}{}
       \name{author}{1}{}{%
         {{hash=191d11504115907a07a2f7c8ff048280}{%
@@ -1695,6 +1890,7 @@
       \field{labelalpha}{Wik16}
       \field{sortinit}{W}
       \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{extraalpha}{3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{[Online; accessed 12-July-2016]}
@@ -1704,11 +1900,41 @@
       \verb https://en.wikiquote.org/w/index.php?title=John_von_Neumann&oldid=2132483
       \endverb
     \endentry
+    \entry{xia2000mechanistic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b8787c8e598fea2ae15c0b9d87f1f3d0}{%
+           family={Xia},
+           family_i={X\bibinitperiod},
+           given={Wei\bibnamedelima J},
+           given_i={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=9d73fb64aa778021f156020516399285}{%
+           family={Onyuksel},
+           family_i={O\bibinitperiod},
+           given={Hayat},
+           given_i={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{6943f3ba6753743ef695ba701cb8ebbb}
+      \strng{fullhash}{6943f3ba6753743ef695ba701cb8ebbb}
+      \field{labelalpha}{XO00}
+      \field{sortinit}{X}
+      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
+      \field{labelnamesource}{author}
+      \field{journaltitle}{Pharmaceutical research}
+      \field{number}{5}
+      \field{volume}{17}
+      \field{year}{2000}
+      \field{pages}{612\bibrangedash 618}
+      \range{pages}{7}
+    \endentry
   \endsortlist
-  \missing{arnolds2010pharmacokinetic}
-  \missing{Citewainer2016comparison}
   \missing{kalivas1997two}
   \missing{Mostafa13learning}
+  \missing{arnolds2010pharmacokinetic}
+  \missing{Citewainer2016comparison}
+  \missing{monkeys}
 \endrefsection
 \endinput
 
