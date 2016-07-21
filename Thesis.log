@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  20 JUL 2016 17:16
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  21 JUL 2016 15:06
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -1608,6 +1608,11 @@ File: ppxetex.def 2016/04/19 v0.5f Pdfpages driver for XeTeX (AM)
 \AM@toc@title=\toks48
 \c@AM@survey=\count436
 \AM@templatesizebox=\box62
+)
+("C:\progs\MiKTeX 2.9\tex\latex\hyphenat\hyphenat.sty"
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language76
+LaTeX Info: Redefining \_ on input line 43.
 )) (preamble/fonts.tex
 \g__fontspec_family_texgyreadventor_int=\count437
 .................................................
@@ -1725,14 +1730,8 @@ File: english.lbx 2016/05/14 v3.4 biblatex localization (PK/JW/AB)
 ) (Thesis.aux
 (prefrontmatter/titlepage.aux) (prefrontmatter/colophon.aux)
 (frontmatter/Summary.aux) (frontmatter/Preface.aux)
-(frontmatter/Acknowledgements.aux) (chapters/Introduction.aux
-
-LaTeX Warning: Label `intro_glucoseTolerance' multiply defined.
-
-
-LaTeX Warning: Label `intro_glucoseTolerance@cref' multiply defined.
-
-) (chapters/measureAbsorption.aux) (chapters/introStat.aux)
+(frontmatter/Acknowledgements.aux) (chapters/Introduction.aux)
+(chapters/measureAbsorption.aux) (chapters/introStat.aux)
 (chapters/predictPotency.aux
 
 LaTeX Warning: Label `devel_fassif' multiply defined.
@@ -1831,7 +1830,7 @@ Package biblatex Info: ... file 'Thesis.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                kalivas1997two
+(biblatex)                arnolds2010pharmacokinetic
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1845,14 +1844,14 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                arnolds2010pharmacokinetic
+(biblatex)                kalivas1997two
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Citewainer2016comparison
+(biblatex)                artursson1990epithelial
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1860,6 +1859,13 @@ Package biblatex Warning: The following entry could not be found
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
 (biblatex)                monkeys
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Citewainer2016comparison
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1898,18 +1904,15 @@ Package microtype Info: Loading generic settings for font family
 File: graphics/DTU-Compute-B-UK.pdf Graphic file (type QTm)
  <use  "graphics/DTU-Compute-B-UK.pdf" >
 LaTeX Font Info:    Font shape `EU1/texgyreadventor(0)/m/n' will be
-(Font)              scaled to size 28.80011pt on input line 14.
+(Font)              scaled to size 16.59206pt on input line 14.
 LaTeX Font Info:    Font shape `EU1/texgyreadventor(0)/m/n' will be
-(Font)              scaled to size 24.00009pt on input line 15.
-LaTeX Font Info:    Font shape `EU1/texgyreadventor(0)/m/n' will be
-(Font)              scaled to size 16.59206pt on input line 21.
-LaTeX Font Info:    Font shape `EU1/texgyreadventor(0)/m/n' will be
-(Font)              scaled to size 13.82405pt on input line 21.
+(Font)              scaled to size 13.82405pt on input line 15.
 File: graphics/DTU-logo-CMYK.pdf Graphic file (type QTm)
 
 <use  "graphics/DTU-logo-CMYK.pdf" >
-Overfull \hbox (6.3139pt too wide) in paragraph at lines 12--23
-\EU1/texgyreadventor(0)/m/n/36 hancers for orally administered ther-
+Overfull \hbox (30.74982pt too wide) in paragraph at lines 12--23
+[]\EU1/texgyreadventor(0)/m/n/20.74 Characterization of absorption enhancers fo
+r orally administered
  []
 
 ) [1
@@ -1938,10 +1941,12 @@ File: graphics/DTU-frise-SH-15.pdf Graphic file (type QTm)
 
  (frontmatter/Summary.tex
 LaTeX Font Info:    Font shape `EU1/texgyreadventor(0)/m/n' will be
+(Font)              scaled to size 28.80011pt on input line 2.
+LaTeX Font Info:    Font shape `EU1/texgyreadventor(0)/m/n' will be
 (Font)              scaled to size 43.20016pt on input line 2.
 LaTeX Font Info:    Font shape `EU1/texgyreadventor(0)/m/n' will be
 (Font)              scaled to size 25.6001pt on input line 2.
-)
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1
@@ -1950,13 +1955,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-]
+])
 [2]
 \openout2 = `frontmatter/Preface.aux'.
 
  (frontmatter/Preface.tex
-File: graphics/Signature.pdf Graphic file (type QTm)
- <use  "graphics/Signature.pdf" >) [3
+File: graphics/Signature_new2.pdf Graphic file (type QTm)
+ <use  "graphics/Signature_new2.pdf" >) [3
 
 
 
@@ -2002,41 +2007,98 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 5.
  [7]
-Overfull \hbox (1.24799pt too wide) detected at line 99
- []\EU1/texgyreadventor(0)/bx/n/12 109[]
- []
-
-
 Overfull \hbox (2.75992pt too wide) detected at line 101
  []\EU1/lmr/m/n/12 109[]
  []
 
 
-Overfull \hbox (2.75992pt too wide) detected at line 103
- []\EU1/lmr/m/n/12 109[]
+Overfull \hbox (1.24799pt too wide) detected at line 103
+ []\EU1/texgyreadventor(0)/bx/n/12 111[]
  []
 
 
-Overfull \hbox (1.24799pt too wide) detected at line 105
- []\EU1/texgyreadventor(0)/bx/n/12 113[]
+Overfull \hbox (2.75992pt too wide) detected at line 105
+ []\EU1/lmr/m/n/12 111[]
  []
 
 
 Overfull \hbox (2.75992pt too wide) detected at line 107
- []\EU1/lmr/m/n/12 113[]
+ []\EU1/lmr/m/n/12 111[]
+ []
+
+
+Overfull \hbox (1.24799pt too wide) detected at line 109
+ []\EU1/texgyreadventor(0)/bx/n/12 115[]
+ []
+
+
+Overfull \hbox (2.75992pt too wide) detected at line 111
+ []\EU1/lmr/m/n/12 115[]
+ []
+
+
+Overfull \hbox (2.75992pt too wide) detected at line 113
+ []\EU1/lmr/m/n/12 115[]
+ []
+
+
+Overfull \hbox (2.75992pt too wide) detected at line 115
+ []\EU1/lmr/m/n/12 119[]
+ []
+
+
+Overfull \hbox (2.75992pt too wide) detected at line 117
+ []\EU1/lmr/m/n/12 123[]
+ []
+
+
+Overfull \hbox (2.75992pt too wide) detected at line 119
+ []\EU1/lmr/m/n/12 130[]
+ []
+
+
+Overfull \hbox (2.75992pt too wide) detected at line 121
+ []\EU1/lmr/m/n/12 133[]
+ []
+
+
+Overfull \hbox (2.75992pt too wide) detected at line 123
+ []\EU1/lmr/m/n/12 137[]
+ []
+
+
+Overfull \hbox (2.75992pt too wide) detected at line 125
+ []\EU1/lmr/m/n/12 141[]
+ []
+
+
+Overfull \hbox (2.75992pt too wide) detected at line 127
+ []\EU1/lmr/m/n/12 143[]
  []
 
 
 Overfull \hbox (2.75992pt too wide) detected at line 129
- []\EU1/lmr/m/n/12 152[]
+ []\EU1/lmr/m/n/12 148[]
  []
 
 
-Overfull \hbox (1.24799pt too wide) detected at line 131
- []\EU1/texgyreadventor(0)/bx/n/12 191[]
+Overfull \hbox (2.75992pt too wide) detected at line 131
+ []\EU1/lmr/m/n/12 151[]
  []
 
-) [8]
+
+Overfull \hbox (2.75992pt too wide) detected at line 133
+ []\EU1/lmr/m/n/12 154[]
+ []
+
+
+Overfull \hbox (1.24799pt too wide) detected at line 135
+ []\EU1/texgyreadventor(0)/bx/n/12 193[]
+ []
+
+) [8] [9] [10
+
+]
 \openout2 = `chapters/Introduction.aux'.
 
  (chapters/Introduction.tex
@@ -2059,49 +2121,55 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 
 
-
 ]
 LaTeX Font Info:    Font shape `EU1/texgyreadventor(0)/m/n' will be
 (Font)              scaled to size 19.90407pt on input line 10.
 
-Underfull \vbox (badness 6526) has occurred while \output is active []
+Overfull \hbox (28.77385pt too wide) in paragraph at lines 17--20
+\EU1/lmr/m/n/12 7.8 mmol/L for adult of 80 kg and 8 liters of blood would only 
+require $[] \OT1/lmr/m/n/12 =
+ []
 
- [2]
+[2]
 
-Package nag Warning: \label in float, but not after \caption on input line 22.
+Package nag Warning: \label in float, but not after \caption on input line 27.
 
 File: graphics/glucoseTolerance.pdf Graphic file (type QTm)
-<use  "graphics/glucoseTolerance.pdf" > [3] [4] [5] [6]
+<use  "graphics/glucoseTolerance.pdf" > [3]
+Underfull \vbox (badness 4927) has occurred while \output is active []
+
+ [4]
 File: graphics/intro_anatomy2.pdf Graphic file (type QTm)
 
-<use  "graphics/intro_anatomy2.pdf" >) [7] [8]
+<use  "graphics/intro_anatomy2.pdf" > [5] [6] [7] [8]) [9]
 \openout2 = `chapters/measureAbsorption.aux'.
 
- (chapters/measureAbsorption.tex
 
-LaTeX Warning: Reference `typeOfExperiment' on page 9 undefined on input line 8
-.
-
-
-LaTeX Warning: Reference `some section' on page 9 undefined on input line 12.
-
-
-LaTeX Warning: Reference `typeOfExperiment' on page 9 undefined on input line 1
-2.
-
-[9
+(chapters/measureAbsorption.tex [10
 
 
 
 ]
+
+LaTeX Warning: Reference `typeOfExperiment' on page 11 undefined on input line 
+8.
+
+
+LaTeX Warning: Reference `some section' on page 11 undefined on input line 12.
+
+
+LaTeX Warning: Reference `typeOfExperiment' on page 11 undefined on input line 
+12.
+
+[11]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10]
+ [12]
 
 Package nag Warning: \label in float, but not after \caption on input line 22.
 
 File: graphics/typeOfExperiments.pdf Graphic file (type QTm)
-<use  "graphics/typeOfExperiments.pdf" > [11]
+<use  "graphics/typeOfExperiments.pdf" > [13]
 
 Package nag Warning: \label in float, but not after \caption on input line 36.
 
@@ -2109,7 +2177,7 @@ File: graphics/sketch_measuring_permeability.png Graphic file (type QTm)
 <use  "graphics/sketch_measuring_permeability.png" >
 Underfull \vbox (badness 1270) has occurred while \output is active []
 
- [12]
+ [14]
 
 Package nag Warning: \label in float, but not after \caption on input line 49.
 
@@ -2117,8 +2185,8 @@ File: graphics/devel_Fasssif_PCC2.png Graphic file (type QTm)
 <use  "graphics/devel_Fasssif_PCC2.png" >
 Underfull \vbox (badness 6859) has occurred while \output is active []
 
- [13]
-[14]
+ [15]
+[16]
 
 Class memoir Warning: The material used in the headers is too large
 (28.99998pt) for the given head height (14.5pt), it is recommended to
@@ -2129,7 +2197,7 @@ either increase the head height or redesign the header
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[15]
+[17]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
  <use  "chapters/citricAcid.pdf" >
 File: chapters/citricAcid.pdf Graphic file (type QTm)
@@ -2148,7 +2216,7 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 <use  "chapters/citricAcid.pdf"  page1>
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
-<use  "chapters/citricAcid.pdf"  page1> [16]
+<use  "chapters/citricAcid.pdf"  page1> [18]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page2>
@@ -2159,7 +2227,7 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
-<use  "chapters/citricAcid.pdf"  page2> [17]
+<use  "chapters/citricAcid.pdf"  page2> [19]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page3>
@@ -2168,7 +2236,7 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 <use  "chapters/citricAcid.pdf"  page3>
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
-<use  "chapters/citricAcid.pdf"  page3> [18]
+<use  "chapters/citricAcid.pdf"  page3> [20]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page4>
@@ -2179,7 +2247,7 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
-<use  "chapters/citricAcid.pdf"  page4> [19]
+<use  "chapters/citricAcid.pdf"  page4> [21]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page5>
@@ -2188,7 +2256,7 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 <use  "chapters/citricAcid.pdf"  page5>
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
-<use  "chapters/citricAcid.pdf"  page5> [20]
+<use  "chapters/citricAcid.pdf"  page5> [22]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page6>
@@ -2199,7 +2267,7 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
-<use  "chapters/citricAcid.pdf"  page6> [21]
+<use  "chapters/citricAcid.pdf"  page6> [23]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page7>
@@ -2208,7 +2276,7 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 <use  "chapters/citricAcid.pdf"  page7>
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
-<use  "chapters/citricAcid.pdf"  page7> [22]
+<use  "chapters/citricAcid.pdf"  page7> [24]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page8>
@@ -2219,7 +2287,7 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
-<use  "chapters/citricAcid.pdf"  page8> [23]) [24]
+<use  "chapters/citricAcid.pdf"  page8> [25]) [26]
 \openout2 = `chapters/introStat.aux'.
 
  (chapters/introStat.tex
@@ -2228,16 +2296,16 @@ File: graphics/sketchMLmapping.png Graphic file (type QTm)
 <use  "graphics/sketchMLmapping.png" >
 Underfull \vbox (badness 1184) has occurred while \output is active []
 
- [25
+ [27
 
 
 
 ]
-[26] [27] [28] [29]
+[28] [29] [30] [31]
 Underfull \vbox (badness 1552) has occurred while \output is active []
 
- [30]
-[31] [32]
+ [32]
+[33] [34]
 File: graphics/svmVSrf.png Graphic file (type QTm)
  <use  "graphics/svmVSrf.png" >
 Missing character: There is no − in font rm-lmr12!
@@ -2245,45 +2313,49 @@ Missing character: There is no − in font rm-lmr12!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [33]
+ [35]
 File: graphics/forestFloorFig02.pdf Graphic file (type QTm)
 
-<use  "graphics/forestFloorFig02.pdf" > [34]) [35]
+<use  "graphics/forestFloorFig02.pdf" > [36]) [37]
 \openout2 = `chapters/predictPotency.aux'.
 
- (chapters/predictPotency.tex [36
+ (chapters/predictPotency.tex [38
 
 
 
 ]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 6.
+
 
 Package nag Warning: \label in float, but not after \caption on input line 14.
 
 File: graphics/predictPotencySummary.pdf Graphic file (type QTm)
 <use  "graphics/predictPotencySummary.pdf" >
 
-LaTeX Warning: Reference `someWhere' on page 37 undefined on input line 21.
+LaTeX Warning: Reference `someWhere' on page 39 undefined on input line 21.
 
-[37] [38] [39]
+[39] [40] [41]
 
-Package nag Warning: \label in float, but not after \caption on input line 52.
+Package nag Warning: \label in float, but not after \caption on input line 51.
 
 File: graphics/workSummary_130mm.pdf Graphic file (type QTm)
 <use  "graphics/workSummary_130mm.pdf" >
 
-Package nag Warning: \label in float, but not after \caption on input line 58.
+Package nag Warning: \label in float, but not after \caption on input line 57.
 
 File: graphics/typeOfSurfactant.pdf Graphic file (type QTm)
 <use  "graphics/typeOfSurfactant.pdf" >
 
-Package nag Warning: \label in float, but not after \caption on input line 64.
+Package nag Warning: \label in float, but not after \caption on input line 63.
 
 File: graphics/predictPotencySummary.pdf Graphic file (type QTm)
-<use  "graphics/predictPotencySummary.pdf" > [40]
+<use  "graphics/predictPotencySummary.pdf" > [42]
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
-[41]
+[43]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
  <use  "chapters/predictPotencyArt.pdf" >
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
@@ -2303,7 +2375,7 @@ File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 <use  "chapters/predictPotencyArt.pdf"  page1>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page1> [42]
+<use  "chapters/predictPotencyArt.pdf"  page1> [44]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page2>
@@ -2314,7 +2386,7 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page2> [43]
+<use  "chapters/predictPotencyArt.pdf"  page2> [45]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page3>
@@ -2323,7 +2395,7 @@ File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 <use  "chapters/predictPotencyArt.pdf"  page3>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page3> [44]
+<use  "chapters/predictPotencyArt.pdf"  page3> [46]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page4>
@@ -2334,7 +2406,7 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page4> [45]
+<use  "chapters/predictPotencyArt.pdf"  page4> [47]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page5>
@@ -2343,7 +2415,7 @@ File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 <use  "chapters/predictPotencyArt.pdf"  page5>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page5> [46]
+<use  "chapters/predictPotencyArt.pdf"  page5> [48]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page6>
@@ -2354,7 +2426,7 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page6> [47]
+<use  "chapters/predictPotencyArt.pdf"  page6> [49]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page7>
@@ -2363,7 +2435,7 @@ File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 <use  "chapters/predictPotencyArt.pdf"  page7>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page7> [48]
+<use  "chapters/predictPotencyArt.pdf"  page7> [50]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page8>
@@ -2374,22 +2446,22 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page8> [49])
+<use  "chapters/predictPotencyArt.pdf"  page8> [51])
 \openout2 = `chapters/interpretTheForest.aux'.
 
 
-(chapters/interpretTheForest.tex [50
+(chapters/interpretTheForest.tex [52
 
 
 
-] [51]
+] [53]
 File: graphics/sketch_pyramid_interaction.png Graphic file (type QTm)
 
-<use  "graphics/sketch_pyramid_interaction.png" > [52] [53]
+<use  "graphics/sketch_pyramid_interaction.png" > [54] [55]
 Underfull \vbox (badness 1163) has occurred while \output is active []
 
- [54]
-[55]
+ [56]
+[57]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
  <use  "chapters/forestFloorArt.pdf" >
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
@@ -2409,7 +2481,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page1>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page1> [56]
+<use  "chapters/forestFloorArt.pdf"  page1> [58]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page2>
@@ -2418,7 +2490,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page2>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page2> [57]
+<use  "chapters/forestFloorArt.pdf"  page2> [59]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page3>
@@ -2427,7 +2499,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page3>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page3> [58]
+<use  "chapters/forestFloorArt.pdf"  page3> [60]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page4>
@@ -2436,7 +2508,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page4>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page4> [59]
+<use  "chapters/forestFloorArt.pdf"  page4> [61]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page5>
@@ -2445,7 +2517,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page5>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page5> [60]
+<use  "chapters/forestFloorArt.pdf"  page5> [62]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page6>
@@ -2454,7 +2526,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page6>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page6> [61]
+<use  "chapters/forestFloorArt.pdf"  page6> [63]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page7>
@@ -2463,7 +2535,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page7>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page7> [62]
+<use  "chapters/forestFloorArt.pdf"  page7> [64]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page8>
@@ -2472,7 +2544,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page8>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page8> [63]
+<use  "chapters/forestFloorArt.pdf"  page8> [65]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page9>
@@ -2481,7 +2553,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page9>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page9> [64]
+<use  "chapters/forestFloorArt.pdf"  page9> [66]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page10>
@@ -2490,7 +2562,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page10>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page10> [65]
+<use  "chapters/forestFloorArt.pdf"  page10> [67]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page11>
@@ -2499,7 +2571,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page11>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page11> [66]
+<use  "chapters/forestFloorArt.pdf"  page11> [68]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page12>
@@ -2508,7 +2580,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page12>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page12> [67]
+<use  "chapters/forestFloorArt.pdf"  page12> [69]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page13>
@@ -2517,7 +2589,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page13>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page13> [68]
+<use  "chapters/forestFloorArt.pdf"  page13> [70]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page14>
@@ -2526,7 +2598,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page14>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page14> [69]
+<use  "chapters/forestFloorArt.pdf"  page14> [71]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page15>
@@ -2535,7 +2607,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page15>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page15> [70]
+<use  "chapters/forestFloorArt.pdf"  page15> [72]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page16>
@@ -2544,7 +2616,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page16>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page16> [71]
+<use  "chapters/forestFloorArt.pdf"  page16> [73]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page17>
@@ -2553,7 +2625,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page17>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page17> [72]
+<use  "chapters/forestFloorArt.pdf"  page17> [74]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page18>
@@ -2562,7 +2634,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page18>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page18> [73]
+<use  "chapters/forestFloorArt.pdf"  page18> [75]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page19>
@@ -2571,7 +2643,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page19>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page19> [74]
+<use  "chapters/forestFloorArt.pdf"  page19> [76]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page20>
@@ -2580,7 +2652,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page20>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page20> [75]
+<use  "chapters/forestFloorArt.pdf"  page20> [77]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page21>
@@ -2589,7 +2661,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page21>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page21> [76]
+<use  "chapters/forestFloorArt.pdf"  page21> [78]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page22>
@@ -2598,7 +2670,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page22>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page22> [77]
+<use  "chapters/forestFloorArt.pdf"  page22> [79]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page23>
@@ -2607,7 +2679,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page23>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page23> [78]
+<use  "chapters/forestFloorArt.pdf"  page23> [80]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page24>
@@ -2616,7 +2688,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page24>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page24> [79]
+<use  "chapters/forestFloorArt.pdf"  page24> [81]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page25>
@@ -2625,7 +2697,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page25>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page25> [80]
+<use  "chapters/forestFloorArt.pdf"  page25> [82]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page26>
@@ -2634,7 +2706,7 @@ File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 <use  "chapters/forestFloorArt.pdf"  page26>
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
-<use  "chapters/forestFloorArt.pdf"  page26> [81]
+<use  "chapters/forestFloorArt.pdf"  page26> [83]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf" >
@@ -2655,7 +2727,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page2>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page2> [82]
+<use  "chapters/supplementaryForestFloor.pdf"  page2> [84]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page3>
@@ -2664,7 +2736,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page3>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page3> [83]
+<use  "chapters/supplementaryForestFloor.pdf"  page3> [85]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page4>
@@ -2673,7 +2745,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page4>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page4> [84]
+<use  "chapters/supplementaryForestFloor.pdf"  page4> [86]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page5>
@@ -2682,7 +2754,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page5>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page5> [85]
+<use  "chapters/supplementaryForestFloor.pdf"  page5> [87]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page6>
@@ -2691,7 +2763,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page6>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page6> [86]
+<use  "chapters/supplementaryForestFloor.pdf"  page6> [88]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page7>
@@ -2700,7 +2772,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page7>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page7> [87]
+<use  "chapters/supplementaryForestFloor.pdf"  page7> [89]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page8>
@@ -2709,7 +2781,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page8>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page8> [88]
+<use  "chapters/supplementaryForestFloor.pdf"  page8> [90]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page9>
@@ -2718,7 +2790,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page9>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page9> [89]
+<use  "chapters/supplementaryForestFloor.pdf"  page9> [91]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page10>
@@ -2727,7 +2799,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page10>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page10> [90]
+<use  "chapters/supplementaryForestFloor.pdf"  page10> [92]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page11>
@@ -2736,7 +2808,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page11>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page11> [91]
+<use  "chapters/supplementaryForestFloor.pdf"  page11> [93]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page12>
@@ -2745,7 +2817,7 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page12>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page12> [92]
+<use  "chapters/supplementaryForestFloor.pdf"  page12> [94]
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 <use  "chapters/supplementaryForestFloor.pdf"  page13>
@@ -2754,11 +2826,11 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 <use  "chapters/supplementaryForestFloor.pdf"  page13>
 File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
-<use  "chapters/supplementaryForestFloor.pdf"  page13> [93])
+<use  "chapters/supplementaryForestFloor.pdf"  page13> [95])
 \openout2 = `chapters/structureOfSolubility.aux'.
 
 
-(chapters/structureOfSolubility.tex [94
+(chapters/structureOfSolubility.tex [96
 
 
 
@@ -2774,7 +2846,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page1>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page1> [95]
+<use  "chapters/structureOfSolubility.pdf"  page1> [97]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page1>
@@ -2783,7 +2855,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page1>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page1> [96]
+<use  "chapters/structureOfSolubility.pdf"  page1> [98]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page2>
@@ -2792,7 +2864,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page2>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page2> [97]
+<use  "chapters/structureOfSolubility.pdf"  page2> [99]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page3>
@@ -2801,7 +2873,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page3>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page3> [98]
+<use  "chapters/structureOfSolubility.pdf"  page3> [100]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page4>
@@ -2810,7 +2882,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page4>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page4> [99]
+<use  "chapters/structureOfSolubility.pdf"  page4> [101]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page5>
@@ -2819,7 +2891,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page5>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page5> [100]
+<use  "chapters/structureOfSolubility.pdf"  page5> [102]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page6>
@@ -2828,7 +2900,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page6>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page6> [101]
+<use  "chapters/structureOfSolubility.pdf"  page6> [103]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page7>
@@ -2837,7 +2909,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page7>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page7> [102]
+<use  "chapters/structureOfSolubility.pdf"  page7> [104]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page8>
@@ -2846,7 +2918,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page8>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page8> [103]
+<use  "chapters/structureOfSolubility.pdf"  page8> [105]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page9>
@@ -2855,7 +2927,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page9>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page9> [104]
+<use  "chapters/structureOfSolubility.pdf"  page9> [106]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page10>
@@ -2864,7 +2936,7 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page10>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page10> [105]
+<use  "chapters/structureOfSolubility.pdf"  page10> [107]
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 <use  "chapters/structureOfSolubility.pdf"  page11>
@@ -2873,21 +2945,21 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 <use  "chapters/structureOfSolubility.pdf"  page11>
 File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
-<use  "chapters/structureOfSolubility.pdf"  page11> [106]) [107]
+<use  "chapters/structureOfSolubility.pdf"  page11> [108]) [109]
 \openout2 = `chapters/Conclusion.aux'.
 
 
-(chapters/Conclusion.tex [108
+(chapters/Conclusion.tex [110
 
 
 
 ]
 File: graphics/screened_molecules2.png Graphic file (type QTm)
  <use  "graphics/screened_molecules2.png" >
-[109] [110]) [111]
+[111] [112]) [113]
 \openout2 = `appendices/AnAppendix.aux'.
 
- (appendices/AnAppendix.tex [112
+ (appendices/AnAppendix.tex [114
 
 
 
@@ -2903,7 +2975,7 @@ File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV1_classwt.pdf"  page1>
 File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV1_classwt.pdf"  page1> [113]
+<use  "cross_validated_posts/CV1_classwt.pdf"  page1> [115]
 File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV1_classwt.pdf"  page1>
@@ -2912,7 +2984,7 @@ File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV1_classwt.pdf"  page1>
 File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV1_classwt.pdf"  page1> [114]
+<use  "cross_validated_posts/CV1_classwt.pdf"  page1> [116]
 File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV1_classwt.pdf"  page2>
@@ -2921,7 +2993,7 @@ File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV1_classwt.pdf"  page2>
 File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV1_classwt.pdf"  page2> [115]
+<use  "cross_validated_posts/CV1_classwt.pdf"  page2> [117]
 File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV1_classwt.pdf"  page3>
@@ -2930,7 +3002,7 @@ File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV1_classwt.pdf"  page3>
 File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV1_classwt.pdf"  page3> [116]
+<use  "cross_validated_posts/CV1_classwt.pdf"  page3> [118]
 File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV2_fullygrown.pdf" >
@@ -2942,7 +3014,7 @@ File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV2_fullygrown.pdf"  page1>
 File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV2_fullygrown.pdf"  page1> [117]
+<use  "cross_validated_posts/CV2_fullygrown.pdf"  page1> [119]
 File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV2_fullygrown.pdf"  page1>
@@ -2951,7 +3023,7 @@ File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV2_fullygrown.pdf"  page1>
 File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV2_fullygrown.pdf"  page1> [118]
+<use  "cross_validated_posts/CV2_fullygrown.pdf"  page1> [120]
 File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV2_fullygrown.pdf"  page2>
@@ -2960,7 +3032,7 @@ File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV2_fullygrown.pdf"  page2>
 File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV2_fullygrown.pdf"  page2> [119]
+<use  "cross_validated_posts/CV2_fullygrown.pdf"  page2> [121]
 File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV2_fullygrown.pdf"  page3>
@@ -2969,7 +3041,7 @@ File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV2_fullygrown.pdf"  page3>
 File: cross_validated_posts/CV2_fullygrown.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV2_fullygrown.pdf"  page3> [120]
+<use  "cross_validated_posts/CV2_fullygrown.pdf"  page3> [122]
 File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV3_sensitiveOutliers.pdf" >
@@ -2981,7 +3053,7 @@ File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page1>
 File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page1> [121]
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page1> [123]
 File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page1>
@@ -2990,7 +3062,7 @@ File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page1>
 File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page1> [122]
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page1> [124]
 File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page2>
@@ -2999,7 +3071,7 @@ File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page2>
 File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page2> [123]
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page2> [125]
 File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page3>
@@ -3008,7 +3080,7 @@ File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page3>
 File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page3> [124]
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page3> [126]
 File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page4>
@@ -3017,7 +3089,7 @@ File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page4>
 File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page4> [125]
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page4> [127]
 File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page5>
@@ -3026,7 +3098,7 @@ File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page5>
 File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page5> [126]
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page5> [128]
 File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page6>
@@ -3035,7 +3107,7 @@ File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page6>
 File: cross_validated_posts/CV3_sensitiveOutliers.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page6> [127]
+<use  "cross_validated_posts/CV3_sensitiveOutliers.pdf"  page6> [129]
 File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV4_assertInteraction.pdf" >
@@ -3047,7 +3119,7 @@ File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV4_assertInteraction.pdf"  page1>
 File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV4_assertInteraction.pdf"  page1> [128]
+<use  "cross_validated_posts/CV4_assertInteraction.pdf"  page1> [130]
 File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV4_assertInteraction.pdf"  page1>
@@ -3056,7 +3128,7 @@ File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV4_assertInteraction.pdf"  page1>
 File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV4_assertInteraction.pdf"  page1> [129]
+<use  "cross_validated_posts/CV4_assertInteraction.pdf"  page1> [131]
 File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV4_assertInteraction.pdf"  page2>
@@ -3065,7 +3137,7 @@ File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV4_assertInteraction.pdf"  page2>
 File: cross_validated_posts/CV4_assertInteraction.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV4_assertInteraction.pdf"  page2> [130]
+<use  "cross_validated_posts/CV4_assertInteraction.pdf"  page2> [132]
 File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf" >
@@ -3077,7 +3149,7 @@ File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page1>
 File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page1> [131]
+<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page1> [133]
 File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page1>
@@ -3086,7 +3158,7 @@ File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page1>
 File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page1> [132]
+<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page1> [134]
 File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page2>
@@ -3095,7 +3167,7 @@ File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page2>
 File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page2> [133]
+<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page2> [135]
 File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page3>
@@ -3104,7 +3176,7 @@ File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page3>
 File: cross_validated_posts/CV5_SVM_RF_same_same.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page3> [134]
+<use  "cross_validated_posts/CV5_SVM_RF_same_same.pdf"  page3> [136]
 File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV6_CARTtiebreak.pdf" >
@@ -3116,7 +3188,7 @@ File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page1>
 File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page1> [135]
+<use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page1> [137]
 File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page1>
@@ -3125,7 +3197,7 @@ File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page1>
 File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page1> [136]
+<use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page1> [138]
 File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page2>
@@ -3134,7 +3206,7 @@ File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page2>
 File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page2> [137]
+<use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page2> [139]
 File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page3>
@@ -3143,7 +3215,7 @@ File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page3>
 File: cross_validated_posts/CV6_CARTtiebreak.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page3> [138]
+<use  "cross_validated_posts/CV6_CARTtiebreak.pdf"  page3> [140]
 File: cross_validated_posts/CV7_VIbeyondRF.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV7_VIbeyondRF.pdf" >
@@ -3155,7 +3227,7 @@ File: cross_validated_posts/CV7_VIbeyondRF.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV7_VIbeyondRF.pdf"  page1>
 File: cross_validated_posts/CV7_VIbeyondRF.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV7_VIbeyondRF.pdf"  page1> [139]
+<use  "cross_validated_posts/CV7_VIbeyondRF.pdf"  page1> [141]
 File: cross_validated_posts/CV7_VIbeyondRF.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV7_VIbeyondRF.pdf"  page1>
@@ -3164,7 +3236,7 @@ File: cross_validated_posts/CV7_VIbeyondRF.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV7_VIbeyondRF.pdf"  page1>
 File: cross_validated_posts/CV7_VIbeyondRF.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV7_VIbeyondRF.pdf"  page1> [140]
+<use  "cross_validated_posts/CV7_VIbeyondRF.pdf"  page1> [142]
 File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV8_combineBagging.pdf" >
@@ -3176,7 +3248,7 @@ File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV8_combineBagging.pdf"  page1>
 File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV8_combineBagging.pdf"  page1> [141]
+<use  "cross_validated_posts/CV8_combineBagging.pdf"  page1> [143]
 File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV8_combineBagging.pdf"  page1>
@@ -3185,7 +3257,7 @@ File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV8_combineBagging.pdf"  page1>
 File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV8_combineBagging.pdf"  page1> [142]
+<use  "cross_validated_posts/CV8_combineBagging.pdf"  page1> [144]
 File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV8_combineBagging.pdf"  page2>
@@ -3194,7 +3266,7 @@ File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV8_combineBagging.pdf"  page2>
 File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV8_combineBagging.pdf"  page2> [143]
+<use  "cross_validated_posts/CV8_combineBagging.pdf"  page2> [145]
 File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV8_combineBagging.pdf"  page3>
@@ -3203,7 +3275,7 @@ File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV8_combineBagging.pdf"  page3>
 File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV8_combineBagging.pdf"  page3> [144]
+<use  "cross_validated_posts/CV8_combineBagging.pdf"  page3> [146]
 File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV8_combineBagging.pdf"  page4>
@@ -3212,7 +3284,7 @@ File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV8_combineBagging.pdf"  page4>
 File: cross_validated_posts/CV8_combineBagging.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV8_combineBagging.pdf"  page4> [145]
+<use  "cross_validated_posts/CV8_combineBagging.pdf"  page4> [147]
 File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV9_RFsampling.pdf" >
@@ -3224,7 +3296,7 @@ File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV9_RFsampling.pdf"  page1>
 File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV9_RFsampling.pdf"  page1> [146]
+<use  "cross_validated_posts/CV9_RFsampling.pdf"  page1> [148]
 File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV9_RFsampling.pdf"  page1>
@@ -3233,7 +3305,7 @@ File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV9_RFsampling.pdf"  page1>
 File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV9_RFsampling.pdf"  page1> [147]
+<use  "cross_validated_posts/CV9_RFsampling.pdf"  page1> [149]
 File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV9_RFsampling.pdf"  page2>
@@ -3242,7 +3314,7 @@ File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV9_RFsampling.pdf"  page2>
 File: cross_validated_posts/CV9_RFsampling.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV9_RFsampling.pdf"  page2> [148]
+<use  "cross_validated_posts/CV9_RFsampling.pdf"  page2> [150]
 File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV10_PCAlogTransform.pdf" >
@@ -3254,7 +3326,7 @@ File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page1>
 File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page1> [149]
+<use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page1> [151]
 File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page1>
@@ -3263,7 +3335,7 @@ File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page1>
 File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page1> [150]
+<use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page1> [152]
 File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page2>
@@ -3272,7 +3344,7 @@ File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page2>
 File: cross_validated_posts/CV10_PCAlogTransform.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page2> [151]
+<use  "cross_validated_posts/CV10_PCAlogTransform.pdf"  page2> [153]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf" >
@@ -3284,7 +3356,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page1>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page1> [152]
+<use  "appendices/forestFloorManual.pdf"  page1> [154]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page1>
@@ -3293,7 +3365,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page1>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page1> [153]
+<use  "appendices/forestFloorManual.pdf"  page1> [155]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page2>
@@ -3302,7 +3374,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page2>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page2> [154]
+<use  "appendices/forestFloorManual.pdf"  page2> [156]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page3>
@@ -3311,7 +3383,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page3>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page3> [155]
+<use  "appendices/forestFloorManual.pdf"  page3> [157]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page4>
@@ -3320,7 +3392,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page4>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page4> [156]
+<use  "appendices/forestFloorManual.pdf"  page4> [158]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page5>
@@ -3329,7 +3401,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page5>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page5> [157]
+<use  "appendices/forestFloorManual.pdf"  page5> [159]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page6>
@@ -3338,7 +3410,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page6>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page6> [158]
+<use  "appendices/forestFloorManual.pdf"  page6> [160]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page7>
@@ -3347,7 +3419,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page7>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page7> [159]
+<use  "appendices/forestFloorManual.pdf"  page7> [161]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page8>
@@ -3356,7 +3428,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page8>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page8> [160]
+<use  "appendices/forestFloorManual.pdf"  page8> [162]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page9>
@@ -3365,7 +3437,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page9>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page9> [161]
+<use  "appendices/forestFloorManual.pdf"  page9> [163]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page10>
@@ -3374,7 +3446,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page10>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page10> [162]
+<use  "appendices/forestFloorManual.pdf"  page10> [164]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page11>
@@ -3383,7 +3455,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page11>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page11> [163]
+<use  "appendices/forestFloorManual.pdf"  page11> [165]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page12>
@@ -3392,7 +3464,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page12>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page12> [164]
+<use  "appendices/forestFloorManual.pdf"  page12> [166]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page13>
@@ -3401,7 +3473,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page13>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page13> [165]
+<use  "appendices/forestFloorManual.pdf"  page13> [167]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page14>
@@ -3410,7 +3482,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page14>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page14> [166]
+<use  "appendices/forestFloorManual.pdf"  page14> [168]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page15>
@@ -3419,7 +3491,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page15>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page15> [167]
+<use  "appendices/forestFloorManual.pdf"  page15> [169]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page16>
@@ -3428,7 +3500,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page16>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page16> [168]
+<use  "appendices/forestFloorManual.pdf"  page16> [170]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page17>
@@ -3437,7 +3509,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page17>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page17> [169]
+<use  "appendices/forestFloorManual.pdf"  page17> [171]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page18>
@@ -3446,7 +3518,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page18>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page18> [170]
+<use  "appendices/forestFloorManual.pdf"  page18> [172]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page19>
@@ -3455,7 +3527,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page19>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page19> [171]
+<use  "appendices/forestFloorManual.pdf"  page19> [173]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page20>
@@ -3464,7 +3536,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page20>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page20> [172]
+<use  "appendices/forestFloorManual.pdf"  page20> [174]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page21>
@@ -3473,7 +3545,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page21>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page21> [173]
+<use  "appendices/forestFloorManual.pdf"  page21> [175]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page22>
@@ -3482,7 +3554,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page22>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page22> [174]
+<use  "appendices/forestFloorManual.pdf"  page22> [176]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page23>
@@ -3491,7 +3563,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page23>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page23> [175]
+<use  "appendices/forestFloorManual.pdf"  page23> [177]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page24>
@@ -3500,7 +3572,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page24>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page24> [176]
+<use  "appendices/forestFloorManual.pdf"  page24> [178]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page25>
@@ -3509,7 +3581,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page25>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page25> [177]
+<use  "appendices/forestFloorManual.pdf"  page25> [179]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page26>
@@ -3518,7 +3590,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page26>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page26> [178]
+<use  "appendices/forestFloorManual.pdf"  page26> [180]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page27>
@@ -3527,7 +3599,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page27>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page27> [179]
+<use  "appendices/forestFloorManual.pdf"  page27> [181]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page28>
@@ -3536,7 +3608,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page28>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page28> [180]
+<use  "appendices/forestFloorManual.pdf"  page28> [182]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page29>
@@ -3545,7 +3617,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page29>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page29> [181]
+<use  "appendices/forestFloorManual.pdf"  page29> [183]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page30>
@@ -3554,7 +3626,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page30>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page30> [182]
+<use  "appendices/forestFloorManual.pdf"  page30> [184]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page31>
@@ -3563,7 +3635,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page31>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page31> [183]
+<use  "appendices/forestFloorManual.pdf"  page31> [185]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page32>
@@ -3572,7 +3644,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page32>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page32> [184]
+<use  "appendices/forestFloorManual.pdf"  page32> [186]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page33>
@@ -3581,7 +3653,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page33>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page33> [185]
+<use  "appendices/forestFloorManual.pdf"  page33> [187]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page34>
@@ -3590,7 +3662,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page34>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page34> [186]
+<use  "appendices/forestFloorManual.pdf"  page34> [188]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page35>
@@ -3599,7 +3671,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page35>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page35> [187]
+<use  "appendices/forestFloorManual.pdf"  page35> [189]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page36>
@@ -3608,7 +3680,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page36>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page36> [188]
+<use  "appendices/forestFloorManual.pdf"  page36> [190]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page37>
@@ -3617,7 +3689,7 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page37>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page37> [189]
+<use  "appendices/forestFloorManual.pdf"  page37> [191]
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
 <use  "appendices/forestFloorManual.pdf"  page38>
@@ -3626,13 +3698,13 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page38>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page38> [190])
+<use  "appendices/forestFloorManual.pdf"  page38> [192])
 Overfull \hbox (20.73734pt too wide) in paragraph at lines 41--41
 \EU1/lmr/m/it/12 livery Problem\EU1/lmr/m/n/12 . Thesis. Supervised by Professo
 r Per Brockhoff, pbb@imm.dtu.dk,
  []
 
-[191
+[193
 
 
 
@@ -3642,7 +3714,7 @@ Overfull \hbox (7.76521pt too wide) in paragraph at lines 41--41
 pringer series in statistics Springer,
  []
 
-[192]
+[194]
 Overfull \hbox (4.13022pt too wide) in paragraph at lines 41--41
 []\EU1/lmr/m/n/12 M. Lichman. \EU1/lmr/m/it/12 UCI Machine Learning Repository\
 EU1/lmr/m/n/12 . 2013. \EU1/lmr/m/sc/12 url\EU1/lmr/m/n/12 : []$[][][][] [] [] 
@@ -3661,7 +3733,7 @@ Overfull \hbox (0.59387pt too wide) in paragraph at lines 41--41
 ity in Caco-
  []
 
-[193]
+[195]
 
 Class memoir Warning: The material used in the headers is too large
 (28.99998pt) for the given head height (14.5pt), it is recommended to
@@ -3671,7 +3743,7 @@ either increase the head height or redesign the header
 
 Package nag Warning: 8 complaints in total.
 
-[194]
+[196]
 \tf@toc=\write8
 \openout8 = `Thesis.toc'.
 
@@ -3701,12 +3773,12 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 49065 strings out of 428410
- 887967 string characters out of 3162139
- 1948426 words of memory out of 3000000
- 51759 multiletter control sequences out of 15000+200000
- 35014 words of font info for 65 fonts, out of 3000000 for 9000
+ 49094 strings out of 428410
+ 888018 string characters out of 3162139
+ 1949315 words of memory out of 3000000
+ 51786 multiletter control sequences out of 15000+200000
+ 35006 words of font info for 64 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  62i,19n,72p,10445b,7110s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Thesis.pdf (204 pages).
+Output written on Thesis.pdf (208 pages).

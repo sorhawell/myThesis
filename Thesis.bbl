@@ -1444,6 +1444,47 @@
       \field{pages}{225\bibrangedash 238}
       \range{pages}{14}
     \endentry
+    \entry{maher2009safety}{article}{}
+      \name{author}{4}{}{%
+        {{hash=dcddd7e9bd2a7babba72fa420ccee6f7}{%
+           family={Maher},
+           family_i={M\bibinitperiod},
+           given={Sam},
+           given_i={S\bibinitperiod}}}%
+        {{hash=0aae543cfbf1a404b59898572704cf34}{%
+           family={Leonard},
+           family_i={L\bibinitperiod},
+           given={Thomas\bibnamedelima W},
+           given_i={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=59021e08712cbbad1af1953077b0af13}{%
+           family={Jacobsen},
+           family_i={J\bibinitperiod},
+           given={Jette},
+           given_i={J\bibinitperiod}}}%
+        {{hash=e57e7b6cadbd44ad82985c1e48851648}{%
+           family={Brayden},
+           family_i={B\bibinitperiod},
+           given={David\bibnamedelima J},
+           given_i={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4f4737f784bf8a8ec71354eada54b129}
+      \strng{fullhash}{08ad6c1b47939af79a3259d774c76a8e}
+      \field{labelalpha}{Mah+09}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advanced drug delivery reviews}
+      \field{number}{15}
+      \field{title}{Safety and efficacy of sodium caprate in promoting oral drug absorption: from in vitro to the clinic}
+      \field{volume}{61}
+      \field{year}{2009}
+      \field{pages}{1427\bibrangedash 1449}
+      \range{pages}{23}
+    \endentry
     \entry{maher2014formulation}{article}{}
       \name{author}{4}{}{%
         {{hash=dcddd7e9bd2a7babba72fa420ccee6f7}{%
@@ -1930,11 +1971,12 @@
       \range{pages}{7}
     \endentry
   \endsortlist
-  \missing{kalivas1997two}
-  \missing{Mostafa13learning}
   \missing{arnolds2010pharmacokinetic}
-  \missing{Citewainer2016comparison}
+  \missing{Mostafa13learning}
+  \missing{kalivas1997two}
+  \missing{artursson1990epithelial}
   \missing{monkeys}
+  \missing{Citewainer2016comparison}
 \endrefsection
 \endinput
 
