@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  21 JUL 2016 15:06
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  25 JUL 2016 09:45
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -1613,6 +1613,14 @@ File: ppxetex.def 2016/04/19 v0.5f Pdfpages driver for XeTeX (AM)
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language76
 LaTeX Info: Redefining \_ on input line 43.
+)
+("C:\progs\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2016/02/27 v1.2a Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 142.
+LaTeX Info: Redefining \bm on input line 208.
 )) (preamble/fonts.tex
 \g__fontspec_family_texgyreadventor_int=\count437
 .................................................
@@ -1830,6 +1838,20 @@ Package biblatex Info: ... file 'Thesis.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
+(biblatex)                monkeys
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Citewainer2016comparison
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
 (biblatex)                arnolds2010pharmacokinetic
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -1845,27 +1867,6 @@ Package biblatex Warning: The following entry could not be found
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
 (biblatex)                kalivas1997two
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                artursson1990epithelial
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                monkeys
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Citewainer2016comparison
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -2007,96 +2008,96 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 5.
  [7]
-Overfull \hbox (2.75992pt too wide) detected at line 101
+Overfull \hbox (2.75992pt too wide) detected at line 105
  []\EU1/lmr/m/n/12 109[]
  []
 
 
-Overfull \hbox (1.24799pt too wide) detected at line 103
+Overfull \hbox (1.24799pt too wide) detected at line 107
  []\EU1/texgyreadventor(0)/bx/n/12 111[]
  []
 
 
-Overfull \hbox (2.75992pt too wide) detected at line 105
+Overfull \hbox (2.75992pt too wide) detected at line 109
  []\EU1/lmr/m/n/12 111[]
- []
-
-
-Overfull \hbox (2.75992pt too wide) detected at line 107
- []\EU1/lmr/m/n/12 111[]
- []
-
-
-Overfull \hbox (1.24799pt too wide) detected at line 109
- []\EU1/texgyreadventor(0)/bx/n/12 115[]
  []
 
 
 Overfull \hbox (2.75992pt too wide) detected at line 111
- []\EU1/lmr/m/n/12 115[]
+ []\EU1/lmr/m/n/12 111[]
  []
 
 
-Overfull \hbox (2.75992pt too wide) detected at line 113
- []\EU1/lmr/m/n/12 115[]
+Overfull \hbox (1.24799pt too wide) detected at line 113
+ []\EU1/texgyreadventor(0)/bx/n/12 115[]
  []
 
 
 Overfull \hbox (2.75992pt too wide) detected at line 115
- []\EU1/lmr/m/n/12 119[]
+ []\EU1/lmr/m/n/12 115[]
  []
 
 
 Overfull \hbox (2.75992pt too wide) detected at line 117
- []\EU1/lmr/m/n/12 123[]
+ []\EU1/lmr/m/n/12 115[]
  []
 
 
 Overfull \hbox (2.75992pt too wide) detected at line 119
- []\EU1/lmr/m/n/12 130[]
+ []\EU1/lmr/m/n/12 119[]
  []
 
 
 Overfull \hbox (2.75992pt too wide) detected at line 121
- []\EU1/lmr/m/n/12 133[]
+ []\EU1/lmr/m/n/12 123[]
  []
 
 
 Overfull \hbox (2.75992pt too wide) detected at line 123
- []\EU1/lmr/m/n/12 137[]
+ []\EU1/lmr/m/n/12 130[]
  []
 
 
 Overfull \hbox (2.75992pt too wide) detected at line 125
- []\EU1/lmr/m/n/12 141[]
+ []\EU1/lmr/m/n/12 133[]
  []
 
 
 Overfull \hbox (2.75992pt too wide) detected at line 127
- []\EU1/lmr/m/n/12 143[]
+ []\EU1/lmr/m/n/12 137[]
  []
 
 
 Overfull \hbox (2.75992pt too wide) detected at line 129
- []\EU1/lmr/m/n/12 148[]
+ []\EU1/lmr/m/n/12 141[]
  []
 
 
 Overfull \hbox (2.75992pt too wide) detected at line 131
- []\EU1/lmr/m/n/12 151[]
+ []\EU1/lmr/m/n/12 143[]
  []
 
 
 Overfull \hbox (2.75992pt too wide) detected at line 133
+ []\EU1/lmr/m/n/12 148[]
+ []
+
+
+Overfull \hbox (2.75992pt too wide) detected at line 135
+ []\EU1/lmr/m/n/12 151[]
+ []
+
+
+Overfull \hbox (2.75992pt too wide) detected at line 137
  []\EU1/lmr/m/n/12 154[]
  []
 
-
-Overfull \hbox (1.24799pt too wide) detected at line 135
+[8]
+Overfull \hbox (1.24799pt too wide) detected at line 139
  []\EU1/texgyreadventor(0)/bx/n/12 193[]
  []
 
-) [8] [9] [10
+) [9] [10
 
 ]
 \openout2 = `chapters/Introduction.aux'.
@@ -2161,45 +2162,20 @@ LaTeX Warning: Reference `some section' on page 11 undefined on input line 12.
 LaTeX Warning: Reference `typeOfExperiment' on page 11 undefined on input line 
 12.
 
-[11]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [12]
-
-Package nag Warning: \label in float, but not after \caption on input line 22.
-
-File: graphics/typeOfExperiments.pdf Graphic file (type QTm)
-<use  "graphics/typeOfExperiments.pdf" > [13]
+[11] [12]
 
 Package nag Warning: \label in float, but not after \caption on input line 36.
 
-File: graphics/sketch_measuring_permeability.png Graphic file (type QTm)
-<use  "graphics/sketch_measuring_permeability.png" >
-Underfull \vbox (badness 1270) has occurred while \output is active []
-
- [14]
+File: graphics/typeOfExperiments.pdf Graphic file (type QTm)
+<use  "graphics/typeOfExperiments.pdf" > [13] [14]
 
 Package nag Warning: \label in float, but not after \caption on input line 49.
 
-File: graphics/devel_Fasssif_PCC2.png Graphic file (type QTm)
-<use  "graphics/devel_Fasssif_PCC2.png" >
-Underfull \vbox (badness 6859) has occurred while \output is active []
-
- [15]
-[16]
-
-Class memoir Warning: The material used in the headers is too large
-(28.99998pt) for the given head height (14.5pt), it is recommended to
-either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 78.
-
-
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
-
-[17]
+File: graphics/sketch_measuring_permeability.png Graphic file (type QTm)
+<use  "graphics/sketch_measuring_permeability.png" > [15] [16] [17]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
- <use  "chapters/citricAcid.pdf" >
+
+<use  "chapters/citricAcid.pdf" >
 File: chapters/citricAcid.pdf Graphic file (type QTm)
  <use  "chapters/citricAcid.pdf" >
 File: chapters/citricAcid.pdf Graphic file (type QTm)
@@ -2223,8 +2199,6 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page2>
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page2> [19]
@@ -2243,8 +2217,6 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page4>
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page4> [21]
@@ -2263,8 +2235,6 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page6>
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page6> [23]
@@ -2283,24 +2253,22 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page8>
-Overfull \vbox (14.49998pt too high) has occurred while \output is active []
-
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
-<use  "chapters/citricAcid.pdf"  page8> [25]) [26]
+<use  "chapters/citricAcid.pdf"  page8> [25])
 \openout2 = `chapters/introStat.aux'.
 
- (chapters/introStat.tex
+ (chapters/introStat.tex [26
+
+
+
+]
 File: graphics/sketchMLmapping.png Graphic file (type QTm)
 
 <use  "graphics/sketchMLmapping.png" >
 Underfull \vbox (badness 1184) has occurred while \output is active []
 
- [27
-
-
-
-]
+ [27]
 [28] [29] [30] [31]
 Underfull \vbox (badness 1552) has occurred while \output is active []
 
@@ -2314,12 +2282,14 @@ Missing character: There is no − in font rm-lmr12!
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35]
-File: graphics/forestFloorFig02.pdf Graphic file (type QTm)
+File: graphics/randomForest_explained_thesisVersion.pdf Graphic file (type QTm)
 
-<use  "graphics/forestFloorFig02.pdf" > [36]) [37]
+
+<use  "graphics/randomForest_explained_thesisVersion.pdf" > [36]) [37]
 \openout2 = `chapters/predictPotency.aux'.
 
- (chapters/predictPotency.tex [38
+
+(chapters/predictPotency.tex [38
 
 
 
@@ -2338,20 +2308,35 @@ LaTeX Warning: Reference `someWhere' on page 39 undefined on input line 21.
 
 [39] [40] [41]
 
-Package nag Warning: \label in float, but not after \caption on input line 51.
+Package nag Warning: \label in float, but not after \caption on input line 44.
+
+File: graphics/devel_Fasssif_PCC2.png Graphic file (type QTm)
+<use  "graphics/devel_Fasssif_PCC2.png" >
+
+Package nag Warning: \label in float, but not after \caption on input line 59.
 
 File: graphics/workSummary_130mm.pdf Graphic file (type QTm)
 <use  "graphics/workSummary_130mm.pdf" >
 
-Package nag Warning: \label in float, but not after \caption on input line 57.
+Package nag Warning: \label in float, but not after \caption on input line 65.
 
 File: graphics/typeOfSurfactant.pdf Graphic file (type QTm)
 <use  "graphics/typeOfSurfactant.pdf" >
 
-Package nag Warning: \label in float, but not after \caption on input line 63.
+Package nag Warning: \label in float, but not after \caption on input line 71.
 
 File: graphics/predictPotencySummary.pdf Graphic file (type QTm)
-<use  "graphics/predictPotencySummary.pdf" > [42]
+<use  "graphics/predictPotencySummary.pdf" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42]
+
+Class memoir Warning: The material used in the headers is too large
+(28.99998pt) for the given head height (14.5pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 81.
+
+
 Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 
@@ -2446,15 +2431,15 @@ Overfull \vbox (14.49998pt too high) has occurred while \output is active []
 
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page8> [51])
+<use  "chapters/predictPotencyArt.pdf"  page8> [51]) [52]
 \openout2 = `chapters/interpretTheForest.aux'.
 
 
-(chapters/interpretTheForest.tex [52
+(chapters/interpretTheForest.tex [53
 
 
 
-] [53]
+]
 File: graphics/sketch_pyramid_interaction.png Graphic file (type QTm)
 
 <use  "graphics/sketch_pyramid_interaction.png" > [54] [55]
@@ -3698,17 +3683,17 @@ File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 <use  "appendices/forestFloorManual.pdf"  page38>
 File: appendices/forestFloorManual.pdf Graphic file (type QTm)
 
-<use  "appendices/forestFloorManual.pdf"  page38> [192])
+<use  "appendices/forestFloorManual.pdf"  page38> [192]) [193
+
+
+
+]
 Overfull \hbox (20.73734pt too wide) in paragraph at lines 41--41
 \EU1/lmr/m/it/12 livery Problem\EU1/lmr/m/n/12 . Thesis. Supervised by Professo
 r Per Brockhoff, pbb@imm.dtu.dk,
  []
 
-[193
 
-
-
-]
 Overfull \hbox (7.76521pt too wide) in paragraph at lines 41--41
 \EU1/lmr/m/it/12 statistical learning\EU1/lmr/m/n/12 . 3rd edition. Volume 1. S
 pringer series in statistics Springer,
@@ -3734,22 +3719,33 @@ ity in Caco-
  []
 
 [195]
+Overfull \hbox (25.11765pt too wide) in paragraph at lines 41--41
+[]\EU1/lmr/m/n/12 Helle Krogh Pedersen et al. “  Human gut microbes impact host
+ serum metabolome
+ []
+
+[196]
 
 Class memoir Warning: The material used in the headers is too large
 (28.99998pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
 (in both cases you will find help in the memoir manual). on input line 42.
 
+[197]
 
 Package nag Warning: 8 complaints in total.
 
-[196]
+File: graphics/DTU-frise-SH-15.pdf Graphic file (type QTm)
+<use  "graphics/DTU-frise-SH-15.pdf" > [198
+
+]
 \tf@toc=\write8
 \openout8 = `Thesis.toc'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
- (Thesis.aux (prefrontmatter/titlepage.aux)
+ (Thesis.aux
+(prefrontmatter/titlepage.aux)
 Package cleveref Info: loaded `english' language definitions on input line 26.
  (prefrontmatter/colophon.aux)
 (frontmatter/Summary.aux) (frontmatter/Preface.aux)
@@ -3773,12 +3769,12 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 49094 strings out of 428410
- 888018 string characters out of 3162139
- 1949315 words of memory out of 3000000
- 51786 multiletter control sequences out of 15000+200000
- 35006 words of font info for 64 fonts, out of 3000000 for 9000
+ 49217 strings out of 428410
+ 889808 string characters out of 3162139
+ 1956140 words of memory out of 3000000
+ 51894 multiletter control sequences out of 15000+200000
+ 56597 words of font info for 82 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 62i,19n,72p,10445b,7110s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,19n,72p,10445b,7108s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Thesis.pdf (208 pages).
+Output written on Thesis.pdf (210 pages).

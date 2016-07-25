@@ -112,6 +112,18 @@ Although the trained models are stated differently, a good rule of thumb is, tha
 
 
 \section{random forest}
+
+\subsection{bagging}
+Random forest is a bootstrap aggregated ensemble model meaning it is collection of independently trained sub models, where each model is trained on bootstrapped sample of the training set. The prediction error of bagged ensemble models can be lower than the average prediction error of the individual models.
+
+Bootstrapping the training set means to sample a random set of observations. This bootstrap set, can be as a large training set, however by default (uniform distribution) the chance an observation is not included is approximately 37\% spending on size of traning set. The chance an observation sampled at least once is \%63, see Appendix \ref{CV9_RFsampling) for a exact sampling description.
+
+For random forest the same learner, decision tree, is bagged perhaps 500 times. The ensemble prediction is typically the average vote of the ensemble. Besides random forest, bagging is an easy way to combine different model approaches to achieve a perhaps lower prediction than any model approach alone. As bagging independently train each model, the computation can easily be distributed across multiple CPUs or nodes in a server cluster. Appendix \ref{CV8_combineBagging} provides an elaborate parallel implemented example, where logistic regression is combined with random forest to form a new and more accurate ensemble.
+
+When bagging multiple linear regression models (only), the acquired ensemble can actually be reduced to one linear regression model where each coefficient is the average of the corresponding coefficient in each sub model. Hereby bagging provide a regularized model similar to increasing the $lambda$-parameter of elastic net and where $alpha=1$. For ensembles of non-linear models, there are no obvious average model (if any), that provide the same predictions. However the bagging still provide regularization offering a more robust model estimation, than a single learner model alone.
+
+
+\subsection{Introduction to decision trees}
 The random forest algorithm is an improvement of the classification and regression tree algorithm (CART) \cite{breiman1984classification,breiman2001random}. Overall the CART decision trees are built by applying 3 rules recursively
 
 Rule 1: A collection of observations is called a node and a node has a prediction, the average target.
@@ -122,13 +134,16 @@ Rule 3: A loss function evaluates and select the best split, that is sum of squa
 
 Rule 4: If a node cannot be split, either as there is no valid feature left to split by or if the node do not meet the splitting criteria, the node is terminal, otherwise repeat rule 1-4 for every sub node.
 
-Below is the Figure \ref{simpleTree}, that depicts how a tree is build. For a CART tree, the training set and root node is the same, as all observations is used to build the tree.
+Below is the Figure \ref{simpleTree}, that depicts how a tree is built. For a CART tree, the training set and root node is the same, as all observations is used to build the tree. For multiple trees random forest in a random forest ensemble, all trees share the same training set. The training observations passed to each root node of each tree is a bootstrap of the training set.
 
 \begin{figure}[!htbp]
-\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/forestFloorFig02.pdf}
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/randomForest_explained_thesisVersion.pdf}
 \caption{somthing about trees \cite{welling2016forest}}
 \label{simpleTree}
 \end{figure}
+
+
+Controlling parameters of the bootstrap process increase regularization and decrease the prediction error if the data is noisy \cite{welling2016forestFloor}.
 
 Bagging ensembles
 Random variable subspace \cite{ho1998random}

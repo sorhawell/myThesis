@@ -39,6 +39,14 @@ Although a valid cross-validation of the classification model predicted a nearly
 \subsection{Identical distributions}
 A requirement was that training and future test observations had to be drawn from same distributions. The training set originated with positive examples from the pharmaceutical litterature and with negative examples from what appear to be a random synthesis chemical library. It was assumed that all molecules from random synthesis library were not effective as enhancers, and I agree on this as a plausible assumption. However visually inspecting the random synthesis molecules, reveal these molecules were far from typical excipients in pharmaceutical. Exotic heavy atoms as uranium! or what appear to be a truly random pattern of substitutions. If this library infact was generated as an random or an exhaustive search of possible molecule graphs below a given molar weight, then average molecule will look far from the typical excipients in pharmaceutical industry. The typical excipient, especially surfactant enhancers, are not very substituted, not very branched. If generating a molecule starting from one carbon atom, and any choice has equal probability, should this carbon chain branch out here or not? should there be substituted something here or not? the molecules end being very branched and highly substituted, simply because the simply relatively few combinations of molecules that have long non branched non substituted carbon chains. Thus the classification model have been trained to recognize the difference between two groups of molecule that are obviously different. A part of the reason the two classes of molecules are different in the training may well being an permeation enhancer or not. However any other differences will be confounded. Most likely such classification model would be used to scan through a library of approved pharmaceutical excipients, thus only drawing observations to predict from the pharmaceutical molecule distribution. Suddenly the model may recognize many of the molecules as permeation enhancers, simply because these are not branched enough or highly substituted.
 
+\subsection{orphan! figure explaining why in-vitro studies over estimate}
+\begin{figure}[!htpb]
+\label{devel_fassif}
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/devel_Fasssif_PCC2.png}
+\caption{Single figures copied from \cite{tippin2008biorelevant,nawroth2011liposome} to illustrate why the potency of lipophilic permeation enhancers are likely overestimated in in-vitro studies using surfactant free buffers. Palmitoyl carnitine was found by Tippin \textit{et al} to be 12 times less potent in a Fassif buffer with Taurocholate and lechitine an EC$_{50}$}
+\end{figure}
+
+
 \subsection{Anticipated complexity enhancement mechanisms robust estimation.}
 \label{modelComplexity}
 

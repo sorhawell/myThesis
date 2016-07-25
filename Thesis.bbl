@@ -165,6 +165,37 @@
       \field{title}{Current status of selected oral peptide technologies in advanced preclinical development and in clinical trials}
       \field{year}{2016}
     \endentry
+    \entry{artursson1990epithelial}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ed0d8a1f9f862e99f1ce888593b5f169}{%
+           family={Artursson},
+           family_i={A\bibinitperiod},
+           given={Per},
+           given_i={P\bibinitperiod}}}%
+        {{hash=ada83e465107d40cf0d6e127aad59483}{%
+           family={Magnusson},
+           family_i={M\bibinitperiod},
+           given={Christine},
+           given_i={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{dde3ec0aa3d257fd0973437fe29b359c}
+      \strng{fullhash}{dde3ec0aa3d257fd0973437fe29b359c}
+      \field{labelalpha}{AM90}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of pharmaceutical sciences}
+      \field{number}{7}
+      \field{title}{Epithelial transport of drugs in cell culture. II: Effect of extracellular calcium concentration on the paracellular transport of drugs of different lipophilicities across monolayers of intestinal epithelial (Caco-2) cells}
+      \field{volume}{79}
+      \field{year}{1990}
+      \field{pages}{595\bibrangedash 600}
+      \range{pages}{6}
+    \endentry
     \entry{anderberg1992epithelial}{article}{}
       \name{author}{3}{}{%
         {{hash=642ad64049484935e47e73c3214ffbff}{%
@@ -1608,6 +1639,75 @@
       \field{pages}{2162\bibrangedash 2172}
       \range{pages}{11}
     \endentry
+    \entry{pedersen2016human}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=dc142e7744ef1f3ed8e48a422b03bdae}{%
+           family={Pedersen},
+           family_i={P\bibinitperiod},
+           given={Helle\bibnamedelima Krogh},
+           given_i={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=ad18a5c28dca039d0cf212c257b0798e}{%
+           family={Gudmundsdottir},
+           family_i={G\bibinitperiod},
+           given={Valborg},
+           given_i={V\bibinitperiod}}}%
+        {{hash=b21a4f0403474e55798febc0e9690d5f}{%
+           family={Nielsen},
+           family_i={N\bibinitperiod},
+           given={Henrik\bibnamedelima Bj{ø}rn},
+           given_i={H\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=c4635cecbe9d93882ff23d65c10dc052}{%
+           family={Hyotylainen},
+           family_i={H\bibinitperiod},
+           given={Tuulia},
+           given_i={T\bibinitperiod}}}%
+        {{hash=09c637f029e82ae4c90337ae6c3810d0}{%
+           family={Nielsen},
+           family_i={N\bibinitperiod},
+           given={Trine},
+           given_i={T\bibinitperiod}}}%
+        {{hash=850b25772bf41f7ccca78fbfdf3bb0d3}{%
+           family={Jensen},
+           family_i={J\bibinitperiod},
+           given={Benjamin\bibnamedelima AH},
+           given_i={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bfbdff6fcabc2ffe51dcbf7c0bf003ae}{%
+           family={Forslund},
+           family_i={F\bibinitperiod},
+           given={Kristoffer},
+           given_i={K\bibinitperiod}}}%
+        {{hash=29eea78360c7408515ff5db80bc6d363}{%
+           family={Hildebrand},
+           family_i={H\bibinitperiod},
+           given={Falk},
+           given_i={F\bibinitperiod}}}%
+        {{hash=43a554a6e76f832920fc7fff0314a411}{%
+           family={Prifti},
+           family_i={P\bibinitperiod},
+           given={Edi},
+           given_i={E\bibinitperiod}}}%
+        {{hash=ddda48fb68b74bb6c68dca8b5db897f0}{%
+           family={Falony},
+           family_i={F\bibinitperiod},
+           given={Gwen},
+           given_i={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{d3d328bd70b3d7acf2bc28e4485275d8}
+      \strng{fullhash}{878282f0520daa184af0d5081c7d519e}
+      \field{labelalpha}{Ped+16}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{title}{Human gut microbes impact host serum metabolome and insulin sensitivity}
+      \field{year}{2016}
+    \endentry
     \entry{petersen2013colonic}{article}{}
       \name{author}{5}{}{%
         {{hash=8aa986285fea2cafa4d209ccd469de5e}{%
@@ -1785,6 +1885,42 @@
       \field{volume}{97}
       \field{year}{2008}
       \field{pages}{1977\bibrangedash 1992}
+      \range{pages}{16}
+    \endentry
+    \entry{vernon1999insulin}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a2779e5de4bca63ba47df73351e97d59}{%
+           family={Vernon},
+           family_i={V\bibinitperiod},
+           given={Brent},
+           given_i={B\bibinitperiod}}}%
+        {{hash=b56d180fac83a4dff4b6e4da0d5d6f95}{%
+           family={Kim},
+           family_i={K\bibinitperiod},
+           given={Sung\bibnamedelima Wan},
+           given_i={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=226fc70b970ac034d991c5ec187a2af8}{%
+           family={Bae},
+           family_i={B\bibinitperiod},
+           given={You\bibnamedelima Han},
+           given_i={Y\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{ba7d7d50f922af3c432642d08eec3083}
+      \strng{fullhash}{ba7d7d50f922af3c432642d08eec3083}
+      \field{labelalpha}{VKB99}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Biomaterials Science, Polymer Edition}
+      \field{number}{2}
+      \field{title}{Insulin release from islets of Langerhans entrapped in a poly (N-isopropylacrylamide-co-acrylic acid) polymer gel}
+      \field{volume}{10}
+      \field{year}{1999}
+      \field{pages}{183\bibrangedash 198}
       \range{pages}{16}
     \endentry
     \entry{welling2014citric}{article}{}
@@ -1971,12 +2107,11 @@
       \range{pages}{7}
     \endentry
   \endsortlist
+  \missing{monkeys}
+  \missing{Citewainer2016comparison}
   \missing{arnolds2010pharmacokinetic}
   \missing{Mostafa13learning}
   \missing{kalivas1997two}
-  \missing{artursson1990epithelial}
-  \missing{monkeys}
-  \missing{Citewainer2016comparison}
 \endrefsection
 \endinput
 

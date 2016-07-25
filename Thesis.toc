@@ -24,25 +24,27 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2.2}The peptide itself: Size does matter, so does lasting long and stability}{7}{subsection.1.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.3}The epithelial barrier}{8}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.3}Permation enhancers to open the epithelial barrier}{8}{subsection.1.2.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\chapternumberline {2}Measure permeation enhancement}{11}{chapter.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.1}Studies to test peptide absorption}{11}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}Caco-2 monolayers}{12}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.1}consider migrate or cut out}{12}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.2}Measuring permeability}{13}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.2}Caco-2 monolayers}{12}{subsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.3}Calculating permeability}{13}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.3}Ussing Chamber}{13}{subsection.2.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Mechanisms of absorption enhancement in oral formulations}{15}{section.2.2}
+\contentsline {subsection}{\numberline {2.1.4}Measuring permeability}{13}{subsection.2.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.5}Calculating permeability}{14}{subsection.2.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Mechanisms of absorption enhancement in oral formulations}{16}{section.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.1}Preventing and measuring enzymatic degradation}{16}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}}{17}{subsection.2.2.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Article: The role of citric acid in oral peptide and protein formulations: Relationship between calcium chelation and proteolysis inhibition}{17}{section.2.3}
+\contentsline {subsection}{\numberline {2.2.2}Citric acid, a calcium chelator}{17}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\chapternumberline {3}Introduction to tools of supervised machine learning}{27}{chapter.3}
 \defcounter {refsection}{0}\relax 
@@ -78,7 +80,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.0.3}Identical distributions}{41}{subsection.4.0.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.0.4}Anticipated complexity enhancement mechanisms robust estimation.}{42}{subsection.4.0.4}
+\contentsline {subsection}{\numberline {4.0.4}orphan! figure explaining why in-vitro studies over estimate}{42}{subsection.4.0.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.0.5}Anticipated complexity enhancement mechanisms robust estimation.}{42}{subsection.4.0.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.1}orphan figures}{42}{section.4.1}
 \defcounter {refsection}{0}\relax 
