@@ -33,9 +33,10 @@ Trans epithelial electrical resistance (TEER) can measure how open the para-cell
 FITC-dextran 4000 dalton (FD4) is a florescent labeled sugar polymer of similar hydrophilicity and size as insulin. FD4 can mimic insulin as transport marker as it has the molecular weight and hydropphlicity \cite{vernon1999insulin}. FD4 on the other hand has no enzymatic instability and can be used to estimate what would have been the permeation of unchanged insulin, if the has been no enzymatic cleavage in the luminal space. FD4 can be specifically and accurately quantified, as it is a strong fluorophore.
 
 \begin{figure}[!htpb]
-\label{devel_typeOf}
+
 \includegraphics{graphics/typeOfExperiments.pdf}
 \caption{Schematic overview of types of experiments ranging from Caco-2 to clinical. Simple experiments to not accurately simulate the actual process, and there will be a number of biases which must not be over interpreted.}
+\label{devel_typeOf}
 \end{figure}
 
 \subsection{Calculating permeability}
@@ -46,9 +47,9 @@ $\bm{P}_{app} = \bm{J} / \bm{A} / \bm{C}_i = \frac{d\bm{C}_r}{dt} / \bm{A} / \bm
 where $\frac{d\bm{C}_r}{dt}$ is the slope of ordinary least squares regression of receiver chamber concentration versus time. The intercept with x-axis (time) is interpreted as the lag time, which is the time it takes to saturate the mucus layer, the thin unstirred water layer and the epithelial junctions. The lag time is typically a couple of minutes depending weather using Caco-2 or Ussing chamber. To observe an apparent constant flux e.g. throughout a one hour experiment is normal. The small decrease in concentration gradient of some few percent throughout the study may theoretically have caused deceleration of the flux. However, it is possible that the actual permeability of the epithelial barrier is increasing through the one hour flux study due to slow deterioration by the absorption enhancer, and therefore a constant flux is observed. In control epithelial barriers without absorption enhancer treatment, the barrier integrity is not expected to decline, but at the same time the flux is very low, so the concentration gradient do not change.
 
 \begin{figure}[!htpb]
-\label{meassure_TEERPapp}
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/sketch_measuring_permeability.png}
 \caption{Illustration of how \textit{(a)} $\bm{P}_{app}$ and \textit{(a)}  TEER is calculated.}
+\label{meassure_TEERPapp}
 \end{figure}
 
 The tight junctions in ideally water filled channels between the cells of the barrier. The water in the channels can be thought to have specific conductance depending on the concentration and diffusability of ions. When tight junction are widened, the cross-sectional area of tight-junction is changed. Similarly as marker transport is driven by a concentration difference, the electrical current $\bm{I}$ (Ampere $\mu A$) is driven by an electrical potential difference $\bm{U}$ (Voltage $V$). The electrical current $\bm{I}$ is analogue to $\bm{J}$ and potential difference $\bm{U}$ to $\bm{C_i}$. Therefore the membrane conductivity corrected for membrane area $\bm{G_A}$ area can be expressed in parallel to $\bm{P_{app}}$, such that
