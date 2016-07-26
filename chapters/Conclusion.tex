@@ -1,14 +1,13 @@
 %!TEX root = ../Thesis.tex
-\chapter{Summary of results and conclusion}
+\chapter{Selection permeation enhancers}
 
-In agreement with Novo Nordisk. The specific methods of combining permeability predictions and solubility predictions and the actual suggested candidates have not been included in this thesis.
+In agreement with Novo Nordisk. The specific methods of combining permeability predictions and solubility predictions and the actual suggested candidates have not been included in this thesis. However the distribution of solubility predictions and permeation predictions is a good basis for a discussion of whether it is possible to find permeation enhancers that are both soluble and sufficiently potent.
 
 
-\section{Is predicted potency the same as insolubility}
-In figure \ref{predictionsCombined} the predicted solubility and permeability is plotted for 10,000 molecules. As the model molecular descriptor computation with the MOE software took in average 1 second per molecule. The full available million molecules search set would have taken 11 days to run.  To narrow down the search set, molecules were selected by criteria of rotatable bonds and molar weight, in anticipation that molecules with less than a certain fraction of rotatable bonds likely would not have a fatty carbon chain, required to be an effecient surfactant-like permeation enhancer.
+\Subsection{Is predicted potency the same as insolubility}
+In Figure \ref{predictionsCombined} the predicted solubility and permeability is plotted for 10,000 molecules. Permeability predictions is based on a model similar to the one described in \ref{article:predAbs}. As the model molecular descriptor computation with the MOE software took in average 1 second per molecule. The full available million molecule search set would have taken 11 days to run. To narrow down the search set, molecules were selected by criteria of rotatable bonds and molar weight, in anticipation that molecules with less than a certain fraction of rotatable bonds likely would not have a fatty carbon chain, required to be an effecient surfactant-like permeation enhancer.
 
-As mentioned in Section \ref{predPerm:workflow} a major consideration was that the permeability model and solubility model both only would recognize lipophilicity-like properties as predictors, and thus perform exactly opposite predictions. However this is seems not to be the case for the 10,000 predicted molecules. 
-
+As discussed in Section \ref{predPerm:workflow} a major consideration was that the permeability model and solubility model both only would recognize lipophilicity-like properties as predictors, and thus perform exactly opposite predictions. However this seems not to be the case for the 10,000 predicted molecules. 
 
 \begin{figure}[!htbp]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/screened_molecules2.png}
@@ -16,7 +15,7 @@ As mentioned in Section \ref{predPerm:workflow} a major consideration was that t
 \label{predictionsCombined}
 \end{figure}
 
-
+In Figure \ref{predictionsCombined} the majority of molecules are not potent enough. C10 has been set as the lower bar of required potency = 0.67. A potency of 0.67 predicts that if a compound was used as permation enhancer and added to three Caco-2 monolayers in solution at 1\%, 0.1\% and 0.01\% \textit{(w/w)}, the lower electrical resistance across the three monolayers would in average be lowered 67\%. As dicussed in article from Section \ref{article:predAbs}, the permeation model overestimate any the potency of non permeation enhancers, as the training set contained non permation enhancers. Thus the model likely cannot separate non potent from weekly potent. However, a pemeation enhancement potency below C10 is probably too weak. As not C8 or C6 permation enhancers have been succesfully included in a formulation.
 
 \section{Discussion}
 
