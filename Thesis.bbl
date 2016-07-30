@@ -1613,74 +1613,46 @@
       \field{pages}{2162\bibrangedash 2172}
       \range{pages}{11}
     \endentry
-    \entry{pedersen2016human}{article}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{10}{}{%
-        {{hash=dc142e7744ef1f3ed8e48a422b03bdae}{%
-           family={Pedersen},
+    \entry{palmer2007random}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5be602559830597328a47517b0dc0362}{%
+           family={Palmer},
            family_i={P\bibinitperiod},
-           given={Helle\bibnamedelima Krogh},
-           given_i={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=ad18a5c28dca039d0cf212c257b0798e}{%
-           family={Gudmundsdottir},
+           given={David\bibnamedelima S},
+           given_i={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=c8c7107c51ab39a81234f928146113eb}{%
+           family={O'Boyle},
+           family_i={O\bibinitperiod},
+           given={Noel\bibnamedelima M},
+           given_i={N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=cf643f17594b3777b09b49a5ba99678d}{%
+           family={Glen},
            family_i={G\bibinitperiod},
-           given={Valborg},
-           given_i={V\bibinitperiod}}}%
-        {{hash=b21a4f0403474e55798febc0e9690d5f}{%
-           family={Nielsen},
-           family_i={N\bibinitperiod},
-           given={Henrik\bibnamedelima Bj{ø}rn},
-           given_i={H\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=c4635cecbe9d93882ff23d65c10dc052}{%
-           family={Hyotylainen},
-           family_i={H\bibinitperiod},
-           given={Tuulia},
-           given_i={T\bibinitperiod}}}%
-        {{hash=09c637f029e82ae4c90337ae6c3810d0}{%
-           family={Nielsen},
-           family_i={N\bibinitperiod},
-           given={Trine},
-           given_i={T\bibinitperiod}}}%
-        {{hash=850b25772bf41f7ccca78fbfdf3bb0d3}{%
-           family={Jensen},
-           family_i={J\bibinitperiod},
-           given={Benjamin\bibnamedelima AH},
-           given_i={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=bfbdff6fcabc2ffe51dcbf7c0bf003ae}{%
-           family={Forslund},
-           family_i={F\bibinitperiod},
-           given={Kristoffer},
-           given_i={K\bibinitperiod}}}%
-        {{hash=29eea78360c7408515ff5db80bc6d363}{%
-           family={Hildebrand},
-           family_i={H\bibinitperiod},
-           given={Falk},
-           given_i={F\bibinitperiod}}}%
-        {{hash=43a554a6e76f832920fc7fff0314a411}{%
-           family={Prifti},
-           family_i={P\bibinitperiod},
-           given={Edi},
-           given_i={E\bibinitperiod}}}%
-        {{hash=ddda48fb68b74bb6c68dca8b5db897f0}{%
-           family={Falony},
-           family_i={F\bibinitperiod},
-           given={Gwen},
-           given_i={G\bibinitperiod}}}%
+           given={Robert\bibnamedelima C},
+           given_i={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=bb24a0f0f940be3c3a3115b555dcedb4}{%
+           family={Mitchell},
+           family_i={M\bibinitperiod},
+           given={John\bibnamedelima BO},
+           given_i={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Nature Publishing Group}%
+        {ACS Publications}%
       }
-      \strng{namehash}{d3d328bd70b3d7acf2bc28e4485275d8}
-      \strng{fullhash}{878282f0520daa184af0d5081c7d519e}
-      \field{labelalpha}{Ped+16}
+      \strng{namehash}{df23b94d4796c6ca2c4c3b7dc6b39a80}
+      \strng{fullhash}{e9652ebeedfa598cfbd14e8401542607}
+      \field{labelalpha}{Pal+07}
       \field{sortinit}{P}
       \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Nature}
-      \field{title}{Human gut microbes impact host serum metabolome and insulin sensitivity}
-      \field{year}{2016}
+      \field{journaltitle}{Journal of chemical information and modeling}
+      \field{number}{1}
+      \field{title}{Random forest models to predict aqueous solubility}
+      \field{volume}{47}
+      \field{year}{2007}
+      \field{pages}{150\bibrangedash 158}
+      \range{pages}{9}
     \endentry
     \entry{petersen2013colonic}{article}{}
       \name{author}{5}{}{%
@@ -2015,6 +1987,42 @@
       \verb https://en.wikiquote.org/w/index.php?title=John_von_Neumann&oldid=2132483
       \endverb
     \endentry
+    \entry{whitehead2008safe}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4f717d35a5480960661ca9a58c3c5dcb}{%
+           family={Whitehead},
+           family_i={W\bibinitperiod},
+           given={Kathryn},
+           given_i={K\bibinitperiod}}}%
+        {{hash=81450a58b6cbda2385dbb32c227d7219}{%
+           family={Karr},
+           family_i={K\bibinitperiod},
+           given={Natalie},
+           given_i={N\bibinitperiod}}}%
+        {{hash=b544c80433815882f5782e911933412d}{%
+           family={Mitragotri},
+           family_i={M\bibinitperiod},
+           given={Samir},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4d96d757f6e81b09fadf39719e5593e4}
+      \strng{fullhash}{4d96d757f6e81b09fadf39719e5593e4}
+      \field{labelalpha}{WKM08}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pharmaceutical research}
+      \field{number}{8}
+      \field{title}{Safe and effective permeation enhancers for oral drug delivery}
+      \field{volume}{25}
+      \field{year}{2008}
+      \field{pages}{1782\bibrangedash 1788}
+      \range{pages}{7}
+    \endentry
     \entry{xia2000mechanistic}{article}{}
       \name{author}{2}{}{%
         {{hash=b8787c8e598fea2ae15c0b9d87f1f3d0}{%
@@ -2045,12 +2053,12 @@
       \range{pages}{7}
     \endentry
   \endsortlist
-  \missing{Mostafa13learning}
+  \missing{arnolds2010pharmacokinetic}
   \missing{monkeys}
   \missing{wainer2016comparison}
-  \missing{vernon1999insulin}
   \missing{kalivas1997two}
-  \missing{arnolds2010pharmacokinetic}
+  \missing{vernon1999insulin}
+  \missing{Mostafa13learning}
 \endrefsection
 \endinput
 

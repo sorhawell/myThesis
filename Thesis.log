@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  26 JUL 2016 15:04
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  30 JUL 2016 12:51
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -1621,8 +1621,20 @@ Package: bm 2016/02/27 v1.2a Bold Symbol Support (DPC/FMi)
 \symboldsymbols=\mathgroup6
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 142.
 LaTeX Info: Redefining \bm on input line 208.
+)
+("C:\progs\MiKTeX 2.9\tex\latex\ulem\ulem.sty"
+\UL@box=\box63
+\UL@hyphenbox=\box64
+\UL@skip=\skip279
+\UL@hook=\toks49
+\UL@height=\dimen319
+\UL@pe=\count437
+\UL@pixel=\dimen320
+\ULC@box=\box65
+Package: ulem 2012/05/18
+\ULdepth=\dimen321
 )) (preamble/fonts.tex
-\g__fontspec_family_texgyreadventor_int=\count437
+\g__fontspec_family_texgyreadventor_int=\count438
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1664,24 +1676,24 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 ("C:\progs\MiKTeX 2.9\tex\latex\tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count438
-\c@Blindtext=\count439
-\c@blind@countparstart=\count440
-\blind@countxx=\count441
-\blindtext@numBlindtext=\count442
-\blind@countyy=\count443
-\c@blindlist=\count444
-\c@blindlistlevel=\count445
-\c@blindlist@level=\count446
-\blind@listitem=\count447
-\c@blind@listcount=\count448
-\c@blind@levelcount=\count449
-\blind@mathformula=\count450
-\blind@Mathformula=\count451
-\c@blind@randomcount=\count452
-\c@blind@randommax=\count453
-\c@blind@pangramcount=\count454
-\c@blind@pangrammax=\count455
+\c@blindtext=\count439
+\c@Blindtext=\count440
+\c@blind@countparstart=\count441
+\blind@countxx=\count442
+\blindtext@numBlindtext=\count443
+\blind@countyy=\count444
+\c@blindlist=\count445
+\c@blindlistlevel=\count446
+\c@blindlist@level=\count447
+\blind@listitem=\count448
+\c@blind@listcount=\count449
+\c@blind@levelcount=\count450
+\blind@mathformula=\count451
+\blind@Mathformula=\count452
+\c@blind@randomcount=\count453
+\c@blind@randommax=\count454
+\c@blind@pangramcount=\count455
+\c@blind@pangrammax=\count456
 )
 ("C:\progs\MiKTeX 2.9\tex\latex\algorithms\algorithm.sty"
 Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
@@ -1690,14 +1702,14 @@ nment
 
 ("C:\progs\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count456
-\float@exts=\toks49
-\float@box=\box63
-\@float@everytoks=\toks50
-\@floatcapt=\box64
+\c@float@type=\count457
+\float@exts=\toks50
+\float@box=\box66
+\@float@everytoks=\toks51
+\@floatcapt=\box67
 )
-\@float@every@algorithm=\toks51
-\c@algorithm=\count457
+\@float@every@algorithm=\toks52
+\c@algorithm=\count458
 )
 ("C:\progs\MiKTeX 2.9\tex\latex\algorithmicx\algpseudocode.sty"
 Package: algpseudocode 
@@ -1706,16 +1718,16 @@ Package: algpseudocode
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
-\c@ALG@line=\count458
-\c@ALG@rem=\count459
-\c@ALG@nested=\count460
-\ALG@tlm=\skip279
-\ALG@thistlm=\skip280
-\c@ALG@Lnr=\count461
-\c@ALG@blocknr=\count462
-\c@ALG@storecount=\count463
-\c@ALG@tmpcounter=\count464
-\ALG@tmplength=\skip281
+\c@ALG@line=\count459
+\c@ALG@rem=\count460
+\c@ALG@nested=\count461
+\ALG@tlm=\skip280
+\ALG@thistlm=\skip281
+\c@ALG@Lnr=\count462
+\c@ALG@blocknr=\count463
+\c@ALG@storecount=\count464
+\c@ALG@tmpcounter=\count465
+\ALG@tmplength=\skip282
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
 ) ("C:\progs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
@@ -1738,7 +1750,7 @@ File: english.lbx 2016/05/14 v3.4 biblatex localization (PK/JW/AB)
 ) (Thesis.aux
 (prefrontmatter/titlepage.aux) (prefrontmatter/colophon.aux)
 (frontmatter/Summary.aux) (frontmatter/Preface.aux)
-(frontmatter/Acknowledgements.aux) (chapters/Introduction.aux)
+(frontmatter/Acknowledgements.aux) (chapters/Introduction_rettet.aux)
 (chapters/measureAbsorption.aux) (chapters/introStat.aux)
 (chapters/predictPotency.aux) (chapters/interpretTheForest.aux)
 (chapters/structureOfSolubility.aux) (chapters/Conclusion.aux)
@@ -1789,10 +1801,10 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `lmr' (encoding: EU1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-\c@lstlisting=\count465
+\c@lstlisting=\count466
 
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box65
+\AtBeginShipoutBox=\box68
 Package hyperref Info: Link coloring OFF on input line 10.
 
 ("C:\progs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
@@ -1801,7 +1813,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\progs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count466
+\c@section@level=\count467
 )
 Redoing nameref's sectioning
 Redoing nameref's label
@@ -1825,7 +1837,7 @@ Package biblatex Info: ... file 'Thesis.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Mostafa13learning
+(biblatex)                arnolds2010pharmacokinetic
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1846,13 +1858,6 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                vernon1999insulin
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                kalivas1997two
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -1860,7 +1865,14 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                arnolds2010pharmacokinetic
+(biblatex)                vernon1999insulin
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Mostafa13learning
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -2013,121 +2025,126 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 5.
  [7]
-Overfull \hbox (1.03998pt too wide) detected at line 113
+Overfull \hbox (1.03998pt too wide) detected at line 107
  []\EU1/texgyreadventor(0)/bx/n/10 101[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 115
+Overfull \hbox (2.59993pt too wide) detected at line 109
  []\EU1/lmr/m/n/10 101[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 117
+Overfull \hbox (2.59993pt too wide) detected at line 111
  []\EU1/lmr/m/n/10 113[]
  []
 
 
-Overfull \hbox (1.03998pt too wide) detected at line 119
+Overfull \hbox (1.03998pt too wide) detected at line 113
  []\EU1/texgyreadventor(0)/bx/n/10 115[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 121
+Overfull \hbox (2.59993pt too wide) detected at line 115
  []\EU1/lmr/m/n/10 115[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 123
- []\EU1/lmr/m/n/10 115[]
+Overfull \hbox (2.59993pt too wide) detected at line 117
+ []\EU1/lmr/m/n/10 117[]
  []
 
 
-Overfull \hbox (1.03998pt too wide) detected at line 125
+Overfull \hbox (2.59993pt too wide) detected at line 119
+ []\EU1/lmr/m/n/10 117[]
+ []
+
+
+Overfull \hbox (1.03998pt too wide) detected at line 121
  []\EU1/texgyreadventor(0)/bx/n/10 119[]
  []
 
 
+Overfull \hbox (2.59993pt too wide) detected at line 123
+ []\EU1/lmr/m/n/10 119[]
+ []
+
+
+Overfull \hbox (2.59993pt too wide) detected at line 125
+ []\EU1/lmr/m/n/10 119[]
+ []
+
+
 Overfull \hbox (2.59993pt too wide) detected at line 127
- []\EU1/lmr/m/n/10 119[]
- []
-
-
-Overfull \hbox (2.59993pt too wide) detected at line 129
- []\EU1/lmr/m/n/10 119[]
- []
-
-
-Overfull \hbox (2.59993pt too wide) detected at line 131
  []\EU1/lmr/m/n/10 123[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 133
+Overfull \hbox (2.59993pt too wide) detected at line 129
  []\EU1/lmr/m/n/10 127[]
  []
 
-[8]
-Overfull \hbox (2.59993pt too wide) detected at line 135
+
+Overfull \hbox (2.59993pt too wide) detected at line 131
  []\EU1/lmr/m/n/10 134[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 137
+Overfull \hbox (2.59993pt too wide) detected at line 133
  []\EU1/lmr/m/n/10 137[]
  []
 
-
-Overfull \hbox (2.59993pt too wide) detected at line 139
+[8]
+Overfull \hbox (2.59993pt too wide) detected at line 135
  []\EU1/lmr/m/n/10 141[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 141
+Overfull \hbox (2.59993pt too wide) detected at line 137
  []\EU1/lmr/m/n/10 145[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 143
+Overfull \hbox (2.59993pt too wide) detected at line 139
  []\EU1/lmr/m/n/10 147[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 145
+Overfull \hbox (2.59993pt too wide) detected at line 141
  []\EU1/lmr/m/n/10 152[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 147
+Overfull \hbox (2.59993pt too wide) detected at line 143
  []\EU1/lmr/m/n/10 155[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 149
+Overfull \hbox (2.59993pt too wide) detected at line 145
  []\EU1/lmr/m/n/10 159[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 151
+Overfull \hbox (2.59993pt too wide) detected at line 147
  []\EU1/lmr/m/n/10 162[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 153
+Overfull \hbox (2.59993pt too wide) detected at line 149
  []\EU1/lmr/m/n/10 166[]
  []
 
 
-Overfull \hbox (1.03998pt too wide) detected at line 155
+Overfull \hbox (1.03998pt too wide) detected at line 151
  []\EU1/texgyreadventor(0)/bx/n/10 205[]
  []
 
 ) [9] [10
 
 ]
-\openout2 = `chapters/Introduction.aux'.
+\openout2 = `chapters/Introduction_rettet.aux'.
 
- (chapters/Introduction.tex
+ (chapters/Introduction_rettet.tex
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 7.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -2156,33 +2173,38 @@ File: graphics/intro_anatomy2.pdf Graphic file (type QTm)
 ]
 
 LaTeX Warning: Reference `typeOfExperiment' on page 11 undefined on input line 
-8.
-
-
-LaTeX Warning: Reference `some section' on page 11 undefined on input line 12.
-
-
-LaTeX Warning: Reference `typeOfExperiment' on page 11 undefined on input line 
-12.
+7.
 
 
 Underfull \vbox (badness 1348) has occurred while \output is active []
 
  [11]
-[12] [13]
+
+LaTeX Warning: Reference `some sectionXXX' on page 12 undefined on input line 1
+3.
+
+
+LaTeX Warning: Reference `typeOfExperiment' on page 12 undefined on input line 
+13.
+
+[12]
 File: graphics/typeOfExperiments.pdf Graphic file (type QTm)
  <use  "graphics/typeOfExperiments.pdf" >
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 [][]
  []
 
-[14]
-File: graphics/sketch_measuring_permeability.png Graphic file (type QTm)
- <use  "graphics/sketch_measuring_permeability.png" > [15]
+[13]
+Underfull \vbox (badness 1009) has occurred while \output is active []
+
+ [14]
+File: graphics/samplingClamping.pdf Graphic file (type QTm)
+
+<use  "graphics/samplingClamping.pdf" > [15]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16]
-[17]
+[17] [18]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
  <use  "chapters/citricAcid.pdf" >
 File: chapters/citricAcid.pdf Graphic file (type QTm)
@@ -2201,7 +2223,7 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 <use  "chapters/citricAcid.pdf"  page1>
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
-<use  "chapters/citricAcid.pdf"  page1> [18]
+<use  "chapters/citricAcid.pdf"  page1> [19]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page2>
@@ -2210,7 +2232,7 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 <use  "chapters/citricAcid.pdf"  page2>
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
-<use  "chapters/citricAcid.pdf"  page2> [19]
+<use  "chapters/citricAcid.pdf"  page2> [20]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page3>
@@ -2219,7 +2241,7 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 <use  "chapters/citricAcid.pdf"  page3>
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
-<use  "chapters/citricAcid.pdf"  page3> [20]
+<use  "chapters/citricAcid.pdf"  page3> [21]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page4>
@@ -2228,7 +2250,7 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 <use  "chapters/citricAcid.pdf"  page4>
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
-<use  "chapters/citricAcid.pdf"  page4> [21]
+<use  "chapters/citricAcid.pdf"  page4> [22]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page5>
@@ -2237,7 +2259,7 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 <use  "chapters/citricAcid.pdf"  page5>
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
-<use  "chapters/citricAcid.pdf"  page5> [22]
+<use  "chapters/citricAcid.pdf"  page5> [23]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page6>
@@ -2246,7 +2268,7 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 <use  "chapters/citricAcid.pdf"  page6>
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
-<use  "chapters/citricAcid.pdf"  page6> [23]
+<use  "chapters/citricAcid.pdf"  page6> [24]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page7>
@@ -2255,7 +2277,7 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 <use  "chapters/citricAcid.pdf"  page7>
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
-<use  "chapters/citricAcid.pdf"  page7> [24]
+<use  "chapters/citricAcid.pdf"  page7> [25]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
 <use  "chapters/citricAcid.pdf"  page8>
@@ -2264,20 +2286,20 @@ File: chapters/citricAcid.pdf Graphic file (type QTm)
 <use  "chapters/citricAcid.pdf"  page8>
 File: chapters/citricAcid.pdf Graphic file (type QTm)
 
-<use  "chapters/citricAcid.pdf"  page8> [25])
+<use  "chapters/citricAcid.pdf"  page8> [26])
 \openout2 = `chapters/introStat.aux'.
 
- (chapters/introStat.tex [26
-
-
-
-]
+ (chapters/introStat.tex
 File: graphics/sketchMLmapping.png Graphic file (type QTm)
 
-<use  "graphics/sketchMLmapping.png" > [27] [28] [29] [30] [31] [32] [33]
+<use  "graphics/sketchMLmapping.png" > [27
+
+
+
+] [28] [29] [30] [31] [32] [33]
 [34]
-File: graphics/svmVSrf.png Graphic file (type QTm)
- <use  "graphics/svmVSrf.png" >
+File: graphics/svmVSrf.pdf Graphic file (type QTm)
+ <use  "graphics/svmVSrf.pdf" >
 Missing character: There is no − in font rm-lmr10!
 Missing character: There is no − in font rm-lmr10!
  [35] [36]
@@ -2285,13 +2307,13 @@ File: graphics/randomForest_explained_thesisVersion.pdf Graphic file (type QTm)
 
 
 <use  "graphics/randomForest_explained_thesisVersion.pdf" > [37] [38]
-File: graphics/decisionTreeFit.png Graphic file (type QTm)
+File: graphics/decisionTreeFit.pdf Graphic file (type QTm)
 
-<use  "graphics/decisionTreeFit.png" > [39]
-File: graphics/allTrees.png Graphic file (type QTm)
- <use  "graphics/allTrees.png" >
+<use  "graphics/decisionTreeFit.pdf" > [39]
+File: graphics/allTrees.pdf Graphic file (type QTm)
+ <use  "graphics/allTrees.pdf" >
 
-LaTeX Warning: Float too large for page by 73.95667pt on input line 169.
+LaTeX Warning: Float too large for page by 73.98825pt on input line 169.
 
 [40] [41]) [42]
 \openout2 = `chapters/predictPotency.aux'.
@@ -2353,7 +2375,7 @@ File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 Class memoir Warning: The material used in the headers is too large
 (24.0pt) for the given head height (22.76219pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 83.
+(in both cases you will find help in the memoir manual). on input line 84.
 
 
 Overfull \vbox (1.23781pt too high) has occurred while \output is active []
@@ -2933,16 +2955,19 @@ File: chapters/structureOfSolubility.pdf Graphic file (type QTm)
 
 
 ]
-File: graphics/screened_molecules2.png Graphic file (type QTm)
- <use  "graphics/screened_molecules2.png" >
-[115] [116]) [117]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 7.
+
+File: graphics/screened_molecules3.pdf Graphic file (type QTm)
+<use  "graphics/screened_molecules3.pdf" >
+Underfull \vbox (badness 1558) has occurred while \output is active []
+
+ [115]
+[116] [117]) [118]
 \openout2 = `appendices/AnAppendix.aux'.
 
- (appendices/AnAppendix.tex [118
-
-
-
-]
+ (appendices/AnAppendix.tex
 File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV1_classwt.pdf" >
@@ -2954,7 +2979,11 @@ File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
 <use  "cross_validated_posts/CV1_classwt.pdf"  page1>
 File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
 
-<use  "cross_validated_posts/CV1_classwt.pdf"  page1> [119]
+<use  "cross_validated_posts/CV1_classwt.pdf"  page1> [119
+
+
+
+]
 File: cross_validated_posts/CV1_classwt.pdf Graphic file (type QTm)
 
 <use  "cross_validated_posts/CV1_classwt.pdf"  page1>
@@ -3802,7 +3831,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
 Package cleveref Info: loaded `english' language definitions on input line 26.
  (prefrontmatter/colophon.aux)
 (frontmatter/Summary.aux) (frontmatter/Preface.aux)
-(frontmatter/Acknowledgements.aux) (chapters/Introduction.aux)
+(frontmatter/Acknowledgements.aux) (chapters/Introduction_rettet.aux)
 (chapters/measureAbsorption.aux) (chapters/introStat.aux)
 (chapters/predictPotency.aux) (chapters/interpretTheForest.aux)
 (chapters/structureOfSolubility.aux) (chapters/Conclusion.aux)
@@ -3819,11 +3848,11 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 49251 strings out of 428410
- 890458 string characters out of 3162139
- 2005483 words of memory out of 3000000
- 51921 multiletter control sequences out of 15000+200000
- 49391 words of font info for 77 fonts, out of 3000000 for 9000
+ 49354 strings out of 428410
+ 891539 string characters out of 3162139
+ 2008037 words of memory out of 3000000
+ 52020 multiletter control sequences out of 15000+200000
+ 49497 words of font info for 78 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  62i,19n,72p,10445b,7108s stack positions out of 5000i,500n,10000p,200000b,50000s
 
