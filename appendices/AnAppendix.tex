@@ -1,6 +1,14 @@
 %!TEX root = ../Thesis.tex
 \chapter{An Appendix}
 
+%!TEX root = ../Thesis.tex
+\section{Learning the structure of random forest models in QSAR
+modelling: Predicting molecular Solubility}
+\label{article:solubility}
+
+This draft have been prepared, however not finished. The draft describes how the solubility prediction model was trained and how to visualize the model structure with forestFloor.
+
+\includepdf[pages={1-},scale=0.90,pagecommand={\pagestyle{myruled}}]{appendices/structureOfSolubility.pdf}
 
 \section{Random forest Q and A answers with illustrations and code examples}
 
@@ -9,55 +17,52 @@ During the last three years, two forums \textit{Stack Overflow} \url{http://stac
 
 \subsection{Handling unbalanced data with with random forest}
 \label{CV1_classwt}
-\includepdf[pages={1-},scale=0.90,pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV1_classwt.pdf}
+\includepdf[pages={1-},scale=0.90,offset=0 -34, pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV1_classwt.pdf}
 
 
 \subsection{Random forest and outliers I: Outlier Islands}
-\includepdf[pages={1-},scale=0.90,pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV2_fullygrown.pdf}
+\includepdf[pages={1-},scale=0.90,offset=0 -34, pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV2_fullygrown.pdf}
 \label{CV2_fullygrown}
 
 \subsection{Random forest and outliers II: Robustness}
-\includepdf[pages={1-},scale=0.90,pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV3_sensitiveOutliers.pdf}
+\includepdf[pages={1-},scale=0.90,offset=0 -34, pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV3_sensitiveOutliers.pdf}
 \label{CV3_sensitiveOutliers}
 
 \subsection{Simple check that random forest can fit interactions}
-\includepdf[pages={1-},scale=0.90,pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV4_assertInteraction.pdf}
+\includepdf[pages={1-},scale=0.90,offset=0 -34, pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV4_assertInteraction.pdf}
 \label{CV4_assertInteraction}
 
 \subsection{Interpolation with RF and SVM is near}
-\includepdf[pages={1-},scale=0.90,pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV5_SVM_RF_same_same.pdf}
+\includepdf[pages={1-},scale=0.90,offset=0 -34, pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV5_SVM_RF_same_same.pdf}
 \label{CV5_SVM_RF_same_same}
 
 \subsection{How does CART break ties}
-\includepdf[pages={1-},scale=0.90,pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV6_CARTtiebreak.pdf}
+\includepdf[pages={1-},scale=0.90,offset=0 -34, pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV6_CARTtiebreak.pdf}
 \label{CV6_CARTtiebreak}
 
 \subsection{Variable importance for other models than random forest}
-\includepdf[pages={1-},scale=0.90,pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV7_VIbeyondRF.pdf}
+\includepdf[pages={1-},scale=0.90,offset=0 -34, pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV7_VIbeyondRF.pdf}
 \label{CV7_VIbeyondRF}
 
 \subsection{How to combine multiple models in a bootstrap aggregated ensemble}
-\includepdf[pages={1-},scale=0.90,pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV8_combineBagging}
+\includepdf[pages={1-},scale=0.90,offset=0 -34, pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV8_combineBagging}
 \label{CV8_combineBagging}
 
 \subsection{Bootstrapping process of random forest: Sampling proability as function of hyperparameters.}
-\includepdf[pages={1-},scale=0.90,pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV9_RFsampling}
+\includepdf[pages={1-},scale=0.90,offset=0 -34, pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV9_RFsampling}
 \label{CV9_RFsampling}
 
 \subsection{Simple tutorial explaining when log tranforming prior to PCA is reasonable}
-\includepdf[pages={1-},scale=0.90,pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV10_PCAlogTransform}
+\includepdf[pages={1-},scale=0.90,offset=0 -34, pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV10_PCAlogTransform}
 \label{CV10_PCAlogTransform}
 
 \subsection{Efficient implementation gini loss function in random forest}
-\includepdf[pages={1-},scale=0.90,pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV11_RFginigain.pdf}
+\includepdf[pages={1-},scale=0.90,offset=0 -34, pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV11_RFginigain.pdf}
 \label{CV11_RFginigain}
 
 \subsection{Limiting bootstrap sample size versus limiting maxnodes}
-\includepdf[pages={1-},scale=0.90,pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV12_RFsampsize.pdf}
+\includepdf[pages={1-},scale=0.90,offset=0 -34, pagecommand={\pagestyle{myruled}}]{cross_validated_posts/CV12_RFsampsize.pdf}
 \label{CV12_RFsampsize}
-
-
-
 
 
 \section{Manual: R CRAN package forestFloor 1.9.5}
