@@ -1357,6 +1357,28 @@
       \field{volume}{6}
       \field{year}{2015}
     \endentry
+    \entry{le2010performance}{book}{}
+      \name{author}{1}{}{%
+        {{hash=efa89391bef869704cf9f1fd4df71100}{%
+           family={Le\bibnamedelima Boudec},
+           family_i={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Jean-Yves},
+           given_i={J\bibinithyphendelim Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Epfl Press}%
+      }
+      \strng{namehash}{efa89391bef869704cf9f1fd4df71100}
+      \strng{fullhash}{efa89391bef869704cf9f1fd4df71100}
+      \field{labelalpha}{Le 10}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{2}
+      \field{title}{Performance evaluation of computer and communication systems}
+      \field{year}{2010}
+    \endentry
     \entry{lichman2013uci}{misc}{}
       \name{author}{1}{}{%
         {{hash=7202d1c034f2a555a0a037bc17d642aa}{%
@@ -2053,12 +2075,12 @@
       \range{pages}{7}
     \endentry
   \endsortlist
-  \missing{arnolds2010pharmacokinetic}
-  \missing{monkeys}
   \missing{wainer2016comparison}
-  \missing{kalivas1997two}
+  \missing{arnolds2010pharmacokinetic}
   \missing{vernon1999insulin}
   \missing{Mostafa13learning}
+  \missing{kalivas1997two}
+  \missing{monkeys}
 \endrefsection
 \endinput
 

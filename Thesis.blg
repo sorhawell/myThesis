@@ -1,25 +1,25 @@
 [0] Config.pm:343> INFO - This is Biber 2.5
 [0] Config.pm:346> INFO - Logfile is 'Thesis.blg'
-[36] biber-MSWIN32:290> INFO - === 
-[59] Biber.pm:351> INFO - Reading 'Thesis.bcf'
-[160] Biber.pm:776> INFO - Found 61 citekeys in bib section 0
-[174] Biber.pm:3493> INFO - Processing section 0
-[194] Biber.pm:3657> INFO - Looking for bibtex format file 'bibliography/Bibliography.bib' for section 0
-[203] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
-[212] bibtex.pm:1048> INFO - Found BibTeX data source 'bibliography/Bibliography.bib'
-[239] Utils.pm:149> WARN - Duplicate entry key: 'ho1998random' in file 'bibliography/Bibliography.bib', skipping ...
-[340] Utils.pm:149> WARN - I didn't find a database entry for 'arnolds2010pharmacokinetic' (section 0)
-[340] Utils.pm:149> WARN - I didn't find a database entry for 'vernon1999insulin' (section 0)
-[340] Utils.pm:149> WARN - I didn't find a database entry for 'Mostafa13learning' (section 0)
-[340] Utils.pm:149> WARN - I didn't find a database entry for 'monkeys' (section 0)
-[341] Utils.pm:149> WARN - I didn't find a database entry for 'wainer2016comparison' (section 0)
-[341] Utils.pm:149> WARN - I didn't find a database entry for 'kalivas1997two' (section 0)
-[343] Utils.pm:149> WARN - The field 'note' in entry 'welling2014citric' cannot be null, deleting it
-[344] Utils.pm:149> WARN - The field 'title' in entry 'xia2000mechanistic' cannot be null, deleting it
-[432] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[432] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[432] Biber.pm:3306> INFO - Sorting list 'anyt/global/' of type 'entry' with scheme 'anyt' and locale 'en-US'
-[432] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
-[518] bbl.pm:526> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
-[529] bbl.pm:619> INFO - Output to Thesis.bbl
-[532] Biber.pm:108> INFO - WARNINGS: 9
+[102] biber-MSWIN32:290> INFO - === 
+[229] Biber.pm:351> INFO - Reading 'Thesis.bcf'
+[328] Biber.pm:776> INFO - Found 62 citekeys in bib section 0
+[340] Biber.pm:3493> INFO - Processing section 0
+[507] Biber.pm:3657> INFO - Looking for bibtex format file 'bibliography/Bibliography.bib' for section 0
+[545] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[554] bibtex.pm:1048> INFO - Found BibTeX data source 'bibliography/Bibliography.bib'
+[559] Utils.pm:149> WARN - Duplicate entry key: 'ho1998random' in file 'bibliography/Bibliography.bib', skipping ...
+[804] Utils.pm:149> WARN - I didn't find a database entry for 'arnolds2010pharmacokinetic' (section 0)
+[804] Utils.pm:149> WARN - I didn't find a database entry for 'vernon1999insulin' (section 0)
+[804] Utils.pm:149> WARN - I didn't find a database entry for 'Mostafa13learning' (section 0)
+[804] Utils.pm:149> WARN - I didn't find a database entry for 'monkeys' (section 0)
+[804] Utils.pm:149> WARN - I didn't find a database entry for 'wainer2016comparison' (section 0)
+[804] Utils.pm:149> WARN - I didn't find a database entry for 'kalivas1997two' (section 0)
+[807] Utils.pm:149> WARN - The field 'note' in entry 'welling2014citric' cannot be null, deleting it
+[808] Utils.pm:149> WARN - The field 'title' in entry 'xia2000mechanistic' cannot be null, deleting it
+[907] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[907] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[908] Biber.pm:3306> INFO - Sorting list 'anyt/global/' of type 'entry' with scheme 'anyt' and locale 'en-US'
+[908] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[989] bbl.pm:526> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
+[1000] bbl.pm:619> INFO - Output to Thesis.bbl
+[1002] Biber.pm:108> INFO - WARNINGS: 9

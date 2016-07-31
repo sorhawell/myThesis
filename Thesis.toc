@@ -64,15 +64,15 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.3}Algorithmic models}{34}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}random forest}{35}{section.3.4}
+\contentsline {section}{\numberline {3.4}random forest}{36}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}bagging}{35}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.1}bagging}{36}{subsection.3.4.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.2}Introduction to decision trees}{37}{subsection.3.4.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.3}Regularization in random forest}{39}{subsection.3.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.4}Random subspace regularization}{40}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.4}Random subspace regularization}{42}{subsection.3.4.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.5}Choice of regularization}{42}{subsection.3.4.5}
 \defcounter {refsection}{0}\relax 
@@ -80,72 +80,72 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.0.1}Work flow and early challenges}{43}{subsection.4.0.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.0.2}Challenges of a top down modeling of permeation enhancement}{44}{subsection.4.0.2}
+\contentsline {subsection}{\numberline {4.0.2}Challenges of a top down modeling of permeation enhancement}{45}{subsection.4.0.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.0.3}Identical distributions}{45}{subsection.4.0.3}
+\contentsline {subsection}{\numberline {4.0.3}Assumptions of the top-down model}{45}{subsection.4.0.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.0.4}orphan! figure explaining why in-vitro studies over estimate}{46}{subsection.4.0.4}
+\contentsline {subsection}{\numberline {4.0.4}orphan! figure explaining why in-vitro studies over estimate}{47}{subsection.4.0.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.0.5}Anticipated complexity enhancement mechanisms robust estimation.}{46}{subsection.4.0.5}
+\contentsline {subsection}{\numberline {4.0.5}Molecular descriptors, model complexity and surfactant characteristics}{47}{subsection.4.0.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}orphan figures}{46}{section.4.1}
+\contentsline {section}{\numberline {4.1}orphan figures}{47}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Article: In silico modelling of permeation enhancement potency in Caco-2 monolayers based on molecular descriptors and random forest}{48}{section.4.2}
+\contentsline {section}{\numberline {4.2}Article: In silico modelling of permeation enhancement potency in Caco-2 monolayers based on molecular descriptors and random forest}{49}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {5}interpretTheForest}{57}{chapter.5}
+\contentsline {chapter}{\chapternumberline {5}interpretTheForest}{59}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Modeling with random forest}{57}{section.5.1}
+\contentsline {section}{\numberline {5.1}Modeling with random forest}{59}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}One interpretation of interactions}{57}{section.5.2}
+\contentsline {section}{\numberline {5.2}One interpretation of interactions}{59}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Other ways to identify interactions}{61}{section.5.3}
+\contentsline {section}{\numberline {5.3}Other ways to identify interactions}{63}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Article: Forest Floor Visualizations of Random Forests}{61}{section.5.4}
+\contentsline {section}{\numberline {5.4}Article: Forest Floor Visualizations of Random Forests}{63}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.1}Supplementary materials for: Forest Floor Visualizations of Random Forests}{88}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.1}Supplementary materials for: Forest Floor Visualizations of Random Forests}{90}{subsection.5.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {6}structureOfSolubility}{101}{chapter.6}
+\contentsline {chapter}{\chapternumberline {6}structureOfSolubility}{103}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}Learning the structure of random forest models in QSAR modelling: Predicting molecular Solubility}{101}{section.6.1}
+\contentsline {section}{\numberline {6.1}Learning the structure of random forest models in QSAR modelling: Predicting molecular Solubility}{103}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}The correct temperature}{113}{section.6.2}
+\contentsline {section}{\numberline {6.2}The correct temperature}{115}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {7}Selection permeation enhancers}{115}{chapter.7}
+\contentsline {chapter}{\chapternumberline {7}Selection permeation enhancers}{117}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.0.1}Is predicted potency the same as insolubility}{115}{subsection.7.0.1}
+\contentsline {subsection}{\numberline {7.0.1}Is predicted potency the same as insolubility}{117}{subsection.7.0.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.0.2}Uncertainty of predictions}{117}{subsection.7.0.2}
+\contentsline {subsection}{\numberline {7.0.2}Uncertainty of predictions}{119}{subsection.7.0.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Discussion}{117}{section.7.1}
+\contentsline {section}{\numberline {7.1}Discussion}{119}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {appendix}{\chapternumberline {A}An Appendix}{119}{appendix.A}
+\contentsline {appendix}{\chapternumberline {A}An Appendix}{121}{appendix.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Random forest Q and A answers with illustrations and code examples}{119}{section.A.1}
+\contentsline {section}{\numberline {A.1}Random forest Q and A answers with illustrations and code examples}{121}{section.A.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.1}Handling unbalanced data with with random forest}{119}{subsection.A.1.1}
+\contentsline {subsection}{\numberline {A.1.1}Handling unbalanced data with with random forest}{121}{subsection.A.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.2}Random forest and outliers I: Outlier Islands}{123}{subsection.A.1.2}
+\contentsline {subsection}{\numberline {A.1.2}Random forest and outliers I: Outlier Islands}{125}{subsection.A.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.3}Random forest and outliers II: Robustness}{127}{subsection.A.1.3}
+\contentsline {subsection}{\numberline {A.1.3}Random forest and outliers II: Robustness}{129}{subsection.A.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.4}Simple check that random forest can fit interactions}{134}{subsection.A.1.4}
+\contentsline {subsection}{\numberline {A.1.4}Simple check that random forest can fit interactions}{136}{subsection.A.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.5}Interpolation with RF and SVM is near}{137}{subsection.A.1.5}
+\contentsline {subsection}{\numberline {A.1.5}Interpolation with RF and SVM is near}{139}{subsection.A.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.6}How does CART break ties}{141}{subsection.A.1.6}
+\contentsline {subsection}{\numberline {A.1.6}How does CART break ties}{143}{subsection.A.1.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.7}Variable importance for other models than random forest}{145}{subsection.A.1.7}
+\contentsline {subsection}{\numberline {A.1.7}Variable importance for other models than random forest}{147}{subsection.A.1.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.8}How to combine multiple models in a bootstrap aggregated ensemble}{147}{subsection.A.1.8}
+\contentsline {subsection}{\numberline {A.1.8}How to combine multiple models in a bootstrap aggregated ensemble}{149}{subsection.A.1.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.9}Bootstrapping process of random forest: Sampling proability as function of hyperparameters.}{152}{subsection.A.1.9}
+\contentsline {subsection}{\numberline {A.1.9}Bootstrapping process of random forest: Sampling proability as function of hyperparameters.}{154}{subsection.A.1.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.10}Simple tutorial explaining when log tranforming prior to PCA is reasonable}{155}{subsection.A.1.10}
+\contentsline {subsection}{\numberline {A.1.10}Simple tutorial explaining when log tranforming prior to PCA is reasonable}{157}{subsection.A.1.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.11}Efficient implementation gini loss function in random forest}{159}{subsection.A.1.11}
+\contentsline {subsection}{\numberline {A.1.11}Efficient implementation gini loss function in random forest}{161}{subsection.A.1.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.1.12}Limiting bootstrap sample size versus limiting maxnodes}{162}{subsection.A.1.12}
+\contentsline {subsection}{\numberline {A.1.12}Limiting bootstrap sample size versus limiting maxnodes}{164}{subsection.A.1.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.2}Manual: R CRAN package forestFloor 1.9.5}{166}{section.A.2}
+\contentsline {section}{\numberline {A.2}Manual: R CRAN package forestFloor 1.9.5}{168}{section.A.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{205}{section*.6}
+\contentsline {chapter}{Bibliography}{207}{section*.6}
