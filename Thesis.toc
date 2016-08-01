@@ -24,21 +24,23 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2.2}The peptide itself: Size does matter, so does lasting long and stability}{7}{subsection.1.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.3}Permation enhancers to open the epithelial barrier}{8}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.3}Permeation enhancers to open the epithelial barrier}{8}{subsection.1.2.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\chapternumberline {2}Measure permeation enhancement}{11}{chapter.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.1}Studies to test peptide absorption}{11}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}Caco-2 monolayers}{12}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.1}Caco-2 monolayers}{13}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.2}Measuring permeability}{13}{subsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.3}Calculating permeability}{13}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.3}Calculating permeability}{14}{subsection.2.1.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}Mechanisms of absorption enhancement in oral formulations}{17}{section.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.1}Preventing and measuring enzymatic degradation}{17}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Article: \textit {The role of citric acid in oral peptide and protein formulations: Relationship between calcium and proteolysis inhibition}}{18}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\chapternumberline {3}Introduction to tools of supervised machine learning}{27}{chapter.3}
 \defcounter {refsection}{0}\relax 
@@ -58,13 +60,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.4}Transient or constant underlying systems}{33}{subsection.3.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.5}Defining training error and prediction}{33}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.5}Defining training and prediction error}{33}{subsection.3.2.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.6}Other cross validation regimes}{34}{subsection.3.2.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.3}Algorithmic models}{35}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}random forest}{37}{section.3.4}
+\contentsline {section}{\numberline {3.4}Random Forest}{37}{section.3.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.1}bagging}{37}{subsection.3.4.1}
 \defcounter {refsection}{0}\relax 
@@ -74,7 +76,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.4}Random subspace regularization}{41}{subsection.3.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.5}Choice of regularization}{41}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.4.5}Final choice of regularization}{43}{subsection.3.4.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\chapternumberline {4}Predict permeation enhancement}{45}{chapter.4}
 \defcounter {refsection}{0}\relax 
@@ -84,35 +86,29 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.0.3}Assumptions of the top-down model}{47}{subsection.4.0.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.0.4}orphan! figure explaining why in-vitro studies over estimate}{49}{subsection.4.0.4}
+\contentsline {section}{\numberline {4.1}Article: In silico modelling of permeation enhancement potency in Caco-2 monolayers based on molecular descriptors and random forest}{49}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.0.5}Molecular descriptors, model complexity and surfactant characteristics}{49}{subsection.4.0.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}orphan figures}{49}{section.4.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Article: In silico modelling of permeation enhancement potency in Caco-2 monolayers based on molecular descriptors and random forest}{49}{section.4.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {5}interpretTheForest}{59}{chapter.5}
+\contentsline {chapter}{\chapternumberline {5}Interpretation of random forest models}{59}{chapter.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.1}Modeling with random forest}{59}{section.5.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.2}One interpretation of interactions}{59}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Other ways to identify interactions}{63}{section.5.3}
+\contentsline {section}{\numberline {5.3}Article: Forest Floor Visualizations of Random Forests}{63}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Article: Forest Floor Visualizations of Random Forests}{63}{section.5.4}
+\contentsline {subsection}{\numberline {5.3.1}Supplementary materials for: Forest Floor Visualizations of Random Forests}{90}{subsection.5.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.1}Supplementary materials for: Forest Floor Visualizations of Random Forests}{90}{subsection.5.4.1}
+\contentsline {chapter}{\chapternumberline {6}Discussion and conclusion}{103}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {6}Selection permeation enhancers}{103}{chapter.6}
+\contentsline {section}{\numberline {6.1}discussion}{103}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.0.1}Is predicted potency the same as insolubility}{103}{subsection.6.0.1}
+\contentsline {subsection}{\numberline {6.1.1}Is predicted potency the same as insolubility}{103}{subsection.6.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.0.2}Uncertainty of predictions}{105}{subsection.6.0.2}
+\contentsline {subsection}{\numberline {6.1.2}Uncertainty of predictions}{105}{subsection.6.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}The correct temperature}{105}{section.6.1}
+\contentsline {section}{\numberline {6.2}Correcting temperature}{105}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Discussion}{105}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Interplay of dissolution rate and insulin permeability}{106}{subsection.6.2.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {appendix}{\chapternumberline {A}An Appendix}{109}{appendix.A}
 \defcounter {refsection}{0}\relax 
@@ -128,7 +124,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {A.2.4}Simple check that random forest can fit interactions}{136}{subsection.A.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.2.5}Interpolation with RF and SVM is near}{139}{subsection.A.2.5}
+\contentsline {subsection}{\numberline {A.2.5}Interpolation with RF and SVM is very similar. Extrapolation is not.}{139}{subsection.A.2.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {A.2.6}How does CART break ties}{143}{subsection.A.2.6}
 \defcounter {refsection}{0}\relax 
@@ -138,7 +134,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {A.2.9}Bootstrapping process of random forest: Sampling proability as function of hyperparameters.}{154}{subsection.A.2.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.2.10}Simple tutorial explaining when log tranforming prior to PCA is reasonable}{157}{subsection.A.2.10}
+\contentsline {subsection}{\numberline {A.2.10}Simple tutorial on log transformation before PCA}{157}{subsection.A.2.10}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {A.2.11}Efficient implementation gini loss function in random forest}{161}{subsection.A.2.11}
 \defcounter {refsection}{0}\relax 

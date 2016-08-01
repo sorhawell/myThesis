@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  1 AUG 2016 00:36
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  1 AUG 2016 23:26
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -1837,7 +1837,21 @@ Package biblatex Info: ... file 'Thesis.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
+(biblatex)                kalivas1997two
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
 (biblatex)                wainer2016comparison
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                delaney2004esol
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1852,27 +1866,6 @@ Package biblatex Warning: The following entry could not be found
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
 (biblatex)                vernon1999insulin
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Mostafa13learning
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                arnolds2010pharmacokinetic
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                kalivas1997two
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1964,7 +1957,7 @@ LaTeX Font Info:    Font shape `EU1/texgyreadventor(0)/m/n' will be
 (Font)              scaled to size 43.20016pt on input line 2.
 LaTeX Font Info:    Font shape `EU1/texgyreadventor(0)/m/n' will be
 (Font)              scaled to size 25.6001pt on input line 2.
-
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1
@@ -1973,7 +1966,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-])
+]
 [2]
 \openout2 = `frontmatter/Preface.aux'.
 
@@ -2025,112 +2018,117 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 5.
  [7]
-Overfull \hbox (1.03998pt too wide) detected at line 107
+Overfull \hbox (1.03998pt too wide) detected at line 101
  []\EU1/texgyreadventor(0)/bx/n/10 103[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 109
+Overfull \hbox (2.59993pt too wide) detected at line 103
  []\EU1/lmr/m/n/10 103[]
  []
 
 
+Overfull \hbox (2.59993pt too wide) detected at line 105
+ []\EU1/lmr/m/n/10 103[]
+ []
+
+
+Overfull \hbox (2.59993pt too wide) detected at line 107
+ []\EU1/lmr/m/n/10 105[]
+ []
+
+
+Overfull \hbox (2.59993pt too wide) detected at line 109
+ []\EU1/lmr/m/n/10 105[]
+ []
+
+
 Overfull \hbox (2.59993pt too wide) detected at line 111
- []\EU1/lmr/m/n/10 105[]
+ []\EU1/lmr/m/n/10 106[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 113
- []\EU1/lmr/m/n/10 105[]
- []
-
-
-Overfull \hbox (2.59993pt too wide) detected at line 115
- []\EU1/lmr/m/n/10 105[]
- []
-
-
-Overfull \hbox (1.03998pt too wide) detected at line 117
+Overfull \hbox (1.03998pt too wide) detected at line 113
  []\EU1/texgyreadventor(0)/bx/n/10 109[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 119
+Overfull \hbox (2.59993pt too wide) detected at line 115
  []\EU1/lmr/m/n/10 109[]
  []
 
 
+Overfull \hbox (2.59993pt too wide) detected at line 117
+ []\EU1/lmr/m/n/10 121[]
+ []
+
+
+Overfull \hbox (2.59993pt too wide) detected at line 119
+ []\EU1/lmr/m/n/10 121[]
+ []
+
+
 Overfull \hbox (2.59993pt too wide) detected at line 121
- []\EU1/lmr/m/n/10 121[]
- []
-
-
-Overfull \hbox (2.59993pt too wide) detected at line 123
- []\EU1/lmr/m/n/10 121[]
- []
-
-
-Overfull \hbox (2.59993pt too wide) detected at line 125
  []\EU1/lmr/m/n/10 125[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 127
+Overfull \hbox (2.59993pt too wide) detected at line 123
  []\EU1/lmr/m/n/10 129[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 129
+Overfull \hbox (2.59993pt too wide) detected at line 125
  []\EU1/lmr/m/n/10 136[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 131
+Overfull \hbox (2.59993pt too wide) detected at line 127
  []\EU1/lmr/m/n/10 139[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 133
+Overfull \hbox (2.59993pt too wide) detected at line 129
  []\EU1/lmr/m/n/10 143[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 135
+Overfull \hbox (2.59993pt too wide) detected at line 131
  []\EU1/lmr/m/n/10 147[]
  []
 
-[8]
-Overfull \hbox (2.59993pt too wide) detected at line 137
+
+Overfull \hbox (2.59993pt too wide) detected at line 133
  []\EU1/lmr/m/n/10 149[]
  []
 
-
-Overfull \hbox (2.59993pt too wide) detected at line 139
+[8]
+Overfull \hbox (2.59993pt too wide) detected at line 135
  []\EU1/lmr/m/n/10 154[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 141
+Overfull \hbox (2.59993pt too wide) detected at line 137
  []\EU1/lmr/m/n/10 157[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 143
+Overfull \hbox (2.59993pt too wide) detected at line 139
  []\EU1/lmr/m/n/10 161[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 145
+Overfull \hbox (2.59993pt too wide) detected at line 141
  []\EU1/lmr/m/n/10 164[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 147
+Overfull \hbox (2.59993pt too wide) detected at line 143
  []\EU1/lmr/m/n/10 168[]
  []
 
 
-Overfull \hbox (1.03998pt too wide) detected at line 149
+Overfull \hbox (1.03998pt too wide) detected at line 145
  []\EU1/texgyreadventor(0)/bx/n/10 207[]
  []
 
@@ -2170,40 +2168,30 @@ LaTeX Warning: Reference `modelComplexity' on page 8 undefined on input line 79
 
 
 ]
+File: graphics/typeOfExperiments.pdf Graphic file (type QTm)
 
-LaTeX Warning: Reference `typeOfExperiment' on page 11 undefined on input line 
-7.
+<use  "graphics/typeOfExperiments.pdf" >
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[][]
+ []
 
 
 Underfull \vbox (badness 1348) has occurred while \output is active []
 
  [11]
+Underfull \vbox (badness 3769) has occurred while \output is active []
 
-LaTeX Warning: Reference `some sectionXXX' on page 12 undefined on input line 1
-3.
-
-
-LaTeX Warning: Reference `typeOfExperiment' on page 12 undefined on input line 
-13.
-
-[12]
-File: graphics/typeOfExperiments.pdf Graphic file (type QTm)
- <use  "graphics/typeOfExperiments.pdf" >
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
-[][]
- []
-
-[13]
-Underfull \vbox (badness 1009) has occurred while \output is active []
-
- [14]
+ [12]
+[13] [14]
 File: graphics/samplingClamping.pdf Graphic file (type QTm)
-
-<use  "graphics/samplingClamping.pdf" > [15]
+ <use  "graphics/samplingClamping.pdf" > [15]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16]
-[17] [18]
+[17]
+LaTeX Font Info:    Font shape `EU1/texgyreadventor(0)/m/it' will be
+(Font)              scaled to size 11.52003pt on input line 77.
+ [18]
 File: chapters/citricAcid.pdf Graphic file (type QTm)
  <use  "chapters/citricAcid.pdf" >
 File: chapters/citricAcid.pdf Graphic file (type QTm)
@@ -2315,9 +2303,13 @@ File: graphics/decisionTreeFit.pdf Graphic file (type QTm)
 File: graphics/allTrees.pdf Graphic file (type QTm)
  <use  "graphics/allTrees.pdf" >
 
-LaTeX Warning: Float too large for page by 85.98825pt on input line 168.
+LaTeX Warning: Float too large for page by 85.98825pt on input line 169.
 
-[41] [42]) [43]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41]
+[42]) [43]
 \openout2 = `chapters/predictPotency.aux'.
 
  (chapters/predictPotency.tex [44
@@ -2330,140 +2322,141 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 6.
 
 File: graphics/predictPotencySummary.pdf Graphic file (type QTm)
-<use  "graphics/predictPotencySummary.pdf" > [45]
+<use  "graphics/predictPotencySummary.pdf" >
+
+LaTeX Warning: Reference `modelMolecules' on page 45 undefined on input line 20
+.
+
+[45]
 Underfull \vbox (badness 4353) has occurred while \output is active []
 
  [46]
 [47]
-File: graphics/develop_fassif.pdf Graphic file (type QTm)
- <use  "graphics/develop_fassif.pdf" >
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [48]
-File: graphics/workSummary_130mm.pdf Graphic file (type QTm)
-
-<use  "graphics/workSummary_130mm.pdf" >
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
-[][]
- []
-
-File: graphics/typeOfSurfactant.pdf Graphic file (type QTm)
-<use  "graphics/typeOfSurfactant.pdf" > [49] [50]
-File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
-
-<use  "chapters/predictPotencyArt.pdf" >
-File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
-
-<use  "chapters/predictPotencyArt.pdf" >
-File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
-
-<use  "chapters/predictPotencyArt.pdf"  page1>
-File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
-
-<use  "chapters/predictPotencyArt.pdf"  page1>
-File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
-
-<use  "chapters/predictPotencyArt.pdf"  page1>
-File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
-
-<use  "chapters/predictPotencyArt.pdf"  page1>
 
 Class memoir Warning: The material used in the headers is too large
 (24.0pt) for the given head height (22.76219pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 77.
+(in both cases you will find help in the memoir manual). on input line 50.
 
 
 Overfull \vbox (1.23781pt too high) has occurred while \output is active []
 
+
+[49]
+File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
+ <use  "chapters/predictPotencyArt.pdf" >
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page1> [51]
+<use  "chapters/predictPotencyArt.pdf" >
+File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
+
+<use  "chapters/predictPotencyArt.pdf"  page1>
+File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
+
+<use  "chapters/predictPotencyArt.pdf"  page1>
+File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
+
+<use  "chapters/predictPotencyArt.pdf"  page1>
+File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
+
+<use  "chapters/predictPotencyArt.pdf"  page1>
+File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
+
+<use  "chapters/predictPotencyArt.pdf"  page1> [50]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page2>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page2>
+Overfull \vbox (1.23781pt too high) has occurred while \output is active []
+
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page2> [52]
+<use  "chapters/predictPotencyArt.pdf"  page2> [51]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page3>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page3>
-Overfull \vbox (1.23781pt too high) has occurred while \output is active []
-
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page3> [53]
+<use  "chapters/predictPotencyArt.pdf"  page3> [52]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page4>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page4>
+Overfull \vbox (1.23781pt too high) has occurred while \output is active []
+
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page4> [54]
+<use  "chapters/predictPotencyArt.pdf"  page4> [53]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page5>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page5>
-Overfull \vbox (1.23781pt too high) has occurred while \output is active []
-
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page5> [55]
+<use  "chapters/predictPotencyArt.pdf"  page5> [54]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page6>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page6>
-File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
-
-<use  "chapters/predictPotencyArt.pdf"  page6> [56]
-File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
-
-<use  "chapters/predictPotencyArt.pdf"  page7>
-File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
-
-<use  "chapters/predictPotencyArt.pdf"  page7>
 Overfull \vbox (1.23781pt too high) has occurred while \output is active []
 
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page7> [57]
+<use  "chapters/predictPotencyArt.pdf"  page6> [55]
+File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
+
+<use  "chapters/predictPotencyArt.pdf"  page7>
+File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
+
+<use  "chapters/predictPotencyArt.pdf"  page7>
+File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
+
+<use  "chapters/predictPotencyArt.pdf"  page7> [56]
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page8>
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
 <use  "chapters/predictPotencyArt.pdf"  page8>
+Overfull \vbox (1.23781pt too high) has occurred while \output is active []
+
 File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 
-<use  "chapters/predictPotencyArt.pdf"  page8> [58])
+<use  "chapters/predictPotencyArt.pdf"  page8> [57])
 \openout2 = `chapters/interpretTheForest.aux'.
 
 
-(chapters/interpretTheForest.tex [59
+(chapters/interpretTheForest.tex [58
 
 
 
-]
+] [59]
 File: graphics/sketch_pyramid_interaction.png Graphic file (type QTm)
 
-<use  "graphics/sketch_pyramid_interaction.png" > [60] [61] [62] [63]
+<use  "graphics/sketch_pyramid_interaction.png" > [60] [61]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62]
+[63]
+File: chapters/forestFloorArt.pdf Graphic file (type QTm)
+ <use  "chapters/forestFloorArt.pdf" >
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf" >
-File: chapters/forestFloorArt.pdf Graphic file (type QTm)
- <use  "chapters/forestFloorArt.pdf" >
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page1>
@@ -2828,23 +2821,19 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 
 (chapters/Conclusion.tex
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 7.
-
 File: graphics/screened_molecules3.pdf Graphic file (type QTm)
-<use  "graphics/screened_molecules3.pdf" >
-Underfull \vbox (badness 1558) has occurred while \output is active []
-
- [103
+ <use  "graphics/screened_molecules3.pdf" > [103
 
 
 
 ]
-[104] [105]) [106] [107]
+[104] [105]
+File: graphics/develop_fassif.pdf Graphic file (type QTm)
+ <use  "graphics/develop_fassif.pdf" > [106]) [107]
 \openout2 = `appendices/AnAppendix.aux'.
 
- (appendices/AnAppendix.tex [108
+
+(appendices/AnAppendix.tex [108
 
 
 
@@ -3833,11 +3822,11 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 49348 strings out of 428410
- 891284 string characters out of 3162139
- 2002403 words of memory out of 3000000
+ 49347 strings out of 428410
+ 891356 string characters out of 3162139
+ 2001030 words of memory out of 3000000
  52020 multiletter control sequences out of 15000+200000
- 49497 words of font info for 78 fonts, out of 3000000 for 9000
+ 49505 words of font info for 79 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  62i,19n,72p,10445b,7108s stack positions out of 5000i,500n,10000p,200000b,50000s
 
