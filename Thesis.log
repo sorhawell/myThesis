@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  1 AUG 2016 23:26
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  2 AUG 2016 00:21
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -1837,13 +1837,6 @@ Package biblatex Info: ... file 'Thesis.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                kalivas1997two
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                wainer2016comparison
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -1858,14 +1851,21 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                monkeys
+(biblatex)                vernon1999insulin
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                vernon1999insulin
+(biblatex)                kalivas1997two
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                monkeys
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -3824,7 +3824,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
 Here is how much of TeX's memory you used:
  49347 strings out of 428410
  891356 string characters out of 3162139
- 2001030 words of memory out of 3000000
+ 2000054 words of memory out of 3000000
  52020 multiletter control sequences out of 15000+200000
  49505 words of font info for 79 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
