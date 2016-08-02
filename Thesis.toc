@@ -40,7 +40,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.1}Preventing and measuring enzymatic degradation}{17}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}Article: \textit {The role of citric acid in oral peptide and protein formulations: Relationship between calcium and proteolysis inhibition}}{18}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Article 1: \textit {The role of citric acid in oral peptide and protein formulations: Relationship between calcium and proteolysis inhibition}}{18}{section.2.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\chapternumberline {3}Introduction to tools of supervised machine learning}{27}{chapter.3}
 \defcounter {refsection}{0}\relax 
@@ -86,7 +86,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.0.3}Assumptions of the top-down model}{47}{subsection.4.0.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Article: In silico modelling of permeation enhancement potency in Caco-2 monolayers based on molecular descriptors and random forest}{49}{section.4.1}
+\contentsline {section}{\numberline {4.1}Article 2: \textit {In silico modelling of permeation enhancement potency in Caco-2 monolayers based on molecular descriptors and random forest}}{49}{section.4.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\chapternumberline {5}Interpretation of random forest models}{59}{chapter.5}
 \defcounter {refsection}{0}\relax 
@@ -94,7 +94,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5.2}One interpretation of interactions}{59}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Article: Forest Floor Visualizations of Random Forests}{63}{section.5.3}
+\contentsline {section}{\numberline {5.3}Article 3: \textit {Forest Floor Visualizations of Random Forests}}{63}{section.5.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.3.1}Supplementary materials for: Forest Floor Visualizations of Random Forests}{90}{subsection.5.3.1}
 \defcounter {refsection}{0}\relax 
@@ -112,7 +112,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {appendix}{\chapternumberline {A}An Appendix}{109}{appendix.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Learning the structure of random forest models in QSAR modelling: Predicting molecular Solubility}{109}{section.A.1}
+\contentsline {section}{\numberline {A.1}Draft: \textit {Learning the structure of random forest models in QSAR modelling: Predicting molecular Solubility}}{109}{section.A.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {A.2}Random forest Q and A answers with illustrations and code examples}{121}{section.A.2}
 \defcounter {refsection}{0}\relax 
