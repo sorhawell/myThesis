@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  2 AUG 2016 15:59
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  2 AUG 2016 21:45
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -1837,20 +1837,6 @@ Package biblatex Info: ... file 'Thesis.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                monkeys
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                vernon1999insulin
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                wainer2016comparison
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -1859,6 +1845,13 @@ Package biblatex Warning: The following entry could not be found
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
 (biblatex)                kalivas1997two
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                monkeys
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -3789,7 +3782,13 @@ Overfull \hbox (52.16328pt too wide) in paragraph at lines 41--41
 decylphosphocholine-
  []
 
-[209] [210]
+[209]
+Overfull \hbox (3.27pt too wide) in paragraph at lines 41--41
+\EU1/lmr/m/n/10 islets of Langerhans entrapped in a poly (N-isopropylacrylamide
+-co-acrylic
+ []
+
+[210]
 
 Class memoir Warning: The material used in the headers is too large
 (24.0pt) for the given head height (22.76219pt), it is recommended to
@@ -3828,10 +3827,10 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 49351 strings out of 428410
- 891591 string characters out of 3162139
- 2001639 words of memory out of 3000000
- 52023 multiletter control sequences out of 15000+200000
+ 49353 strings out of 428410
+ 891677 string characters out of 3162139
+ 2002448 words of memory out of 3000000
+ 52025 multiletter control sequences out of 15000+200000
  49513 words of font info for 80 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  62i,19n,72p,10445b,7108s stack positions out of 5000i,500n,10000p,200000b,50000s

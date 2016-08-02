@@ -40,13 +40,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.1}Preventing and measuring enzymatic degradation}{17}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Article 1: \textit {The role of citric acid in oral peptide and protein formulations: Relationship between calcium and proteolysis inhibition}}{18}{section.2.3}
+\contentsline {section}{\numberline {2.3}Article 1: \textit {The role of citric acid in oral peptide and protein formulations: Relationship between calcium chelation and proteolysis inhibition}}{18}{section.2.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\chapternumberline {3}Introduction to tools of supervised machine learning}{27}{chapter.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}Supervised machine learning to predict and to learn}{27}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Univariate Regression}{29}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.1}Univariate regression}{29}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1.2}Multiple linear regression and interaction terms}{29}{subsection.3.1.2}
 \defcounter {refsection}{0}\relax 
@@ -54,7 +54,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.1}Segregation}{31}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}Unbiased prediction error estimation}{32}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.2}Unbiased estimation of prediction error}{32}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.3}Independent and identical sampling}{32}{subsection.3.2.3}
 \defcounter {refsection}{0}\relax 
@@ -62,7 +62,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.5}Defining training and prediction error}{33}{subsection.3.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.6}Other cross validation regimes}{34}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.6}Other cross-validation regimes}{34}{subsection.3.2.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.3}Algorithmic models}{35}{section.3.3}
 \defcounter {refsection}{0}\relax 

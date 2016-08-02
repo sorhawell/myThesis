@@ -1880,6 +1880,42 @@
       \field{pages}{1977\bibrangedash 1992}
       \range{pages}{16}
     \endentry
+    \entry{vernon1999insulin}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a2779e5de4bca63ba47df73351e97d59}{%
+           family={Vernon},
+           family_i={V\bibinitperiod},
+           given={Brent},
+           given_i={B\bibinitperiod}}}%
+        {{hash=b56d180fac83a4dff4b6e4da0d5d6f95}{%
+           family={Kim},
+           family_i={K\bibinitperiod},
+           given={Sung\bibnamedelima Wan},
+           given_i={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=226fc70b970ac034d991c5ec187a2af8}{%
+           family={Bae},
+           family_i={B\bibinitperiod},
+           given={You\bibnamedelima Han},
+           given_i={Y\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{ba7d7d50f922af3c432642d08eec3083}
+      \strng{fullhash}{ba7d7d50f922af3c432642d08eec3083}
+      \field{labelalpha}{VKB99}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Biomaterials Science, Polymer Edition}
+      \field{number}{2}
+      \field{title}{Insulin release from islets of Langerhans entrapped in a poly (N-isopropylacrylamide-co-acrylic acid) polymer gel}
+      \field{volume}{10}
+      \field{year}{1999}
+      \field{pages}{183\bibrangedash 198}
+      \range{pages}{16}
+    \endentry
     \entry{welling2014citric}{article}{}
       \name{author}{6}{}{%
         {{hash=3ead32097c8b54cb701a25948abf7750}{%
@@ -2100,10 +2136,9 @@
       \range{pages}{7}
     \endentry
   \endsortlist
-  \missing{monkeys}
-  \missing{vernon1999insulin}
   \missing{wainer2016comparison}
   \missing{kalivas1997two}
+  \missing{monkeys}
 \endrefsection
 \endinput
 
