@@ -100,15 +100,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\chapternumberline {6}Discussion and conclusion}{103}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}discussion}{103}{section.6.1}
+\contentsline {subsection}{\numberline {6.0.1}Is predicted potency the same as insolubility}{103}{subsection.6.0.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.1}Is predicted potency the same as insolubility}{103}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.0.2}Uncertainty of predictions}{105}{subsection.6.0.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1.2}Uncertainty of predictions}{105}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.0.3}Interplay of dissolution rate and insulin permeability}{105}{subsection.6.0.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Correcting temperature}{105}{section.6.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.1}Interplay of dissolution rate and insulin permeability}{106}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.0.4}Interpretation of random forest}{107}{subsection.6.0.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {appendix}{\chapternumberline {A}An Appendix}{109}{appendix.A}
 \defcounter {refsection}{0}\relax 

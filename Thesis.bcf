@@ -2203,10 +2203,11 @@
     <bcf:citekey order="87">palmer2007random</bcf:citekey>
     <bcf:citekey order="88">klimenko2016novel</bcf:citekey>
     <bcf:citekey order="89">tippin2008biorelevant</bcf:citekey>
+    <bcf:citekey order="89">nawroth2011liposome</bcf:citekey>
     <bcf:citekey order="90">tippin2008biorelevant</bcf:citekey>
     <bcf:citekey order="90">nawroth2011liposome</bcf:citekey>
     <bcf:citekey order="91">tippin2008biorelevant</bcf:citekey>
-    <bcf:citekey order="91">nawroth2011liposome</bcf:citekey>
+    <bcf:citekey order="92">rosen2012surfactants</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="anyt/global/" type="entry" sortscheme="anyt" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

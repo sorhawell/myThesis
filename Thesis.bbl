@@ -759,6 +759,32 @@
       \field{title}{Glucosuria}
       \field{year}{1990}
     \endentry
+    \entry{delaney2004esol}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ca7fc0ebf947594cdffdf6553cbc41f1}{%
+           family={Delaney},
+           family_i={D\bibinitperiod},
+           given={John\bibnamedelima S},
+           given_i={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{ca7fc0ebf947594cdffdf6553cbc41f1}
+      \strng{fullhash}{ca7fc0ebf947594cdffdf6553cbc41f1}
+      \field{labelalpha}{Del04}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of chemical information and computer sciences}
+      \field{number}{3}
+      \field{title}{ESOL: estimating aqueous solubility directly from molecular structure}
+      \field{volume}{44}
+      \field{year}{2004}
+      \field{pages}{1000\bibrangedash 1005}
+      \range{pages}{6}
+    \endentry
     \entry{friedman2001elements}{book}{}
       \name{author}{3}{}{%
         {{hash=971cf69058b64a94326dea0f2a8bbcce}{%
@@ -2076,9 +2102,8 @@
   \endsortlist
   \missing{monkeys}
   \missing{vernon1999insulin}
-  \missing{kalivas1997two}
-  \missing{delaney2004esol}
   \missing{wainer2016comparison}
+  \missing{kalivas1997two}
 \endrefsection
 \endinput
 

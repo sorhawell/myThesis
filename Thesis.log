@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  2 AUG 2016 14:28
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.6.7)  2 AUG 2016 15:59
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -1851,21 +1851,14 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                kalivas1997two
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                delaney2004esol
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                wainer2016comparison
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                kalivas1997two
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -2029,7 +2022,7 @@ Overfull \hbox (2.59993pt too wide) detected at line 103
 
 
 Overfull \hbox (2.59993pt too wide) detected at line 105
- []\EU1/lmr/m/n/10 103[]
+ []\EU1/lmr/m/n/10 105[]
  []
 
 
@@ -2039,22 +2032,22 @@ Overfull \hbox (2.59993pt too wide) detected at line 107
 
 
 Overfull \hbox (2.59993pt too wide) detected at line 109
- []\EU1/lmr/m/n/10 105[]
+ []\EU1/lmr/m/n/10 107[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 111
- []\EU1/lmr/m/n/10 106[]
- []
-
-
-Overfull \hbox (1.03998pt too wide) detected at line 113
+Overfull \hbox (1.03998pt too wide) detected at line 111
  []\EU1/texgyreadventor(0)/bx/n/10 109[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 115
+Overfull \hbox (2.59993pt too wide) detected at line 113
  []\EU1/lmr/m/n/10 109[]
+ []
+
+
+Overfull \hbox (2.59993pt too wide) detected at line 115
+ []\EU1/lmr/m/n/10 121[]
  []
 
 
@@ -2064,71 +2057,66 @@ Overfull \hbox (2.59993pt too wide) detected at line 117
 
 
 Overfull \hbox (2.59993pt too wide) detected at line 119
- []\EU1/lmr/m/n/10 121[]
- []
-
-
-Overfull \hbox (2.59993pt too wide) detected at line 121
  []\EU1/lmr/m/n/10 125[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 123
+Overfull \hbox (2.59993pt too wide) detected at line 121
  []\EU1/lmr/m/n/10 129[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 125
+Overfull \hbox (2.59993pt too wide) detected at line 123
  []\EU1/lmr/m/n/10 136[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 127
+Overfull \hbox (2.59993pt too wide) detected at line 125
  []\EU1/lmr/m/n/10 139[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 129
+Overfull \hbox (2.59993pt too wide) detected at line 127
  []\EU1/lmr/m/n/10 143[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 131
+Overfull \hbox (2.59993pt too wide) detected at line 129
  []\EU1/lmr/m/n/10 147[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 133
+Overfull \hbox (2.59993pt too wide) detected at line 131
  []\EU1/lmr/m/n/10 149[]
  []
 
 [8]
-Overfull \hbox (2.59993pt too wide) detected at line 135
+Overfull \hbox (2.59993pt too wide) detected at line 133
  []\EU1/lmr/m/n/10 154[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 137
+Overfull \hbox (2.59993pt too wide) detected at line 135
  []\EU1/lmr/m/n/10 157[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 139
+Overfull \hbox (2.59993pt too wide) detected at line 137
  []\EU1/lmr/m/n/10 161[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 141
+Overfull \hbox (2.59993pt too wide) detected at line 139
  []\EU1/lmr/m/n/10 164[]
  []
 
 
-Overfull \hbox (2.59993pt too wide) detected at line 143
+Overfull \hbox (2.59993pt too wide) detected at line 141
  []\EU1/lmr/m/n/10 168[]
  []
 
 
-Overfull \hbox (1.03998pt too wide) detected at line 145
+Overfull \hbox (1.03998pt too wide) detected at line 143
  []\EU1/texgyreadventor(0)/bx/n/10 207[]
  []
 
@@ -2832,19 +2820,26 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 
 (chapters/Conclusion.tex
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 6.
+
 File: graphics/screened_molecules3.pdf Graphic file (type QTm)
- <use  "graphics/screened_molecules3.pdf" > [103
+<use  "graphics/screened_molecules3.pdf" > [103
 
 
 
-]
-[104] [105]
+] [104] [105]
 File: graphics/develop_fassif.pdf Graphic file (type QTm)
- <use  "graphics/develop_fassif.pdf" > [106]) [107]
+
+<use  "graphics/develop_fassif.pdf" >
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [106])
+[107]
 \openout2 = `appendices/AnAppendix.aux'.
 
-
-(appendices/AnAppendix.tex [108
+ (appendices/AnAppendix.tex [108
 
 
 
@@ -3833,10 +3828,10 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 49350 strings out of 428410
- 891517 string characters out of 3162139
- 2001086 words of memory out of 3000000
- 52022 multiletter control sequences out of 15000+200000
+ 49351 strings out of 428410
+ 891591 string characters out of 3162139
+ 2001639 words of memory out of 3000000
+ 52023 multiletter control sequences out of 15000+200000
  49513 words of font info for 80 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  62i,19n,72p,10445b,7108s stack positions out of 5000i,500n,10000p,200000b,50000s
