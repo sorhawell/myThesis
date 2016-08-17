@@ -50,6 +50,31 @@
       \field{pages}{392\bibrangedash 398}
       \range{pages}{7}
     \endentry
+    \entry{Mostafa2013learning}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=53c85824653717363fbaae9fc28fcc58}{%
+           family={Abu-Mostafa},
+           family_i={A\bibinithyphendelim M\bibinitperiod},
+           given={Yasar},
+           given_i={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {California Institute of Technology}%
+      }
+      \strng{namehash}{53c85824653717363fbaae9fc28fcc58}
+      \strng{fullhash}{53c85824653717363fbaae9fc28fcc58}
+      \field{labelalpha}{Abu12}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{08}
+      \field{title}{Learning from Data: The learning problem}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://work.caltech.edu/lectures.html
+      \endverb
+    \endentry
     \entry{aguiree2013idf}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -231,6 +256,47 @@
       \field{year}{1992}
       \field{pages}{879\bibrangedash 887}
       \range{pages}{9}
+    \endentry
+    \entry{arnolds2010pharmacokinetic}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e7e231da829383ccf5dab26ca7f4b19f}{%
+           family={Arnolds},
+           family_i={A\bibinitperiod},
+           given={Sabine},
+           given_i={S\bibinitperiod}}}%
+        {{hash=afca7ed189b0ee50c5e40646389aa7ce}{%
+           family={Kuglin},
+           family_i={K\bibinitperiod},
+           given={Bernd},
+           given_i={B\bibinitperiod}}}%
+        {{hash=217c8b409d1cd05714a0aa47f9dd7e16}{%
+           family={Kapitza},
+           family_i={K\bibinitperiod},
+           given={Christoph},
+           given_i={C\bibinitperiod}}}%
+        {{hash=dce0bf1d8442f718074075676942fa42}{%
+           family={Heise},
+           family_i={H\bibinitperiod},
+           given={Tim},
+           given_i={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{7216e9620bc02a6c737db0d5b57dc195}
+      \strng{fullhash}{65c626d38c3084ee601b5acd6a94ae90}
+      \field{labelalpha}{Arn+10}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal of clinical practice}
+      \field{number}{10}
+      \field{title}{How pharmacokinetic and pharmacodynamic principles pave the way for optimal basal insulin therapy in type 2 diabetes}
+      \field{volume}{64}
+      \field{year}{2010}
+      \field{pages}{1415\bibrangedash 1424}
+      \range{pages}{10}
     \endentry
     \entry{artursson1994effect}{article}{}
       \name{author}{4}{}{%
@@ -693,6 +759,32 @@
       \field{title}{Glucosuria}
       \field{year}{1990}
     \endentry
+    \entry{delaney2004esol}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ca7fc0ebf947594cdffdf6553cbc41f1}{%
+           family={Delaney},
+           family_i={D\bibinitperiod},
+           given={John\bibnamedelima S},
+           given_i={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{ca7fc0ebf947594cdffdf6553cbc41f1}
+      \strng{fullhash}{ca7fc0ebf947594cdffdf6553cbc41f1}
+      \field{labelalpha}{Del04}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of chemical information and computer sciences}
+      \field{number}{3}
+      \field{title}{ESOL: estimating aqueous solubility directly from molecular structure}
+      \field{volume}{44}
+      \field{year}{2004}
+      \field{pages}{1000\bibrangedash 1005}
+      \range{pages}{6}
+    \endentry
     \entry{friedman2001elements}{book}{}
       \name{author}{3}{}{%
         {{hash=971cf69058b64a94326dea0f2a8bbcce}{%
@@ -974,27 +1066,6 @@
       \field{pages}{143\bibrangedash 152}
       \range{pages}{10}
     \endentry
-    \entry{harrell2015regression}{book}{}
-      \name{author}{1}{}{%
-        {{hash=1697ec242505ee7621a396a1fd69a8ed}{%
-           family={Harrell},
-           family_i={H\bibinitperiod},
-           given={Frank},
-           given_i={F\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{1697ec242505ee7621a396a1fd69a8ed}
-      \strng{fullhash}{1697ec242505ee7621a396a1fd69a8ed}
-      \field{labelalpha}{Har15}
-      \field{sortinit}{H}
-      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Regression modeling strategies: with applications to linear models, logistic and ordinal regression, and survival analysis}
-      \field{year}{2015}
-    \endentry
     \entry{holman}{article}{}
       \name{author}{5}{}{%
         {{hash=37b1a9fff796a6e48e099a1b1826bb7c}{%
@@ -1091,52 +1162,6 @@
       \field{year}{2014}
       \field{pages}{251\bibrangedash 258}
       \range{pages}{8}
-    \endentry
-    \entry{ishwaran2010high}{article}{}
-      \name{author}{5}{}{%
-        {{hash=87b2e79f8f2ab0a4040e84b52fbe2710}{%
-           family={Ishwaran},
-           family_i={I\bibinitperiod},
-           given={Hemant},
-           given_i={H\bibinitperiod}}}%
-        {{hash=cd3edc2b8ca06eab862bd5746a607cca}{%
-           family={Kogalur},
-           family_i={K\bibinitperiod},
-           given={Udaya\bibnamedelima B},
-           given_i={U\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=76c4f5fbdcdf8068ad1035ac8210917a}{%
-           family={Gorodeski},
-           family_i={G\bibinitperiod},
-           given={Eiran\bibnamedelima Z},
-           given_i={E\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
-        {{hash=9463398a7ed4fae92410853e9c76badc}{%
-           family={Minn},
-           family_i={M\bibinitperiod},
-           given={Andy\bibnamedelima J},
-           given_i={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=482d2c19706d7b949cfdcdab5a8d0220}{%
-           family={Lauer},
-           family_i={L\bibinitperiod},
-           given={Michael\bibnamedelima S},
-           given_i={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Taylor \& Francis}%
-      }
-      \strng{namehash}{d5ed18c6858d0afbb29689256bccf9b0}
-      \strng{fullhash}{9e4c86ec3e3dd4c71b9115bd0ec2eb89}
-      \field{labelalpha}{Ish+10}
-      \field{sortinit}{I}
-      \field{sortinithash}{25e99d37ba90f7c4fb20baf4e310faf3}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of the American Statistical Association}
-      \field{number}{489}
-      \field{title}{High-dimensional variable selection for survival data}
-      \field{volume}{105}
-      \field{year}{2010}
-      \field{pages}{205\bibrangedash 217}
-      \range{pages}{13}
     \endentry
     \entry{johnson2015keeping}{article}{}
       \name{author}{6}{}{%
@@ -1356,6 +1381,28 @@
       \field{title}{A Short Introduction to the caret Package}
       \field{volume}{6}
       \field{year}{2015}
+    \endentry
+    \entry{le2010performance}{book}{}
+      \name{author}{1}{}{%
+        {{hash=efa89391bef869704cf9f1fd4df71100}{%
+           family={Le\bibnamedelima Boudec},
+           family_i={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Jean-Yves},
+           given_i={J\bibinithyphendelim Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Epfl Press}%
+      }
+      \strng{namehash}{efa89391bef869704cf9f1fd4df71100}
+      \strng{fullhash}{efa89391bef869704cf9f1fd4df71100}
+      \field{labelalpha}{Le 10}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{2}
+      \field{title}{Performance evaluation of computer and communication systems}
+      \field{year}{2010}
     \endentry
     \entry{lichman2013uci}{misc}{}
       \name{author}{1}{}{%
@@ -1833,6 +1880,42 @@
       \field{pages}{1977\bibrangedash 1992}
       \range{pages}{16}
     \endentry
+    \entry{vernon1999insulin}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a2779e5de4bca63ba47df73351e97d59}{%
+           family={Vernon},
+           family_i={V\bibinitperiod},
+           given={Brent},
+           given_i={B\bibinitperiod}}}%
+        {{hash=b56d180fac83a4dff4b6e4da0d5d6f95}{%
+           family={Kim},
+           family_i={K\bibinitperiod},
+           given={Sung\bibnamedelima Wan},
+           given_i={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=226fc70b970ac034d991c5ec187a2af8}{%
+           family={Bae},
+           family_i={B\bibinitperiod},
+           given={You\bibnamedelima Han},
+           given_i={Y\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{ba7d7d50f922af3c432642d08eec3083}
+      \strng{fullhash}{ba7d7d50f922af3c432642d08eec3083}
+      \field{labelalpha}{VKB99}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Biomaterials Science, Polymer Edition}
+      \field{number}{2}
+      \field{title}{Insulin release from islets of Langerhans entrapped in a poly (N-isopropylacrylamide-co-acrylic acid) polymer gel}
+      \field{volume}{10}
+      \field{year}{1999}
+      \field{pages}{183\bibrangedash 198}
+      \range{pages}{16}
+    \endentry
     \entry{welling2014citric}{article}{}
       \name{author}{6}{}{%
         {{hash=3ead32097c8b54cb701a25948abf7750}{%
@@ -2053,12 +2136,9 @@
       \range{pages}{7}
     \endentry
   \endsortlist
-  \missing{arnolds2010pharmacokinetic}
-  \missing{monkeys}
   \missing{wainer2016comparison}
   \missing{kalivas1997two}
-  \missing{vernon1999insulin}
-  \missing{Mostafa13learning}
+  \missing{monkeys}
 \endrefsection
 \endinput
 
