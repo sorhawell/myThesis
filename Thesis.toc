@@ -56,7 +56,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.2}Unbiased estimation of prediction error}{32}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}Independent and identical sampling}{32}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.3}Independent and identical sampling}{33}{subsection.3.2.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.4}Transient or constant underlying systems}{33}{subsection.3.2.4}
 \defcounter {refsection}{0}\relax 
@@ -66,9 +66,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.3}Algorithmic models}{35}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Random Forest}{37}{section.3.4}
+\contentsline {section}{\numberline {3.4}Random Forest}{36}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}bagging}{37}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.1}bagging}{36}{subsection.3.4.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4.2}Introduction to decision trees}{37}{subsection.3.4.2}
 \defcounter {refsection}{0}\relax 
