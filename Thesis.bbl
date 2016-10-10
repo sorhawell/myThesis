@@ -1298,6 +1298,34 @@
       \field{title}{Thinking, fast and slow}
       \field{year}{2011}
     \endentry
+    \entry{kalivas1997two}{article}{}
+      \name{author}{1}{}{%
+        {{hash=509a8d9ddcab65c65707c3bc63e5d766}{%
+           family={Kalivas},
+           familyi={K\bibinitperiod},
+           given={John\bibnamedelima H},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{509a8d9ddcab65c65707c3bc63e5d766}
+      \strng{fullhash}{509a8d9ddcab65c65707c3bc63e5d766}
+      \strng{authornamehash}{509a8d9ddcab65c65707c3bc63e5d766}
+      \strng{authorfullhash}{509a8d9ddcab65c65707c3bc63e5d766}
+      \field{labelalpha}{Kal97}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemometrics and Intelligent Laboratory Systems}
+      \field{number}{2}
+      \field{title}{Two data sets of near infrared spectra}
+      \field{volume}{37}
+      \field{year}{1997}
+      \field{pages}{255\bibrangedash 259}
+      \range{pages}{5}
+    \endentry
     \entry{klimenko2016novel}{article}{}
       \name{author}{10}{}{%
         {{hash=5e3732ee142f674b58d2e0b909bcbc61}{%
@@ -2115,7 +2143,7 @@
       \field{title}{Forest Floor Visualizations of Random Forests}
       \field{year}{2016}
     \endentry
-    \entry{wiki:Lucus}{misc}{}
+    \entry{wiki:monkeys}{misc}{}
       \name{author}{1}{}{%
         {{hash=9c677286866aad38f8e9b660f5411814}{%
            family={Wikipedia},
@@ -2129,6 +2157,52 @@
       \field{sortinit}{W}
       \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
       \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 17-July-2016]}
+      \field{title}{Infinite monkey theorem --- Wikipedia{,} The Free Encyclopedia}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Infinite_monkey_theorem&oldid=727195787
+      \endverb
+    \endentry
+    \entry{wiki:gamblers}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{labelalpha}{Wik16}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 16-April-2016]}
+      \field{title}{Inverse gambler's fallacy --- Wikipedia{,} The Free Encyclopedia}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Inverse_gambler%27s_fallacy&oldid=715598229
+      \endverb
+    \endentry
+    \entry{wiki:Lucus}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{labelalpha}{Wik16}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{extraalpha}{3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{[Online; accessed 17-July-2016]}
@@ -2151,7 +2225,7 @@
       \field{labelalpha}{Wik16}
       \field{sortinit}{W}
       \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
-      \field{extraalpha}{2}
+      \field{extraalpha}{4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{[Online; accessed 12-July-2016]}
@@ -2231,10 +2305,6 @@
       \range{pages}{7}
     \endentry
   \endsortlist
-  \missing{wainer2016comparison}
-  \missing{monkeys}
-  \missing{wiki:gamblers}
-  \missing{kalivas1997two}
 \endrefsection
 \endinput
 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.10.6)  10 OCT 2016 11:49
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.10.6)  10 OCT 2016 15:38
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -1868,39 +1868,11 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Thesis.bbl' found.
- (Thesis.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                wainer2016comparison
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                monkeys
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                wiki:gamblers
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                kalivas1997two
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+ (Thesis.bbl)
 Package biblatex Info: Reference section=0 on input line 10.
 Package biblatex Info: Reference segment=0 on input line 10.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
@@ -2467,16 +2439,12 @@ File: chapters/predictPotencyArt.pdf Graphic file (type QTm)
 ] [59]
 File: graphics/sketch_pyramid_interaction.png Graphic file (type QTm)
 
-<use  "graphics/sketch_pyramid_interaction.png" > [60] [61]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [62]
-[63]
-File: chapters/forestFloorArt.pdf Graphic file (type QTm)
- <use  "chapters/forestFloorArt.pdf" >
+<use  "graphics/sketch_pyramid_interaction.png" > [60] [61] [62] [63]
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf" >
+File: chapters/forestFloorArt.pdf Graphic file (type QTm)
+ <use  "chapters/forestFloorArt.pdf" >
 File: chapters/forestFloorArt.pdf Graphic file (type QTm)
 
 <use  "chapters/forestFloorArt.pdf"  page1>
@@ -3817,6 +3785,12 @@ Overfull \hbox (3.27pt too wide) in paragraph at lines 41--41
  []
 
 [210]
+Overfull \hbox (6.05pt too wide) in paragraph at lines 41--41
+[][][] [] [] [] [][][][][] [] [][][] [] [][][][][] [] [][][][][][][][] [] [][][
+][][][] [] [][][][][][][] [] [][][][][] [] [][][][][][][][][]$[]\EU1/lmr/m/n/10
+ . 
+ []
+
 
 Class memoir Warning: The material used in the headers is too large
 (24.0pt) for the given head height (22.76219pt), it is recommended to
@@ -3851,10 +3825,10 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 49767 strings out of 428408
- 903124 string characters out of 3159514
- 2025785 words of memory out of 3000000
- 52450 multiletter control sequences out of 15000+200000
+ 49772 strings out of 428408
+ 903348 string characters out of 3159514
+ 2027426 words of memory out of 3000000
+ 52455 multiletter control sequences out of 15000+200000
  49513 words of font info for 80 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  62i,19n,72p,10445b,7520s stack positions out of 5000i,500n,10000p,200000b,50000s
