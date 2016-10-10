@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.10.6)  10 OCT 2016 15:38
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.10.6)  10 OCT 2016 16:08
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -397,8 +397,8 @@ Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
 ))
 
 ******************************************************
-Stock height and width: 845.04684pt by 597.50787pt
-Top and edge trims: 66.86397pt and 48.36969pt
+Stock height and width: 711.3189pt by 500.7685pt
+Top and edge trims: 0pt and 0pt
 Page height and width: 711.3189pt by 500.7685pt
 Text height and width: 526pt by 369pt
 Spine and edge margins: 73.97716pt and 56.9055pt
@@ -406,7 +406,7 @@ Upper and lower margins: 99.58464pt and 85.73425pt
 Headheight and headsep: 22.76219pt and 19.91692pt
 Footskip: 28.45274pt
 Columnsep and columnseprule: 10pt and 0pt
-Marginparsep and marginparwidth: 10pt and 95pt
+Marginparsep and marginparwidth: 5.69054pt and 45.52443pt
 Sidecapsep and sidecapwidth: 7pt and 59pt
 Sidebarhsep and sidebarwidth: 7pt and 59pt
 Sidebarvsep and sidebartopsep: 12pt and 0pt
@@ -1915,24 +1915,13 @@ Overfull \hbox (22.25298pt too wide) in paragraph at lines 12--23
  orally administered therapeutic
  []
 
-)
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 13.
-
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\euenc\eu1lmtt.fd"
-File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Package microtype Info: Loading generic settings for font family
-(microtype)             `lmtt' (encoding: EU1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
- [1
+) [1
 
 
 ]
 \openout2 = `prefrontmatter/colophon.aux'.
 
-
-(prefrontmatter/colophon.tex
+ (prefrontmatter/colophon.tex
 LaTeX Font Info:    Font shape `EU1/texgyreadventor(0)/m/n' will be
 (Font)              scaled to size 7.20003pt on input line 7.
 LaTeX Font Info:    Font shape `EU1/texgyreadventor(0)/bx/n' will be
@@ -2133,6 +2122,15 @@ Overfull \hbox (1.03998pt too wide) detected at line 143
 \openout2 = `chapters/Introduction_rettet.aux'.
 
  (chapters/Introduction_rettet.tex
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 7.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\euenc\eu1lmtt.fd"
+File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmtt' (encoding: EU1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 7.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -3825,11 +3823,11 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 49772 strings out of 428408
- 903348 string characters out of 3159514
- 2027426 words of memory out of 3000000
- 52455 multiletter control sequences out of 15000+200000
- 49513 words of font info for 80 fonts, out of 3000000 for 9000
+ 49768 strings out of 428408
+ 903271 string characters out of 3159514
+ 2027527 words of memory out of 3000000
+ 52453 multiletter control sequences out of 15000+200000
+ 49505 words of font info for 79 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  62i,19n,72p,10445b,7520s stack positions out of 5000i,500n,10000p,200000b,50000s
 
