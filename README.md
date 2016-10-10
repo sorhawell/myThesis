@@ -1,6 +1,4 @@
 # myThesis
-my phd thesis
-
 To develop a successful an oral formulation of insulin for treatment of type-2 diabetes
 patients would be a great mile stone in terms of convenience. Besides protecting
 insulin from enzymatic cleavage in the small intestine, the formulation must overcome
