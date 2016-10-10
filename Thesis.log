@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.10.6)  10 OCT 2016 16:08
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.10.6)  10 OCT 2016 16:46
 entering extended mode
 **./Thesis.tex
 (Thesis.tex
@@ -2308,9 +2308,6 @@ File: graphics/decisionTreeFit.pdf Graphic file (type QTm)
 <use  "graphics/decisionTreeFit.pdf" > [40]
 File: graphics/allTrees.pdf Graphic file (type QTm)
  <use  "graphics/allTrees.pdf" >
-
-LaTeX Warning: Float too large for page by 85.98825pt on input line 169.
-
 [41] [42]) [43]
 \openout2 = `chapters/predictPotency.aux'.
 
@@ -2810,6 +2807,10 @@ File: chapters/supplementaryForestFloor.pdf Graphic file (type QTm)
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 6.
+
+
+LaTeX Warning: Reference `predPerm:workflow' on page 103 undefined on input lin
+e 9.
 
 File: graphics/screened_molecules3.pdf Graphic file (type QTm)
 <use  "graphics/screened_molecules3.pdf" > [103
@@ -3817,16 +3818,20 @@ Package cleveref Info: loaded `english' language definitions on input line 26.
 (chapters/Conclusion.aux) (appendices/AnAppendix.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 42.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 42.
+
+
+LaTeX Warning: There were undefined references.
+
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
 \openout1 = `Thesis.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
  ) 
 Here is how much of TeX's memory you used:
- 49768 strings out of 428408
- 903271 string characters out of 3159514
- 2027527 words of memory out of 3000000
- 52453 multiletter control sequences out of 15000+200000
+ 49767 strings out of 428408
+ 903247 string characters out of 3159514
+ 2027430 words of memory out of 3000000
+ 52452 multiletter control sequences out of 15000+200000
  49505 words of font info for 79 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  62i,19n,72p,10445b,7520s stack positions out of 5000i,500n,10000p,200000b,50000s
